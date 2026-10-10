@@ -297,3 +297,33 @@
 ### 怎样改变光？
 ![怎样改变光？](g2-c9-inquiry-change-light.png)
 [PDF版本](g2-c9-inquiry-change-light.pdf)
+
+---
+
+### 怎样测量力？
+![怎样测量力？](g2-c10-guided-measure-force.png)
+[PDF版本](g2-c10-guided-measure-force.pdf)
+
+---
+
+### 磁铁能做什么？
+![磁铁能做什么？](g2-c10-inquiry-magnets.png)
+[PDF版本](g2-c10-inquiry-magnets.pdf)
+
+---
+
+### 怎样发出声音？
+![怎样发出声音？](g2-c11-guided-make-sound.png)
+[PDF版本](g2-c11-guided-make-sound.pdf)
+
+---
+
+### 怎样改变声音？
+![怎样改变声音？](g2-c11-inquiry-change-sound.png)
+[PDF版本](g2-c11-inquiry-change-sound.pdf)
+
+---
+
+### 什么能清楚地反射光？
+![什么能清楚地反射光？](g2-c11-full-reflect-light.png)
+[PDF版本](g2-c11-full-reflect-light.pdf)
