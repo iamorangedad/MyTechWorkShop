@@ -395,3 +395,33 @@
 ### 霉菌需要食物吗？
 ![霉菌需要食物吗？](g3-c3-inquiry-mold-food.png)
 [PDF版本](g3-c3-inquiry-mold-food.pdf)
+
+---
+
+### 鼠妇怎样保护自己？
+![鼠妇怎样保护自己？](g3-c4-guided-pill-bug.png)
+[PDF版本](g3-c4-guided-pill-bug.pdf)
+
+---
+
+### 没有捕食者会怎样？
+![没有捕食者会怎样？](g3-c4-inquiry-no-predators.png)
+[PDF版本](g3-c4-inquiry-no-predators.pdf)
+
+---
+
+### 圆蛛怎样在网上走？
+![圆蛛怎样在网上走？](g3-c4-full-orb-spider-web.png)
+[PDF版本](g3-c4-full-orb-spider-web.pdf)
+
+---
+
+### 地球的水在哪里？
+![地球的水在哪里？](g3-c5-guided-earth-water.png)
+[PDF版本](g3-c5-guided-earth-water.pdf)
+
+---
+
+### 怎样做水循环模型？
+![怎样做水循环模型？](g3-c5-inquiry-water-cycle-model.png)
+[PDF版本](g3-c5-inquiry-water-cycle-model.pdf)
