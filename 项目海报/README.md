@@ -273,3 +273,27 @@
 ### 哪里的脚印最清楚？
 ![哪里的脚印最清楚？](g2-c7-full-clearest-print.png)
 [PDF版本](g2-c7-full-clearest-print.pdf)
+
+---
+
+### 油和水混在一起会怎样？
+![油和水混在一起会怎样？](g2-c8-guided-oil-water.png)
+[PDF版本](g2-c8-guided-oil-water.pdf)
+
+---
+
+### 水会怎样变化？
+![水会怎样变化？](g2-c8-inquiry-water-changes.png)
+[PDF版本](g2-c8-inquiry-water-changes.pdf)
+
+---
+
+### 哪种颜色热得快？
+![哪种颜色热得快？](g2-c9-guided-color-heat.png)
+[PDF版本](g2-c9-guided-color-heat.pdf)
+
+---
+
+### 怎样改变光？
+![怎样改变光？](g2-c9-inquiry-change-light.png)
+[PDF版本](g2-c9-inquiry-change-light.pdf)
