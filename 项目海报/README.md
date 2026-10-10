@@ -503,3 +503,45 @@
 ### 怎样分开混合物？
 ![怎样分开混合物？](g3-c11-inquiry-separate-mixture.png)
 [PDF版本](g3-c11-inquiry-separate-mixture.pdf)
+
+---
+
+### 怎样描述运动？
+![怎样描述运动？](g3-c12-guided-describe-motion.png)
+[PDF版本](g3-c12-guided-describe-motion.pdf)
+
+---
+
+### 拉动它要用多少力？
+![拉动它要用多少力？](g3-c12-inquiry-how-much-force.png)
+[PDF版本](g3-c12-inquiry-how-much-force.pdf)
+
+---
+
+### 电能发光又发热吗？
+![电能发光又发热吗？](g3-c13-guided-light-heat.png)
+[PDF版本](g3-c13-guided-light-heat.pdf)
+
+---
+
+### 盐水冰化得一样快吗？
+![盐水冰化得一样快吗？](g3-c13-inquiry-salt-ice.png)
+[PDF版本](g3-c13-inquiry-salt-ice.pdf)
+
+---
+
+### 怎样看到声音的振动？
+![怎样看到声音的振动？](g3-c14-guided-see-vibration.png)
+[PDF版本](g3-c14-guided-see-vibration.pdf)
+
+---
+
+### 声音能穿过什么？
+![声音能穿过什么？](g3-c14-inquiry-sound-materials.png)
+[PDF版本](g3-c14-inquiry-sound-materials.pdf)
+
+---
+
+### 坡越高跑得越远吗？
+![坡越高跑得越远吗？](g3-c14-full-energy-toy-car.png)
+[PDF版本](g3-c14-full-energy-toy-car.pdf)
