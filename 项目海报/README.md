@@ -16,8 +16,8 @@
 
 ---
 
-### 虫卵会变吗？
-![虫卵会变吗？](g1-c1-inquiry-brine-shrimp.png)
+### 卤虫卵会变吗？
+![卤虫卵会变吗？](g1-c1-inquiry-brine-shrimp.png)
 [PDF版本](g1-c1-inquiry-brine-shrimp.pdf)
 
 ---
