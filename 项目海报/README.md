@@ -327,3 +327,33 @@
 ### 什么能清楚地反射光？
 ![什么能清楚地反射光？](g2-c11-full-reflect-light.png)
 [PDF版本](g2-c11-full-reflect-light.pdf)
+
+---
+
+### 为什么有白天和黑夜？
+![为什么有白天和黑夜？](g2-c12-guided-day-night.png)
+[PDF版本](g2-c12-guided-day-night.pdf)
+
+---
+
+### 怎样做星座模型？
+![怎样做星座模型？](g2-c12-inquiry-constellation-model.png)
+[PDF版本](g2-c12-inquiry-constellation-model.pdf)
+
+---
+
+### 怎样让小球动起来？
+![怎样让小球动起来？](g2-c13-guided-move-ball.png)
+[PDF版本](g2-c13-guided-move-ball.pdf)
+
+---
+
+### 怎样做一个迷宫？
+![怎样做一个迷宫？](g2-c13-inquiry-make-maze.png)
+[PDF版本](g2-c13-inquiry-make-maze.pdf)
+
+---
+
+### 哪种纸巾最结实？
+![哪种纸巾最结实？](g2-c13-full-strongest-paper-towel.png)
+[PDF版本](g2-c13-full-strongest-paper-towel.pdf)
