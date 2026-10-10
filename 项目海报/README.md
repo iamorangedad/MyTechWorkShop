@@ -587,3 +587,41 @@
 ### 陨石越快，坑越大吗？
 ![陨石越快，坑越大吗？](g3-c17-full-meteor-crater.png)
 [PDF版本](g3-c17-full-meteor-crater.pdf)
+
+---
+
+## 四年级
+
+### 生物是由什么构成的？
+![生物是由什么构成的？](g4-c1-guided-cells.png)
+[PDF版本](g4-c1-guided-cells.pdf)
+
+---
+
+### 怎样用图表来分类？
+![怎样用图表来分类？](g4-c1-inquiry-classify-chart.png)
+[PDF版本](g4-c1-inquiry-classify-chart.pdf)
+
+---
+
+### 怎样证明植物需要光？
+![怎样证明植物需要光？](g4-c2-guided-plants-need-light.png)
+[PDF版本](g4-c2-guided-plants-need-light.pdf)
+
+---
+
+### 没有种子能种马铃薯吗？
+![没有种子能种马铃薯吗？](g4-c2-inquiry-potato-no-seed.png)
+[PDF版本](g4-c2-inquiry-potato-no-seed.pdf)
+
+---
+
+### 怎样做蚯蚓栖息地模型？
+![怎样做蚯蚓栖息地模型？](g4-c3-guided-worm-habitat.png)
+[PDF版本](g4-c3-guided-worm-habitat.pdf)
+
+---
+
+### 分解者的作用是什么？
+![分解者的作用是什么？](g4-c3-inquiry-decomposers.png)
+[PDF版本](g4-c3-inquiry-decomposers.pdf)
