@@ -545,3 +545,45 @@
 ### 坡越高跑得越远吗？
 ![坡越高跑得越远吗？](g3-c14-full-energy-toy-car.png)
 [PDF版本](g3-c14-full-energy-toy-car.pdf)
+
+---
+
+### 影子怎样随时间变化？
+![影子怎样随时间变化？](g3-c15-guided-shadow-time.png)
+[PDF版本](g3-c15-guided-shadow-time.pdf)
+
+---
+
+### 北斗七星总像勺子吗？
+![北斗七星总像勺子吗？](g3-c15-inquiry-dipper-shape.png)
+[PDF版本](g3-c15-inquiry-dipper-shape.pdf)
+
+---
+
+### 怎样做太阳系距离模型？
+![怎样做太阳系距离模型？](g3-c16-guided-distance-model.png)
+[PDF版本](g3-c16-guided-distance-model.pdf)
+
+---
+
+### 离太阳越近越热吗？
+![离太阳越近越热吗？](g3-c16-inquiry-planet-temperature.png)
+[PDF版本](g3-c16-inquiry-planet-temperature.pdf)
+
+---
+
+### 哪种运输方法效率最高？
+![哪种运输方法效率最高？](g3-c17-guided-transport-efficiency.png)
+[PDF版本](g3-c17-guided-transport-efficiency.pdf)
+
+---
+
+### GPS 怎样找到位置？
+![GPS 怎样找到位置？](g3-c17-inquiry-gps.png)
+[PDF版本](g3-c17-inquiry-gps.pdf)
+
+---
+
+### 陨石越快，坑越大吗？
+![陨石越快，坑越大吗？](g3-c17-full-meteor-crater.png)
+[PDF版本](g3-c17-full-meteor-crater.pdf)
