@@ -357,3 +357,41 @@
 ### 哪种纸巾最结实？
 ![哪种纸巾最结实？](g2-c13-full-strongest-paper-towel.png)
 [PDF版本](g2-c13-full-strongest-paper-towel.pdf)
+
+---
+
+## 三年级
+
+### 植物有哪些异同？
+![植物有哪些异同？](g3-c1-guided-plants-alike.png)
+[PDF版本](g3-c1-guided-plants-alike.pdf)
+
+---
+
+### 哪种种子先发芽？
+![哪种种子先发芽？](g3-c1-inquiry-seed-sprout-time.png)
+[PDF版本](g3-c1-inquiry-seed-sprout-time.pdf)
+
+---
+
+### 怎样做脊柱模型？
+![怎样做脊柱模型？](g3-c2-guided-spine-model.png)
+[PDF版本](g3-c2-guided-spine-model.pdf)
+
+---
+
+### 印痕告诉我们什么？
+![印痕告诉我们什么？](g3-c2-inquiry-imprints.png)
+[PDF版本](g3-c2-inquiry-imprints.pdf)
+
+---
+
+### 草籽在哪种土里长得好？
+![草籽在哪种土里长得好？](g3-c3-guided-grass-soil.png)
+[PDF版本](g3-c3-guided-grass-soil.pdf)
+
+---
+
+### 霉菌需要食物吗？
+![霉菌需要食物吗？](g3-c3-inquiry-mold-food.png)
+[PDF版本](g3-c3-inquiry-mold-food.pdf)
