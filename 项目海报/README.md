@@ -625,3 +625,45 @@
 ### 分解者的作用是什么？
 ![分解者的作用是什么？](g4-c3-inquiry-decomposers.png)
 [PDF版本](g4-c3-inquiry-decomposers.pdf)
+
+---
+
+### 植物太挤会怎样？
+![植物太挤会怎样？](g4-c4-guided-plant-crowding.png)
+[PDF版本](g4-c4-guided-plant-crowding.pdf)
+
+---
+
+### 环境变了，植物会怎样？
+![环境变了，植物会怎样？](g4-c4-inquiry-environment-change.png)
+[PDF版本](g4-c4-inquiry-environment-change.pdf)
+
+---
+
+### 骨头为什么是圆筒形？
+![骨头为什么是圆筒形？](g4-c5-guided-bone-strength.png)
+[PDF版本](g4-c5-guided-bone-strength.pdf)
+
+---
+
+### 病菌是怎样传播的？
+![病菌是怎样传播的？](g4-c5-inquiry-germ-spread.png)
+[PDF版本](g4-c5-inquiry-germ-spread.pdf)
+
+---
+
+### 黄粉虫喜欢湿还是干？
+![黄粉虫喜欢湿还是干？](g4-c5-activity-mealworm-moisture.png)
+[PDF版本](g4-c5-activity-mealworm-moisture.pdf)
+
+---
+
+### 怎样把盐水变成淡水？
+![怎样把盐水变成淡水？](g4-c6-guided-salt-to-fresh.png)
+[PDF版本](g4-c6-guided-salt-to-fresh.pdf)
+
+---
+
+### 水怎样改变状态？
+![水怎样改变状态？](g4-c6-inquiry-water-states.png)
+[PDF版本](g4-c6-inquiry-water-states.pdf)
