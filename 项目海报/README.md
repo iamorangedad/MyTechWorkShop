@@ -213,3 +213,33 @@
 ### 怎样做食物网模型？
 ![怎样做食物网模型？](g2-c3-inquiry-food-web-model.png)
 [PDF版本](g2-c3-inquiry-food-web-model.pdf)
+
+---
+
+### 同学们用哪只手写字？
+![同学们用哪只手写字？](g2-c4-guided-which-hand.png)
+[PDF版本](g2-c4-guided-which-hand.pdf)
+
+---
+
+### 毛毛虫怎样长大变化？
+![毛毛虫怎样长大变化？](g2-c4-inquiry-caterpillar-life.png)
+[PDF版本](g2-c4-inquiry-caterpillar-life.pdf)
+
+---
+
+### 哪种鸟喙能敲碎种子？
+![哪种鸟喙能敲碎种子？](g2-c4-full-bird-beaks.png)
+[PDF版本](g2-c4-full-bird-beaks.pdf)
+
+---
+
+### 不同的土壤有什么区别？
+![不同的土壤有什么区别？](g2-c5-guided-soil-differences.png)
+[PDF版本](g2-c5-guided-soil-differences.pdf)
+
+---
+
+### 蚯蚓怎样改变土壤？
+![蚯蚓怎样改变土壤？](g2-c5-inquiry-earthworm-soil.png)
+[PDF版本](g2-c5-inquiry-earthworm-soil.pdf)
