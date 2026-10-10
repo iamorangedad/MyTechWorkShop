@@ -25,3 +25,9 @@
 ### 动物住哪儿？
 ![动物住哪儿？](g1-c2-guided-animal-habitats.png)
 [PDF版本](g1-c2-guided-animal-habitats.pdf)
+
+---
+
+### 沙漠叶子怎么存水？
+![沙漠叶子怎么存水？](g1-c2-inquiry-desert-leaves.png)
+[PDF版本](g1-c2-inquiry-desert-leaves.pdf)
