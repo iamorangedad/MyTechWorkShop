@@ -55,3 +55,33 @@
 ### 种子怎么变？
 ![种子怎么变？](g1-c4-inquiry-seed-change.png)
 [PDF版本](g1-c4-inquiry-seed-change.pdf)
+
+---
+
+### 动物吃什么？
+![动物吃什么？](g1-c5-guided-what-animals-eat.png)
+[PDF版本](g1-c5-guided-what-animals-eat.pdf)
+
+---
+
+### 做个食物链！
+![做个食物链！](g1-c5-inquiry-food-chain-model.png)
+[PDF版本](g1-c5-inquiry-food-chain-model.pdf)
+
+---
+
+### 老鼠怎么躲老鹰？
+![老鼠怎么躲老鹰？](g1-c5-full-mouse-camouflage.png)
+[PDF版本](g1-c5-full-mouse-camouflage.pdf)
+
+---
+
+### 做陆地和海洋
+![做陆地和海洋](g1-c6-guided-land-ocean-model.png)
+[PDF版本](g1-c6-guided-land-ocean-model.pdf)
+
+---
+
+### 土壤有什么不同？
+![土壤有什么不同？](g1-c6-inquiry-soil-differences.png)
+[PDF版本](g1-c6-inquiry-soil-differences.pdf)
