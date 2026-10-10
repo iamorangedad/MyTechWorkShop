@@ -425,3 +425,39 @@
 ### 怎样做水循环模型？
 ![怎样做水循环模型？](g3-c5-inquiry-water-cycle-model.png)
 [PDF版本](g3-c5-inquiry-water-cycle-model.pdf)
+
+---
+
+### 怎样测量风速？
+![怎样测量风速？](g3-c6-guided-wind-speed.png)
+[PDF版本](g3-c6-guided-wind-speed.pdf)
+
+---
+
+### 二氧化碳多了会怎样？
+![二氧化碳多了会怎样？](g3-c6-inquiry-co2-effect.png)
+[PDF版本](g3-c6-inquiry-co2-effect.pdf)
+
+---
+
+### 岩层告诉我们什么？
+![岩层告诉我们什么？](g3-c7-guided-rock-layers.png)
+[PDF版本](g3-c7-guided-rock-layers.pdf)
+
+---
+
+### 土壤能保持多少水？
+![土壤能保持多少水？](g3-c7-inquiry-soil-water.png)
+[PDF版本](g3-c7-inquiry-soil-water.pdf)
+
+---
+
+### 一些山是怎样形成的？
+![一些山是怎样形成的？](g3-c8-guided-fold-mountains.png)
+[PDF版本](g3-c8-guided-fold-mountains.pdf)
+
+---
+
+### 怎样观察侵蚀作用？
+![怎样观察侵蚀作用？](g3-c8-inquiry-erosion.png)
+[PDF版本](g3-c8-inquiry-erosion.pdf)
