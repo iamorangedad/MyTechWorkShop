@@ -85,3 +85,63 @@
 ### 土壤有什么不同？
 ![土壤有什么不同？](g1-c6-inquiry-soil-differences.png)
 [PDF版本](g1-c6-inquiry-soil-differences.pdf)
+
+---
+
+### 怎么知道有风？
+![怎么知道有风？](g1-c7-guided-wind.png)
+[PDF版本](g1-c7-guided-wind.pdf)
+
+---
+
+### 每天的温度一样吗？
+![每天的温度一样吗？](g1-c7-inquiry-daily-temperature.png)
+[PDF版本](g1-c7-inquiry-daily-temperature.pdf)
+
+---
+
+### 土和水，谁先变暖？
+![土和水，谁先变暖？](g1-c7-full-land-vs-water-warming.png)
+[PDF版本](g1-c7-full-land-vs-water-warming.pdf)
+
+---
+
+### 袋子里有什么？
+![袋子里有什么？](g1-c8-guided-mystery-bag.png)
+[PDF版本](g1-c8-guided-mystery-bag.pdf)
+
+---
+
+### 会浮起来还是沉下去？
+![会浮起来还是沉下去？](g1-c8-inquiry-sink-or-float.png)
+[PDF版本](g1-c8-inquiry-sink-or-float.pdf)
+
+---
+
+### 什么让小车动起来？
+![什么让小车动起来？](g1-c9-guided-what-moves-car.png)
+[PDF版本](g1-c9-guided-what-moves-car.pdf)
+
+---
+
+### 你听到了什么？
+![你听到了什么？](g1-c9-inquiry-what-do-you-hear.png)
+[PDF版本](g1-c9-inquiry-what-do-you-hear.pdf)
+
+---
+
+### 阳光能把水晒暖吗？
+![阳光能把水晒暖吗？](g1-c10-guided-sun-heats-water.png)
+[PDF版本](g1-c10-guided-sun-heats-water.pdf)
+
+---
+
+### 影子是怎么形成的？
+![影子是怎么形成的？](g1-c10-inquiry-shadows.png)
+[PDF版本](g1-c10-inquiry-shadows.pdf)
+
+---
+
+### 声音怎样变高变低？
+![声音怎样变高变低？](g1-c10-full-high-low-sounds.png)
+[PDF版本](g1-c10-full-high-low-sounds.pdf)
