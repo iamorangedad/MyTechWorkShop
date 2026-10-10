@@ -145,3 +145,33 @@
 ### 声音怎样变高变低？
 ![声音怎样变高变低？](g1-c10-full-high-low-sounds.png)
 [PDF版本](g1-c10-full-high-low-sounds.pdf)
+
+---
+
+### 太阳为什么看起来很小？
+![太阳为什么看起来很小？](g1-c11-guided-why-sun-looks-small.png)
+[PDF版本](g1-c11-guided-why-sun-looks-small.pdf)
+
+---
+
+### 夜里为什么看得见月亮？
+![夜里为什么看得见月亮？](g1-c11-inquiry-seeing-night-sky.png)
+[PDF版本](g1-c11-inquiry-seeing-night-sky.pdf)
+
+---
+
+### 工具能帮我们做什么？
+![工具能帮我们做什么？](g1-c12-guided-using-tools.png)
+[PDF版本](g1-c12-guided-using-tools.pdf)
+
+---
+
+### 怎样搭一座结实的桥？
+![怎样搭一座结实的桥？](g1-c12-inquiry-strong-bridge.png)
+[PDF版本](g1-c12-inquiry-strong-bridge.pdf)
+
+---
+
+### 轻的人怎样抬起重的人？
+![轻的人怎样抬起重的人？](g1-c12-full-seesaw-lever.png)
+[PDF版本](g1-c12-full-seesaw-lever.pdf)
