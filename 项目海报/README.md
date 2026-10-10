@@ -175,3 +175,41 @@
 ### 轻的人怎样抬起重的人？
 ![轻的人怎样抬起重的人？](g1-c12-full-seesaw-lever.png)
 [PDF版本](g1-c12-full-seesaw-lever.pdf)
+
+---
+
+## 二年级
+
+### 植物需要水吗？
+![植物需要水吗？](g2-c1-guided-plants-need-water.png)
+[PDF版本](g2-c1-guided-plants-need-water.pdf)
+
+---
+
+### 植物需要光吗？
+![植物需要光吗？](g2-c1-inquiry-plants-need-light.png)
+[PDF版本](g2-c1-inquiry-plants-need-light.pdf)
+
+---
+
+### 蠕虫和蛇，哪里一样？
+![蠕虫和蛇，哪里一样？](g2-c2-guided-worm-vs-snake.png)
+[PDF版本](g2-c2-guided-worm-vs-snake.pdf)
+
+---
+
+### 章鱼怎样用腕足？
+![章鱼怎样用腕足？](g2-c2-inquiry-octopus-arms.png)
+[PDF版本](g2-c2-inquiry-octopus-arms.pdf)
+
+---
+
+### 酵母生长需要什么？
+![酵母生长需要什么？](g2-c3-guided-yeast-needs.png)
+[PDF版本](g2-c3-guided-yeast-needs.pdf)
+
+---
+
+### 怎样做食物网模型？
+![怎样做食物网模型？](g2-c3-inquiry-food-web-model.png)
+[PDF版本](g2-c3-inquiry-food-web-model.pdf)
