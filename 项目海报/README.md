@@ -31,3 +31,27 @@
 ### 沙漠叶子怎么存水？
 ![沙漠叶子怎么存水？](g1-c2-inquiry-desert-leaves.png)
 [PDF版本](g1-c2-inquiry-desert-leaves.pdf)
+
+---
+
+### 毛皮怎么保暖？
+![毛皮怎么保暖？](g1-c3-guided-fur-warmth.png)
+[PDF版本](g1-c3-guided-fur-warmth.pdf)
+
+---
+
+### 什么保护植物？
+![什么保护植物？](g1-c3-inquiry-plant-protection.png)
+[PDF版本](g1-c3-inquiry-plant-protection.pdf)
+
+---
+
+### 黄粉虫怎么长大？
+![黄粉虫怎么长大？](g1-c4-guided-mealworm-life-cycle.png)
+[PDF版本](g1-c4-guided-mealworm-life-cycle.pdf)
+
+---
+
+### 种子怎么变？
+![种子怎么变？](g1-c4-inquiry-seed-change.png)
+[PDF版本](g1-c4-inquiry-seed-change.pdf)
