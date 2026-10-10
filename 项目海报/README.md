@@ -461,3 +461,45 @@
 ### 怎样观察侵蚀作用？
 ![怎样观察侵蚀作用？](g3-c8-inquiry-erosion.png)
 [PDF版本](g3-c8-inquiry-erosion.pdf)
+
+---
+
+### 怎样给资源分类？
+![怎样给资源分类？](g3-c9-guided-sort-resources.png)
+[PDF版本](g3-c9-guided-sort-resources.pdf)
+
+---
+
+### 淡水资源在哪里？
+![淡水资源在哪里？](g3-c9-inquiry-fresh-water.png)
+[PDF版本](g3-c9-inquiry-fresh-water.pdf)
+
+---
+
+### 为什么有的先沉下？
+![为什么有的先沉下？](g3-c9-full-settling.png)
+[PDF版本](g3-c9-full-settling.pdf)
+
+---
+
+### 什么能清楚地反射光？
+![什么能清楚地反射光？](g3-c10-guided-reflect-light.png)
+[PDF版本](g3-c10-guided-reflect-light.pdf)
+
+---
+
+### 怎样测量物质的性质？
+![怎样测量物质的性质？](g3-c10-inquiry-measure-properties.png)
+[PDF版本](g3-c10-inquiry-measure-properties.pdf)
+
+---
+
+### 物质怎样变化？
+![物质怎样变化？](g3-c11-guided-matter-change.png)
+[PDF版本](g3-c11-guided-matter-change.pdf)
+
+---
+
+### 怎样分开混合物？
+![怎样分开混合物？](g3-c11-inquiry-separate-mixture.png)
+[PDF版本](g3-c11-inquiry-separate-mixture.pdf)
