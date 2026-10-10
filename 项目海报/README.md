@@ -243,3 +243,33 @@
 ### 蚯蚓怎样改变土壤？
 ![蚯蚓怎样改变土壤？](g2-c5-inquiry-earthworm-soil.png)
 [PDF版本](g2-c5-inquiry-earthworm-soil.pdf)
+
+---
+
+### 下了多少雨？
+![下了多少雨？](g2-c6-guided-rainfall.png)
+[PDF版本](g2-c6-guided-rainfall.pdf)
+
+---
+
+### 怎样测量天气变化？
+![怎样测量天气变化？](g2-c6-inquiry-measure-weather.png)
+[PDF版本](g2-c6-inquiry-measure-weather.pdf)
+
+---
+
+### 植物化石还是动物化石？
+![植物化石还是动物化石？](g2-c7-guided-plant-animal-fossils.png)
+[PDF版本](g2-c7-guided-plant-animal-fossils.pdf)
+
+---
+
+### 怎样做化石模型？
+![怎样做化石模型？](g2-c7-inquiry-fossil-model.png)
+[PDF版本](g2-c7-inquiry-fossil-model.pdf)
+
+---
+
+### 哪里的脚印最清楚？
+![哪里的脚印最清楚？](g2-c7-full-clearest-print.png)
+[PDF版本](g2-c7-full-clearest-print.pdf)
