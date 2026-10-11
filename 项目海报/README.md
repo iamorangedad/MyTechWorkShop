@@ -1199,3 +1199,45 @@
 ### 怎样做地质时间线？
 ![怎样做地质时间线？](g6-c9-inquiry-geologic-timeline.png)
 [PDF版本](g6-c9-inquiry-geologic-timeline.pdf)
+
+---
+
+### 怎样做地形图？
+![怎样做地形图？](g6-c10-guided-topographic-map.png)
+[PDF版本](g6-c10-guided-topographic-map.pdf)
+
+---
+
+### 怎样培育钟乳石？
+![怎样培育钟乳石？](g6-c10-inquiry-stalactite.png)
+[PDF版本](g6-c10-inquiry-stalactite.pdf)
+
+---
+
+### 教室里的东西从哪来？
+![教室里的东西从哪来？](g6-c11-guided-classroom-resources.png)
+[PDF版本](g6-c11-guided-classroom-resources.pdf)
+
+---
+
+### 水厂怎样净水？
+![水厂怎样净水？](g6-c11-inquiry-water-treatment.png)
+[PDF版本](g6-c11-inquiry-water-treatment.pdf)
+
+---
+
+### 怎样证明空气存在？
+![怎样证明空气存在？](g6-c12-guided-air-is-there.png)
+[PDF版本](g6-c12-guided-air-is-there.pdf)
+
+---
+
+### 怎样做龙卷风模型？
+![怎样做龙卷风模型？](g6-c12-inquiry-tornado-model.png)
+[PDF版本](g6-c12-inquiry-tornado-model.pdf)
+
+---
+
+### 水渗过土壤有多快？
+![水渗过土壤有多快？](g6-c12-full-soil-flow.png)
+[PDF版本](g6-c12-full-soil-flow.pdf)
