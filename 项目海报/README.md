@@ -667,3 +667,39 @@
 ### 水怎样改变状态？
 ![水怎样改变状态？](g4-c6-inquiry-water-states.png)
 [PDF版本](g4-c6-inquiry-water-states.pdf)
+
+---
+
+### 怎样做飓风模型？
+![怎样做飓风模型？](g4-c7-guided-hurricane-model.png)
+[PDF版本](g4-c7-guided-hurricane-model.pdf)
+
+---
+
+### 飓风会去哪里？
+![飓风会去哪里？](g4-c7-inquiry-hurricane-path.png)
+[PDF版本](g4-c7-inquiry-hurricane-path.pdf)
+
+---
+
+### 怎样给岩石分类？
+![怎样给岩石分类？](g4-c8-guided-classify-rocks.png)
+[PDF版本](g4-c8-guided-classify-rocks.pdf)
+
+---
+
+### 怎样识别矿物？
+![怎样识别矿物？](g4-c8-inquiry-mineral-tests.png)
+[PDF版本](g4-c8-inquiry-mineral-tests.pdf)
+
+---
+
+### 岩石是怎样被磨损的？
+![岩石是怎样被磨损的？](g4-c9-guided-mineral-wear.png)
+[PDF版本](g4-c9-guided-mineral-wear.pdf)
+
+---
+
+### 离得越远，晃得越轻吗？
+![离得越远，晃得越轻吗？](g4-c9-inquiry-earthquake-distance.png)
+[PDF版本](g4-c9-inquiry-earthquake-distance.pdf)
