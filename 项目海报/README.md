@@ -1041,3 +1041,45 @@
 ### 能改变电磁铁的磁极吗？
 ![能改变电磁铁的磁极吗？](g5-c15-full-electromagnet-poles.png)
 [PDF版本](g5-c15-full-electromagnet-poles.pdf)
+
+---
+
+### 怎样制作星盘？
+![怎样制作星盘？](g5-c16-guided-star-wheel.png)
+[PDF版本](g5-c16-guided-star-wheel.pdf)
+
+---
+
+### 换个角度看星系
+![换个角度看星系](g5-c16-inquiry-spiral-galaxy.png)
+[PDF版本](g5-c16-inquiry-spiral-galaxy.pdf)
+
+---
+
+### 距离影响公转时间吗？
+![距离影响公转时间吗？](g5-c17-guided-orbit-distance.png)
+[PDF版本](g5-c17-guided-orbit-distance.pdf)
+
+---
+
+### 为什么会有月相？
+![为什么会有月相？](g5-c17-inquiry-moon-phases.png)
+[PDF版本](g5-c17-inquiry-moon-phases.pdf)
+
+---
+
+### 水是怎样被吸收的？
+![水是怎样被吸收的？](g5-c18-guided-water-absorb.png)
+[PDF版本](g5-c18-guided-water-absorb.pdf)
+
+---
+
+### 探测器怎样传回照片？
+![探测器怎样传回照片？](g5-c18-inquiry-probe-pictures.png)
+[PDF版本](g5-c18-inquiry-probe-pictures.pdf)
+
+---
+
+### 哪种笔适合在太空用？
+![哪种笔适合在太空用？](g5-c18-full-space-pens.png)
+[PDF版本](g5-c18-full-space-pens.pdf)
