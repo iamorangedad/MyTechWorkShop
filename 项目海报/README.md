@@ -999,3 +999,45 @@
 ### 温度影响反应快慢吗？
 ![温度影响反应快慢吗？](g5-c12-inquiry-reaction-temp.png)
 [PDF版本](g5-c12-inquiry-reaction-temp.pdf)
+
+---
+
+### 钟摆怎样摆动？
+![钟摆怎样摆动？](g5-c13-guided-pendulum.png)
+[PDF版本](g5-c13-guided-pendulum.pdf)
+
+---
+
+### 怎样描述运动？
+![怎样描述运动？](g5-c13-inquiry-describe-motion.png)
+[PDF版本](g5-c13-inquiry-describe-motion.pdf)
+
+---
+
+### 能量怎样改变形式？
+![能量怎样改变形式？](g5-c14-guided-energy-forms.png)
+[PDF版本](g5-c14-guided-energy-forms.pdf)
+
+---
+
+### 光是怎样传播的？
+![光是怎样传播的？](g5-c14-inquiry-light-travel.png)
+[PDF版本](g5-c14-inquiry-light-travel.pdf)
+
+---
+
+### 电能通过哪些物体？
+![电能通过哪些物体？](g5-c15-guided-conductors.png)
+[PDF版本](g5-c15-guided-conductors.pdf)
+
+---
+
+### 串联和并联有什么不同？
+![串联和并联有什么不同？](g5-c15-inquiry-series-parallel.png)
+[PDF版本](g5-c15-inquiry-series-parallel.pdf)
+
+---
+
+### 能改变电磁铁的磁极吗？
+![能改变电磁铁的磁极吗？](g5-c15-full-electromagnet-poles.png)
+[PDF版本](g5-c15-full-electromagnet-poles.pdf)
