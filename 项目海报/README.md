@@ -957,3 +957,45 @@
 ### 哪种建筑更抗震？
 ![哪种建筑更抗震？](g5-c9-inquiry-quake-building.png)
 [PDF版本](g5-c9-inquiry-quake-building.pdf)
+
+---
+
+### 石油怎样向上移动？
+![石油怎样向上移动？](g5-c10-guided-oil-move.png)
+[PDF版本](g5-c10-guided-oil-move.pdf)
+
+---
+
+### 怎样回收纸张？
+![怎样回收纸张？](g5-c10-inquiry-recycle-paper.png)
+[PDF版本](g5-c10-inquiry-recycle-paper.pdf)
+
+---
+
+### 温度怎样影响晶体？
+![温度怎样影响晶体？](g5-c10-full-crystal-temp.png)
+[PDF版本](g5-c10-full-crystal-temp.pdf)
+
+---
+
+### 怎样测出密度？
+![怎样测出密度？](g5-c11-guided-density.png)
+[PDF版本](g5-c11-guided-density.pdf)
+
+---
+
+### 哪种船装得最多？
+![哪种船装得最多？](g5-c11-inquiry-boat-design.png)
+[PDF版本](g5-c11-inquiry-boat-design.pdf)
+
+---
+
+### 化学变化会发生什么？
+![化学变化会发生什么？](g5-c12-guided-chemical-change.png)
+[PDF版本](g5-c12-guided-chemical-change.pdf)
+
+---
+
+### 温度影响反应快慢吗？
+![温度影响反应快慢吗？](g5-c12-inquiry-reaction-temp.png)
+[PDF版本](g5-c12-inquiry-reaction-temp.pdf)
