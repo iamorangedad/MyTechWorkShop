@@ -781,3 +781,63 @@
 ### 摩擦力怎样影响运动？
 ![摩擦力怎样影响运动？](g4-c15-inquiry-friction.png)
 [PDF版本](g4-c15-inquiry-friction.pdf)
+
+---
+
+### 机械怎样敲响铃铛？
+![机械怎样敲响铃铛？](g4-c16-guided-ring-bell.png)
+[PDF版本](g4-c16-guided-ring-bell.pdf)
+
+---
+
+### 机械能做哪些事？
+![机械能做哪些事？](g4-c16-inquiry-machine-tasks.png)
+[PDF版本](g4-c16-inquiry-machine-tasks.pdf)
+
+---
+
+### 质量怎样影响运动？
+![质量怎样影响运动？](g4-c16-full-mass-motion.png)
+[PDF版本](g4-c16-full-mass-motion.pdf)
+
+---
+
+### 行星轨道是什么形状？
+![行星轨道是什么形状？](g4-c17-guided-orbit-shape.png)
+[PDF版本](g4-c17-guided-orbit-shape.pdf)
+
+---
+
+### 怎样做恒星定位仪？
+![怎样做恒星定位仪？](g4-c17-inquiry-star-finder.png)
+[PDF版本](g4-c17-inquiry-star-finder.pdf)
+
+---
+
+### 怎样比较行星大小？
+![怎样比较行星大小？](g4-c18-guided-planet-sizes.png)
+[PDF版本](g4-c18-guided-planet-sizes.pdf)
+
+---
+
+### 旋转怎样改变形状？
+![旋转怎样改变形状？](g4-c18-inquiry-spin-shape.png)
+[PDF版本](g4-c18-inquiry-spin-shape.pdf)
+
+---
+
+### 通信卫星怎样工作？
+![通信卫星怎样工作？](g4-c19-guided-comm-satellite.png)
+[PDF版本](g4-c19-guided-comm-satellite.pdf)
+
+---
+
+### 卫星天线为何是弧形？
+![卫星天线为何是弧形？](g4-c19-inquiry-dish-shape.png)
+[PDF版本](g4-c19-inquiry-dish-shape.pdf)
+
+---
+
+### 载荷越重飞得越近吗？
+![载荷越重飞得越近吗？](g4-c19-full-payload-rocket.png)
+[PDF版本](g4-c19-full-payload-rocket.pdf)
