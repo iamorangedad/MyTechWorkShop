@@ -921,3 +921,39 @@
 ### 盐怎样影响卤虫孵化？
 ![盐怎样影响卤虫孵化？](g5-c6-full-brine-hatch.png)
 [PDF版本](g5-c6-full-brine-hatch.pdf)
+
+---
+
+### 怎样分离液体层？
+![怎样分离液体层？](g5-c7-guided-liquid-layers.png)
+[PDF版本](g5-c7-guided-liquid-layers.pdf)
+
+---
+
+### 云是什么？
+![云是什么？](g5-c7-inquiry-cloud.png)
+[PDF版本](g5-c7-inquiry-cloud.pdf)
+
+---
+
+### 空气压力有什么影响？
+![空气压力有什么影响？](g5-c8-guided-air-pressure.png)
+[PDF版本](g5-c8-guided-air-pressure.pdf)
+
+---
+
+### 温度计怎样工作？
+![温度计怎样工作？](g5-c8-inquiry-thermometer.png)
+[PDF版本](g5-c8-inquiry-thermometer.pdf)
+
+---
+
+### 怎样做地球内部模型？
+![怎样做地球内部模型？](g5-c9-guided-earth-layers.png)
+[PDF版本](g5-c9-guided-earth-layers.pdf)
+
+---
+
+### 哪种建筑更抗震？
+![哪种建筑更抗震？](g5-c9-inquiry-quake-building.png)
+[PDF版本](g5-c9-inquiry-quake-building.pdf)
