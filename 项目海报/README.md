@@ -1157,3 +1157,45 @@
 ### 赤道附近为什么更热？
 ![赤道附近为什么更热？](g6-c6-inquiry-equator-heat.png)
 [PDF版本](g6-c6-inquiry-equator-heat.pdf)
+
+---
+
+### 猫头鹰吃什么？
+![猫头鹰吃什么？](g6-c7-guided-owl-pellets.png)
+[PDF版本](g6-c7-guided-owl-pellets.pdf)
+
+---
+
+### 空气有多干净？
+![空气有多干净？](g6-c7-inquiry-air-quality.png)
+[PDF版本](g6-c7-inquiry-air-quality.pdf)
+
+---
+
+### 污染怎样影响植物？
+![污染怎样影响植物？](g6-c7-full-pollution-plants.png)
+[PDF版本](g6-c7-full-pollution-plants.pdf)
+
+---
+
+### 怎样研究地球内部？
+![怎样研究地球内部？](g6-c8-guided-earth-layers.png)
+[PDF版本](g6-c8-guided-earth-layers.pdf)
+
+---
+
+### 怎样制造对流？
+![怎样制造对流？](g6-c8-inquiry-convection.png)
+[PDF版本](g6-c8-inquiry-convection.pdf)
+
+---
+
+### 矿物晶体什么样？
+![矿物晶体什么样？](g6-c9-guided-mineral-crystals.png)
+[PDF版本](g6-c9-guided-mineral-crystals.pdf)
+
+---
+
+### 怎样做地质时间线？
+![怎样做地质时间线？](g6-c9-inquiry-geologic-timeline.png)
+[PDF版本](g6-c9-inquiry-geologic-timeline.pdf)
