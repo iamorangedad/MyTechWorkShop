@@ -1289,3 +1289,45 @@
 ### 轮轴怎样让人省力？
 ![轮轴怎样让人省力？](g6-c16-inquiry-wheel-axle.png)
 [PDF版本](g6-c16-inquiry-wheel-axle.pdf)
+
+---
+
+### 弹珠怎样传递能量？
+![弹珠怎样传递能量？](g6-c17-guided-marble-energy.png)
+[PDF版本](g6-c17-guided-marble-energy.pdf)
+
+---
+
+### 问答电路板怎样工作？
+![问答电路板怎样工作？](g6-c17-inquiry-circuit-board.png)
+[PDF版本](g6-c17-inquiry-circuit-board.pdf)
+
+---
+
+### 阳光晒热了什么？
+![阳光晒热了什么？](g6-c18-guided-heat-sunlight.png)
+[PDF版本](g6-c18-guided-heat-sunlight.pdf)
+
+---
+
+### 热量怎样移动？
+![热量怎样移动？](g6-c18-inquiry-heat-move.png)
+[PDF版本](g6-c18-inquiry-heat-move.pdf)
+
+---
+
+### 怎样让冰化得慢？
+![怎样让冰化得慢？](g6-c18-full-slow-ice.png)
+[PDF版本](g6-c18-full-slow-ice.pdf)
+
+---
+
+### 怎样做日晷？
+![怎样做日晷？](g6-c19-guided-sundial.png)
+[PDF版本](g6-c19-guided-sundial.pdf)
+
+---
+
+### 怎样做分光镜？
+![怎样做分光镜？](g6-c19-inquiry-spectroscope.png)
+[PDF版本](g6-c19-inquiry-spectroscope.pdf)
