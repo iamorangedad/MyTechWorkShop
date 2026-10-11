@@ -879,3 +879,45 @@
 ### 你的肺活量是多少？
 ![你的肺活量是多少？](g5-c3-inquiry-lung-capacity.png)
 [PDF版本](g5-c3-inquiry-lung-capacity.pdf)
+
+---
+
+### 叶子里有哪些颜色？
+![叶子里有哪些颜色？](g5-c4-guided-leaf-colors.png)
+[PDF版本](g5-c4-guided-leaf-colors.pdf)
+
+---
+
+### 种子朝向影响根吗？
+![种子朝向影响根吗？](g5-c4-inquiry-root-direction.png)
+[PDF版本](g5-c4-inquiry-root-direction.pdf)
+
+---
+
+### 怎样估算动物数量？
+![怎样估算动物数量？](g5-c5-guided-count-animals.png)
+[PDF版本](g5-c5-guided-count-animals.pdf)
+
+---
+
+### 植物吸收二氧化碳吗？
+![植物吸收二氧化碳吗？](g5-c5-inquiry-plant-co2.png)
+[PDF版本](g5-c5-inquiry-plant-co2.pdf)
+
+---
+
+### 污染物怎样影响生物？
+![污染物怎样影响生物？](g5-c6-guided-pollution.png)
+[PDF版本](g5-c6-guided-pollution.pdf)
+
+---
+
+### 湿地改变会怎样？
+![湿地改变会怎样？](g5-c6-inquiry-wetland.png)
+[PDF版本](g5-c6-inquiry-wetland.pdf)
+
+---
+
+### 盐怎样影响卤虫孵化？
+![盐怎样影响卤虫孵化？](g5-c6-full-brine-hatch.png)
+[PDF版本](g5-c6-full-brine-hatch.pdf)
