@@ -745,3 +745,39 @@
 ### 热能和温度一样吗？
 ![热能和温度一样吗？](g4-c12-inquiry-heat-vs-temperature.png)
 [PDF版本](g4-c12-inquiry-heat-vs-temperature.pdf)
+
+---
+
+### 静电怎样影响物体？
+![静电怎样影响物体？](g4-c13-guided-static-electricity.png)
+[PDF版本](g4-c13-guided-static-electricity.pdf)
+
+---
+
+### 什么是电磁铁？
+![什么是电磁铁？](g4-c13-inquiry-electromagnet.png)
+[PDF版本](g4-c13-inquiry-electromagnet.pdf)
+
+---
+
+### 怎样让声音变化？
+![怎样让声音变化？](g4-c14-guided-sound-change.png)
+[PDF版本](g4-c14-guided-sound-change.pdf)
+
+---
+
+### 光怎样反射和折射？
+![光怎样反射和折射？](g4-c14-inquiry-reflect-refract.png)
+[PDF版本](g4-c14-inquiry-reflect-refract.pdf)
+
+---
+
+### 怎样改变玻璃球速率？
+![怎样改变玻璃球速率？](g4-c15-guided-marble-speed.png)
+[PDF版本](g4-c15-guided-marble-speed.pdf)
+
+---
+
+### 摩擦力怎样影响运动？
+![摩擦力怎样影响运动？](g4-c15-inquiry-friction.png)
+[PDF版本](g4-c15-inquiry-friction.pdf)
