@@ -703,3 +703,45 @@
 ### 离得越远，晃得越轻吗？
 ![离得越远，晃得越轻吗？](g4-c9-inquiry-earthquake-distance.png)
 [PDF版本](g4-c9-inquiry-earthquake-distance.pdf)
+
+---
+
+### 怎样收集阳光？
+![怎样收集阳光？](g4-c10-guided-collect-sunlight.png)
+[PDF版本](g4-c10-guided-collect-sunlight.pdf)
+
+---
+
+### 化石燃料是怎样形成的？
+![化石燃料是怎样形成的？](g4-c10-inquiry-fossil-fuel-model.png)
+[PDF版本](g4-c10-inquiry-fossil-fuel-model.pdf)
+
+---
+
+### 雨越大，冲走越多吗？
+![雨越大，冲走越多吗？](g4-c10-full-rain-erosion.png)
+[PDF版本](g4-c10-full-rain-erosion.pdf)
+
+---
+
+### 液体为什么会分层？
+![液体为什么会分层？](g4-c11-guided-liquid-layers.png)
+[PDF版本](g4-c11-guided-liquid-layers.pdf)
+
+---
+
+### 怎样改变胶水的性质？
+![怎样改变胶水的性质？](g4-c11-inquiry-glue-properties.png)
+[PDF版本](g4-c11-inquiry-glue-properties.pdf)
+
+---
+
+### 怎样让物体变热？
+![怎样让物体变热？](g4-c12-guided-warm-up.png)
+[PDF版本](g4-c12-guided-warm-up.pdf)
+
+---
+
+### 热能和温度一样吗？
+![热能和温度一样吗？](g4-c12-inquiry-heat-vs-temperature.png)
+[PDF版本](g4-c12-inquiry-heat-vs-temperature.pdf)
