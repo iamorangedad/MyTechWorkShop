@@ -1121,3 +1121,39 @@
 ### 怎样用硬币模拟遗传？
 ![怎样用硬币模拟遗传？](g6-c3-inquiry-coin-genetics.png)
 [PDF版本](g6-c3-inquiry-coin-genetics.pdf)
+
+---
+
+### 两种细胞有何不同？
+![两种细胞有何不同？](g6-c4-guided-two-cells.png)
+[PDF版本](g6-c4-guided-two-cells.pdf)
+
+---
+
+### 肺泡怎样增大表面积？
+![肺泡怎样增大表面积？](g6-c4-inquiry-alveoli-area.png)
+[PDF版本](g6-c4-inquiry-alveoli-area.pdf)
+
+---
+
+### 植物怎样获得气体？
+![植物怎样获得气体？](g6-c5-guided-plant-gases.png)
+[PDF版本](g6-c5-guided-plant-gases.pdf)
+
+---
+
+### 植物怎样对光做出反应？
+![植物怎样对光做出反应？](g6-c5-inquiry-light-response.png)
+[PDF版本](g6-c5-inquiry-light-response.pdf)
+
+---
+
+### 沙漠植物怎样保存水分？
+![沙漠植物怎样保存水分？](g6-c6-guided-desert-plants.png)
+[PDF版本](g6-c6-guided-desert-plants.pdf)
+
+---
+
+### 赤道附近为什么更热？
+![赤道附近为什么更热？](g6-c6-inquiry-equator-heat.png)
+[PDF版本](g6-c6-inquiry-equator-heat.pdf)
