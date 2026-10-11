@@ -1241,3 +1241,51 @@
 ### 水渗过土壤有多快？
 ![水渗过土壤有多快？](g6-c12-full-soil-flow.png)
 [PDF版本](g6-c12-full-soil-flow.pdf)
+
+---
+
+### 怎样量石头的体积？
+![怎样量石头的体积？](g6-c13-guided-irregular-volume.png)
+[PDF版本](g6-c13-guided-irregular-volume.pdf)
+
+---
+
+### 温度怎样影响粒子运动？
+![温度怎样影响粒子运动？](g6-c13-inquiry-particle-motion.png)
+[PDF版本](g6-c13-inquiry-particle-motion.pdf)
+
+---
+
+### 看不见的东西怎么描述？
+![看不见的东西怎么描述？](g6-c14-guided-describe-unseen.png)
+[PDF版本](g6-c14-guided-describe-unseen.pdf)
+
+---
+
+### 怎样测pH值？
+![怎样测pH值？](g6-c14-inquiry-ph.png)
+[PDF版本](g6-c14-inquiry-ph.pdf)
+
+---
+
+### 怎样用弹簧测重量？
+![怎样用弹簧测重量？](g6-c15-guided-spring-scale.png)
+[PDF版本](g6-c15-guided-spring-scale.pdf)
+
+---
+
+### 东西不变，怎样变轻？
+![东西不变，怎样变轻？](g6-c15-inquiry-weigh-less.png)
+[PDF版本](g6-c15-inquiry-weigh-less.pdf)
+
+---
+
+### 怎样平衡不同的重量？
+![怎样平衡不同的重量？](g6-c16-guided-balance-weights.png)
+[PDF版本](g6-c16-guided-balance-weights.pdf)
+
+---
+
+### 轮轴怎样让人省力？
+![轮轴怎样让人省力？](g6-c16-inquiry-wheel-axle.png)
+[PDF版本](g6-c16-inquiry-wheel-axle.pdf)
