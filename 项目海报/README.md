@@ -1083,3 +1083,41 @@
 ### 哪种笔适合在太空用？
 ![哪种笔适合在太空用？](g5-c18-full-space-pens.png)
 [PDF版本](g5-c18-full-space-pens.pdf)
+
+---
+
+## 六年级
+
+### 蘑菇有哪些区别？
+![蘑菇有哪些区别？](g6-c1-guided-mushrooms.png)
+[PDF版本](g6-c1-guided-mushrooms.pdf)
+
+---
+
+### 怎样识别生物并分类？
+![怎样识别生物并分类？](g6-c1-inquiry-identify-classify.png)
+[PDF版本](g6-c1-inquiry-identify-classify.pdf)
+
+---
+
+### 怎样做水滴放大镜？
+![怎样做水滴放大镜？](g6-c2-guided-water-drop-lens.png)
+[PDF版本](g6-c2-guided-water-drop-lens.pdf)
+
+---
+
+### 怎样做细胞膜模型？
+![怎样做细胞膜模型？](g6-c2-inquiry-cell-membrane.png)
+[PDF版本](g6-c2-inquiry-cell-membrane.pdf)
+
+---
+
+### 葵花籽一样吗？
+![葵花籽一样吗？](g6-c3-guided-sunflower-seeds.png)
+[PDF版本](g6-c3-guided-sunflower-seeds.pdf)
+
+---
+
+### 怎样用硬币模拟遗传？
+![怎样用硬币模拟遗传？](g6-c3-inquiry-coin-genetics.png)
+[PDF版本](g6-c3-inquiry-coin-genetics.pdf)
