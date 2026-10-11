@@ -841,3 +841,41 @@
 ### 载荷越重飞得越近吗？
 ![载荷越重飞得越近吗？](g4-c19-full-payload-rocket.png)
 [PDF版本](g4-c19-full-payload-rocket.pdf)
+
+---
+
+## 五年级
+
+### 怎样给种子分类？
+![怎样给种子分类？](g5-c1-guided-classify-seeds.png)
+[PDF版本](g5-c1-guided-classify-seeds.pdf)
+
+---
+
+### 酵母有哪些特征？
+![酵母有哪些特征？](g5-c1-inquiry-yeast-traits.png)
+[PDF版本](g5-c1-inquiry-yeast-traits.pdf)
+
+---
+
+### 酵母生长需要什么？
+![酵母生长需要什么？](g5-c2-guided-yeast-growth.png)
+[PDF版本](g5-c2-guided-yeast-growth.pdf)
+
+---
+
+### 怎样做手臂模型？
+![怎样做手臂模型？](g5-c2-inquiry-arm-model.png)
+[PDF版本](g5-c2-inquiry-arm-model.pdf)
+
+---
+
+### 怎样观察你的脉搏？
+![怎样观察你的脉搏？](g5-c3-guided-pulse.png)
+[PDF版本](g5-c3-guided-pulse.pdf)
+
+---
+
+### 你的肺活量是多少？
+![你的肺活量是多少？](g5-c3-inquiry-lung-capacity.png)
+[PDF版本](g5-c3-inquiry-lung-capacity.pdf)
