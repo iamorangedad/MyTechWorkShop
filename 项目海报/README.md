@@ -1331,3 +1331,33 @@
 ### 怎样做分光镜？
 ![怎样做分光镜？](g6-c19-inquiry-spectroscope.png)
 [PDF版本](g6-c19-inquiry-spectroscope.pdf)
+
+---
+
+### 怎样找到一颗行星？
+![怎样找到一颗行星？](g6-c20-guided-find-planet.png)
+[PDF版本](g6-c20-guided-find-planet.pdf)
+
+---
+
+### 怎样做行星运动模型？
+![怎样做行星运动模型？](g6-c20-inquiry-planet-motion.png)
+[PDF版本](g6-c20-inquiry-planet-motion.pdf)
+
+---
+
+### 机器人怎样系鞋带？
+![机器人怎样系鞋带？](g6-c21-guided-robot-shoelace.png)
+[PDF版本](g6-c21-guided-robot-shoelace.pdf)
+
+---
+
+### 怎样做机械臂模型？
+![怎样做机械臂模型？](g6-c21-inquiry-robot-arm.png)
+[PDF版本](g6-c21-inquiry-robot-arm.pdf)
+
+---
+
+### 防晒系数越大越好吗？
+![防晒系数越大越好吗？](g6-c21-full-sunscreen-spf.png)
+[PDF版本](g6-c21-full-sunscreen-spf.pdf)
