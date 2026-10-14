@@ -1,5 +1,10 @@
 # 项目海报
 
+![封面：科学探究之源 · Scott Foresman Science](00-封面-scott-foresman-science.png)
+[封面 PDF](00-封面-scott-foresman-science.pdf)
+
+本目录 224 张探究海报改编自美国小学科学教材 Scott Foresman Science（Pearson，1–6 年级）。
+
 本目录包含青少年STEM教育项目的海报资料。
 
 ## 海报列表
