@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 121 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 125 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -131,4 +131,8 @@
 | 四边形 | 三年级 | 第6单元 模块2 | 四边形（Quadrilaterals） | Bridges in Mathematics 三年级 第6单元 模块2 · The Math Learning Center | [PNG](<海报/g3-u6m2-四边形.png>) · [PDF](<海报/g3-u6m2-四边形.pdf>) |
 | 周长和面积 | 三年级 | 第6单元 模块3 | 周长和面积（Perimeter & Area） | Bridges in Mathematics 三年级 第6单元 模块3 · The Math Learning Center | [PNG](<海报/g3-u6m3-周长和面积.png>) · [PDF](<海报/g3-u6m3-周长和面积.pdf>) |
 | 图形与分数 | 三年级 | 第6单元 模块4 | 图形与分数（Shapes & Fractions） | Bridges in Mathematics 三年级 第6单元 模块4 · The Math Learning Center | [PNG](<海报/g3-u6m4-图形与分数.png>) · [PDF](<海报/g3-u6m4-图形与分数.pdf>) |
+| 乘法的性质 | 三年级 | 第7单元 模块1 | 基础以外的乘法（Multiplication Beyond the Basics） | Bridges in Mathematics 三年级 第7单元 模块1 · The Math Learning Center | [PNG](<海报/g3-u7m1-基础以外的乘法.png>) · [PDF](<海报/g3-u7m1-基础以外的乘法.pdf>) |
+| 一位数乘两位数 | 三年级 | 第7单元 模块2 | 一位数乘两位数（One- by Two-Digit Multiplication） | Bridges in Mathematics 三年级 第7单元 模块2 · The Math Learning Center | [PNG](<海报/g3-u7m2-一位数乘两位数.png>) · [PDF](<海报/g3-u7m2-一位数乘两位数.pdf>) |
+| 整体和一组 | 三年级 | 第7单元 模块3 | 整体的部分与一组的部分（Fractions as Parts of a Whole & Parts of a Set） | Bridges in Mathematics 三年级 第7单元 模块3 · The Math Learning Center | [PNG](<海报/g3-u7m3-整体的部分与一组的部分.png>) · [PDF](<海报/g3-u7m3-整体的部分与一组的部分.pdf>) |
+| 分数的应用 | 三年级 | 第7单元 模块4 | 工作中的分数（Fractions at Work） | Bridges in Mathematics 三年级 第7单元 模块4 · The Math Learning Center | [PNG](<海报/g3-u7m4-工作中的分数.png>) · [PDF](<海报/g3-u7m4-工作中的分数.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
