@@ -7,11 +7,38 @@
 
 ## 海报
 
-样张 4 张（PNG + PDF），待审核后再做全套。海报底部均标注教材来源。
+每章一张，共 8 张（PNG + PDF）。海报底部均标注教材来源。
 
-| 级别 | 章 | 海报 | 教材来源 |
-|---|---|---|---|
-| Level 2 | 2D 第12章 Problem Solving（解决问题） | [数路线](海报/l2-D12-数路线.png) · [PDF](海报/l2-D12-数路线.pdf) | Beast Academy 2D 第12章 · Art of Problem Solving |
-| Level 3 | 3B 第5章 Perfect Squares（完全平方数） | [完全平方数](海报/l3-B05-完全平方数.png) · [PDF](海报/l3-B05-完全平方数.pdf) | Beast Academy 3B 第5章 · Art of Problem Solving |
-| Level 4 | 4B 第6章 Logic（逻辑） | [逻辑推理](海报/l4-B06-逻辑推理.png) · [PDF](海报/l4-B06-逻辑推理.pdf) | Beast Academy 4B 第6章 · Art of Problem Solving |
-| Level 5 | 5D 第11章 Square Roots（平方根） | [平方根](海报/l5-D11-平方根.png) · [PDF](海报/l5-D11-平方根.pdf) | Beast Academy 5D 第11章 · Art of Problem Solving |
+### Level 1（一级，Beast Academy 1A–1D）
+
+| 章 | 海报 | 教材来源 |
+|---|---|---|
+| 1A 第1章 Counting（数数） | [数数](海报/l1-A01-数数.png) · [PDF](海报/l1-A01-数数.pdf) | Beast Academy 1A 第1章 · Art of Problem Solving |
+| 1A 第2章 Shapes（图形） | [图形](海报/l1-A02-图形.png) · [PDF](海报/l1-A02-图形.pdf) | Beast Academy 1A 第2章 · Art of Problem Solving |
+| 1A 第3章 Comparing（比较） | [比较](海报/l1-A03-比较.png) · [PDF](海报/l1-A03-比较.pdf) | Beast Academy 1A 第3章 · Art of Problem Solving |
+| 1B 第4章 Addition（加法） | [加法](海报/l1-B04-加法.png) · [PDF](海报/l1-B04-加法.pdf) | Beast Academy 1B 第4章 · Art of Problem Solving |
+
+### Level 2（二级，Beast Academy 2A–2D）
+
+| 章 | 海报 | 教材来源 |
+|---|---|---|
+| 2D 第12章 Problem Solving（解决问题） | [数路线](海报/l2-D12-数路线.png) · [PDF](海报/l2-D12-数路线.pdf) | Beast Academy 2D 第12章 · Art of Problem Solving |
+
+### Level 3（三级，Beast Academy 3A–3D）
+
+| 章 | 海报 | 教材来源 |
+|---|---|---|
+| 3B 第5章 Perfect Squares（完全平方数） | [完全平方数](海报/l3-B05-完全平方数.png) · [PDF](海报/l3-B05-完全平方数.pdf) | Beast Academy 3B 第5章 · Art of Problem Solving |
+
+### Level 4（四级，Beast Academy 4A–4D）
+
+| 章 | 海报 | 教材来源 |
+|---|---|---|
+| 4B 第6章 Logic（逻辑） | [逻辑推理](海报/l4-B06-逻辑推理.png) · [PDF](海报/l4-B06-逻辑推理.pdf) | Beast Academy 4B 第6章 · Art of Problem Solving |
+
+### Level 5（五级，Beast Academy 5A–5D）
+
+| 章 | 海报 | 教材来源 |
+|---|---|---|
+| 5D 第11章 Square Roots（平方根） | [平方根](海报/l5-D11-平方根.png) · [PDF](海报/l5-D11-平方根.pdf) | Beast Academy 5D 第11章 · Art of Problem Solving |
+
