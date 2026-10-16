@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 42 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 46 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### Level 1（一级，Beast Academy 1A–1D）
 
@@ -68,7 +68,11 @@
 | 4A 第2章 Multiplication（乘法） | [乘法](海报/l4-A02-乘法.png) · [PDF](海报/l4-A02-乘法.pdf) | Beast Academy 4A 第2章 · Art of Problem Solving |
 | 4A 第3章 Exponents（乘方） | [乘方](海报/l4-A03-乘方.png) · [PDF](海报/l4-A03-乘方.pdf) | Beast Academy 4A 第3章 · Art of Problem Solving |
 | 4B 第4章 Counting（计数） | [计数](海报/l4-B04-计数.png) · [PDF](海报/l4-B04-计数.pdf) | Beast Academy 4B 第4章 · Art of Problem Solving |
+| 4B 第5章 Division（除法） | [除法](海报/l4-B05-除法.png) · [PDF](海报/l4-B05-除法.pdf) | Beast Academy 4B 第5章 · Art of Problem Solving |
 | 4B 第6章 Logic（逻辑） | [逻辑推理](海报/l4-B06-逻辑推理.png) · [PDF](海报/l4-B06-逻辑推理.pdf) | Beast Academy 4B 第6章 · Art of Problem Solving |
+| 4C 第7章 Factors（因数） | [因数](海报/l4-C07-因数.png) · [PDF](海报/l4-C07-因数.pdf) | Beast Academy 4C 第7章 · Art of Problem Solving |
+| 4C 第8章 Fractions（分数） | [分数](海报/l4-C08-分数.png) · [PDF](海报/l4-C08-分数.pdf) | Beast Academy 4C 第8章 · Art of Problem Solving |
+| 4C 第9章 Integers（整数） | [正负数](海报/l4-C09-正负数.png) · [PDF](海报/l4-C09-正负数.pdf) | Beast Academy 4C 第9章 · Art of Problem Solving |
 
 ### Level 5（五级，Beast Academy 5A–5D）
 
