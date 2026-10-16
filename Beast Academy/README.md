@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 57 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 60 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### Level 1（一级，Beast Academy 1A–1D）
 
@@ -89,5 +89,8 @@
 | 5B 第6章 Fractions（分数） | [分数](海报/l5-B06-分数.png) · [PDF](海报/l5-B06-分数.pdf) | Beast Academy 5B 第6章 · Art of Problem Solving |
 | 5C 第7章 Sequences（数列） | [数列](海报/l5-C07-数列.png) · [PDF](海报/l5-C07-数列.pdf) | Beast Academy 5C 第7章 · Art of Problem Solving |
 | 5C 第8章 Ratios & Rates（比与速率） | [比与速率](海报/l5-C08-比与速率.png) · [PDF](海报/l5-C08-比与速率.pdf) | Beast Academy 5C 第8章 · Art of Problem Solving |
+| 5C 第9章 Decimals（小数） | [小数](海报/l5-C09-小数.png) · [PDF](海报/l5-C09-小数.pdf) | Beast Academy 5C 第9章 · Art of Problem Solving |
+| 5D 第10章 Percents（百分数） | [百分数](海报/l5-D10-百分数.png) · [PDF](海报/l5-D10-百分数.pdf) | Beast Academy 5D 第10章 · Art of Problem Solving |
 | 5D 第11章 Square Roots（平方根） | [平方根](海报/l5-D11-平方根.png) · [PDF](海报/l5-D11-平方根.pdf) | Beast Academy 5D 第11章 · Art of Problem Solving |
+| 5D 第12章 Exponents（指数） | [指数](海报/l5-D12-指数.png) · [PDF](海报/l5-D12-指数.pdf) | Beast Academy 5D 第12章 · Art of Problem Solving |
 
