@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 33 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 36 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -49,6 +49,9 @@
 | 第10章 钱币 | [人民币](海报/g2-10-人民币.png) · [PDF](海报/g2-10-人民币.pdf) | Dimensions Math 2B 第10章 |
 | 第11章 分数 | [分数](海报/g2-11-分数.png) · [PDF](海报/g2-11-分数.pdf) | Dimensions Math 2B 第11章 |
 | 第12章 时间 | [时间](海报/g2-12-时间.png) · [PDF](海报/g2-12-时间.pdf) | Dimensions Math 2B 第12章 |
+| 第13章 容量 | [容量](海报/g2-13-容量.png) · [PDF](海报/g2-13-容量.pdf) | Dimensions Math 2B 第13章 |
+| 第14章 统计图 | [统计图](海报/g2-14-统计图.png) · [PDF](海报/g2-14-统计图.pdf) | Dimensions Math 2B 第14章 |
+| 第15章 图形 | [图形](海报/g2-15-图形.png) · [PDF](海报/g2-15-图形.pdf) | Dimensions Math 2B 第15章 |
 
 ### 三年级（Dimensions Math 3A / 3B）
 
