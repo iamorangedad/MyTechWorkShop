@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个 Section 一张，全套 161 张。已完成 25 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个 Section 一张，全套 161 张。已完成 52 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 部分 | 部分名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -36,3 +36,30 @@
 | 学校里的数学 | 幼儿园 | 第8单元 B部分 | 学校里的数学（Math in Our School） | IM K–5 Math 幼儿园 第8单元 B部分 · Illustrative Mathematics | [PNG](<海报/g0-u8b-学校里的数学.png>) · [PDF](<海报/g0-u8b-学校里的数学.pdf>) |
 | 5 以内加减 | 幼儿园 | 第8单元 C部分 | 5 以内熟练加减（Fluency within 5） | IM K–5 Math 幼儿园 第8单元 C部分 · Illustrative Mathematics | [PNG](<海报/g0-u8c-5以内熟练加减.png>) · [PDF](<海报/g0-u8c-5以内熟练加减.pdf>) |
 | 关于 10 | 幼儿园 | 第8单元 D部分 | 关于 10 的一切（All About 10） | IM K–5 Math 幼儿园 第8单元 D部分 · Illustrative Mathematics | [PNG](<海报/g0-u8d-关于10的一切.png>) · [PDF](<海报/g0-u8d-关于10的一切.pdf>) |
+| 10 以内加减 | 一年级 | 第1单元 A部分 | 10 以内加减（Add and Subtract within 10） | IM K–5 Math 一年级 第1单元 A部分 · Illustrative Mathematics | [PNG](<海报/g1-u1a-10以内加减.png>) · [PDF](<海报/g1-u1a-10以内加减.pdf>) |
+| 展示数据 | 一年级 | 第1单元 B部分 | 展示我们的数据（Show Us Your Data） | IM K–5 Math 一年级 第1单元 B部分 · Illustrative Mathematics | [PNG](<海报/g1-u1b-展示我们的数据.png>) · [PDF](<海报/g1-u1b-展示我们的数据.pdf>) |
+| 数据告诉我们 | 一年级 | 第1单元 C部分 | 数据告诉我们什么？（What Does the Data Tell Us?） | IM K–5 Math 一年级 第1单元 C部分 · Illustrative Mathematics | [PNG](<海报/g1-u1c-数据告诉我们什么.png>) · [PDF](<海报/g1-u1c-数据告诉我们什么.pdf>) |
+| 添上和拿走 | 一年级 | 第2单元 A部分 | 添上和拿走的故事题（Add To and Take From Story Problems） | IM K–5 Math 一年级 第2单元 A部分 · Illustrative Mathematics | [PNG](<海报/g1-u2a-添上和拿走的故事题.png>) · [PDF](<海报/g1-u2a-添上和拿走的故事题.pdf>) |
+| 合与分 | 一年级 | 第2单元 B部分 | 合与分的故事题（Put Together/Take Apart Story Problems） | IM K–5 Math 一年级 第2单元 B部分 · Illustrative Mathematics | [PNG](<海报/g1-u2b-合与分的故事题.png>) · [PDF](<海报/g1-u2b-合与分的故事题.pdf>) |
+| 比较的故事题 | 一年级 | 第2单元 C部分 | 比较的故事题（Compare Story Problems） | IM K–5 Math 一年级 第2单元 C部分 · Illustrative Mathematics | [PNG](<海报/g1-u2c-比较的故事题.png>) · [PDF](<海报/g1-u2c-比较的故事题.pdf>) |
+| 各种故事题 | 一年级 | 第2单元 D部分 | 各种故事题（All Kinds of Story Problems） | IM K–5 Math 一年级 第2单元 D部分 · Illustrative Mathematics | [PNG](<海报/g1-u2d-各种故事题.png>) · [PDF](<海报/g1-u2d-各种故事题.pdf>) |
+| 10 以内更熟练 | 一年级 | 第3单元 A部分 | 10 以内加减更熟练（Develop Fluency with Addition and Subtraction within 10） | IM K–5 Math 一年级 第3单元 A部分 · Illustrative Mathematics | [PNG](<海报/g1-u3a-10以内加减更熟练.png>) · [PDF](<海报/g1-u3a-10以内加减更熟练.pdf>) |
+| 把 10 当作一个整体 | 一年级 | 第3单元 B部分 | 把 10 当作一个整体（Add and Subtract using Ten as a Unit） | IM K–5 Math 一年级 第3单元 B部分 · Illustrative Mathematics | [PNG](<海报/g1-u3b-把10当作一个整体.png>) · [PDF](<海报/g1-u3b-把10当作一个整体.pdf>) |
+| 20 以内加法 | 一年级 | 第3单元 C部分 | 20 以内加法（Add within 20） | IM K–5 Math 一年级 第3单元 C部分 · Illustrative Mathematics | [PNG](<海报/g1-u3c-20以内加法.png>) · [PDF](<海报/g1-u3c-20以内加法.pdf>) |
+| 20 以内减法 | 一年级 | 第3单元 D部分 | 20 以内减法（Subtract within 20） | IM K–5 Math 一年级 第3单元 D部分 · Illustrative Mathematics | [PNG](<海报/g1-u3d-20以内减法.png>) · [PDF](<海报/g1-u3d-20以内减法.pdf>) |
+| 十个十个地数 | 一年级 | 第4单元 A部分 | 十个十个地数（Units of Ten） | IM K–5 Math 一年级 第4单元 A部分 · Illustrative Mathematics | [PNG](<海报/g1-u4a-十个十个地数.png>) · [PDF](<海报/g1-u4a-十个十个地数.pdf>) |
+| 十位和个位 | 一年级 | 第4单元 B部分 | 十位和个位（Tens and Ones） | IM K–5 Math 一年级 第4单元 B部分 · Illustrative Mathematics | [PNG](<海报/g1-u4b-十位和个位.png>) · [PDF](<海报/g1-u4b-十位和个位.pdf>) |
+| 比较 99 以内的数 | 一年级 | 第4单元 C部分 | 比较 99 以内的数（Compare Numbers to 99） | IM K–5 Math 一年级 第4单元 C部分 · Illustrative Mathematics | [PNG](<海报/g1-u4c-比较99以内的数.png>) · [PDF](<海报/g1-u4c-比较99以内的数.pdf>) |
+| 一个数的不同组成 | 一年级 | 第4单元 D部分 | 一个数的不同组成（Different Ways to Make a Number） | IM K–5 Math 一年级 第4单元 D部分 · Illustrative Mathematics | [PNG](<海报/g1-u4d-一个数的不同组成.png>) · [PDF](<海报/g1-u4d-一个数的不同组成.pdf>) |
+| 不进位加法 | 一年级 | 第5单元 A部分 | 不进位加法（Add Without Making a Ten） | IM K–5 Math 一年级 第5单元 A部分 · Illustrative Mathematics | [PNG](<海报/g1-u5a-不进位加法.png>) · [PDF](<海报/g1-u5a-不进位加法.pdf>) |
+| 凑十：两位数加一位数 | 一年级 | 第5单元 B部分 | 凑十：两位数加一位数（Make a Ten: Add One- and Two-digit Numbers） | IM K–5 Math 一年级 第5单元 B部分 · Illustrative Mathematics | [PNG](<海报/g1-u5b-凑十两位数加一位数.png>) · [PDF](<海报/g1-u5b-凑十两位数加一位数.pdf>) |
+| 两位数进位加 | 一年级 | 第5单元 C部分 | 凑十：两位数加两位数（Make a Ten: Add Within 100） | IM K–5 Math 一年级 第5单元 C部分 · Illustrative Mathematics | [PNG](<海报/g1-u5c-凑十两位数加两位数.png>) · [PDF](<海报/g1-u5c-凑十两位数加两位数.pdf>) |
+| 间接比较 | 一年级 | 第6单元 A部分 | 从直接比较到间接比较（From Direct to Indirect Comparisons） | IM K–5 Math 一年级 第6单元 A部分 · Illustrative Mathematics | [PNG](<海报/g1-u6a-从直接比较到间接比较.png>) · [PDF](<海报/g1-u6a-从直接比较到间接比较.pdf>) |
+| 用长度单位量 | 一年级 | 第6单元 B部分 | 用长度单位量到 120（Measure by Iterating up to 120 Length Units） | IM K–5 Math 一年级 第6单元 B部分 · Illustrative Mathematics | [PNG](<海报/g1-u6b-用长度单位量到120.png>) · [PDF](<海报/g1-u6b-用长度单位量到120.pdf>) |
+| 各种故事题 | 一年级 | 第6单元 C部分 | 各种故事题（All Kinds of Story Problems） | IM K–5 Math 一年级 第6单元 C部分 · Illustrative Mathematics | [PNG](<海报/g1-u6c-各种故事题.png>) · [PDF](<海报/g1-u6c-各种故事题.pdf>) |
+| 平面图形和立体图形 | 一年级 | 第7单元 A部分 | 平面图形和立体图形（Flat and Solid Shapes） | IM K–5 Math 一年级 第7单元 A部分 · Illustrative Mathematics | [PNG](<海报/g1-u7a-平面图形和立体图形.png>) · [PDF](<海报/g1-u7a-平面图形和立体图形.pdf>) |
+| 一半和四分之一 | 一年级 | 第7单元 B部分 | 二分之一和四分之一（Halves and Quarters） | IM K–5 Math 一年级 第7单元 B部分 · Illustrative Mathematics | [PNG](<海报/g1-u7b-二分之一和四分之一.png>) · [PDF](<海报/g1-u7b-二分之一和四分之一.pdf>) |
+| 整时和半时 | 一年级 | 第7单元 C部分 | 整时和半时（Tell Time in Hours and Half Hours） | IM K–5 Math 一年级 第7单元 C部分 · Illustrative Mathematics | [PNG](<海报/g1-u7c-整时和半时.png>) · [PDF](<海报/g1-u7c-整时和半时.pdf>) |
+| 20 以内加减复习 | 一年级 | 第8单元 A部分 | 20 以内加减（Add and Subtract Within 20） | IM K–5 Math 一年级 第8单元 A部分 · Illustrative Mathematics | [PNG](<海报/g1-u8a-20以内加减.png>) · [PDF](<海报/g1-u8a-20以内加减.pdf>) |
+| 故事题复习 | 一年级 | 第8单元 B部分 | 故事题（Story Problems） | IM K–5 Math 一年级 第8单元 B部分 · Illustrative Mathematics | [PNG](<海报/g1-u8b-故事题.png>) · [PDF](<海报/g1-u8b-故事题.pdf>) |
+| 120 以内的数 | 一年级 | 第8单元 C部分 | 120 以内的数（Numbers to 120） | IM K–5 Math 一年级 第8单元 C部分 · Illustrative Mathematics | [PNG](<海报/g1-u8c-120以内的数.png>) · [PDF](<海报/g1-u8c-120以内的数.pdf>) |
