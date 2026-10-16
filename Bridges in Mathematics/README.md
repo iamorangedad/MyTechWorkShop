@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 133 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 137 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -143,4 +143,8 @@
 | 质数与合数 | 四年级 | 第1单元 模块2 | 质数与合数（Primes & Composites） | Bridges in Mathematics 四年级 第1单元 模块2 · The Math Learning Center | [PNG](<海报/g4-u1m2-质数与合数.png>) · [PDF](<海报/g4-u1m2-质数与合数.pdf>) |
 | 倍数比较与方程 | 四年级 | 第1单元 模块3 | 倍数比较与方程（Multiplicative Comparisons & Equations） | Bridges in Mathematics 四年级 第1单元 模块3 · The Math Learning Center | [PNG](<海报/g4-u1m3-倍数比较与方程.png>) · [PDF](<海报/g4-u1m3-倍数比较与方程.pdf>) |
 | 测量与换算 | 四年级 | 第1单元 模块4 | 测量体验（Measurement Experiences） | Bridges in Mathematics 四年级 第1单元 模块4 · The Math Learning Center | [PNG](<海报/g4-u1m4-测量体验.png>) · [PDF](<海报/g4-u1m4-测量体验.pdf>) |
+| 乘法阵列 | 四年级 | 第2单元 模块1 | 搭建乘法阵列（Building Multiplication Arrays） | Bridges in Mathematics 四年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g4-u2m1-搭建乘法阵列.png>) · [PDF](<海报/g4-u2m1-搭建乘法阵列.pdf>) |
+| 比率表 | 四年级 | 第2单元 模块2 | 阵列与比率表（Arrays & Ratio Tables） | Bridges in Mathematics 四年级 第2单元 模块2 · The Math Learning Center | [PNG](<海报/g4-u2m2-阵列与比率表.png>) · [PDF](<海报/g4-u2m2-阵列与比率表.pdf>) |
+| 乘法策略 | 四年级 | 第2单元 模块3 | 乘法故事与策略（Multiplication Stories & Strategies） | Bridges in Mathematics 四年级 第2单元 模块3 · The Math Learning Center | [PNG](<海报/g4-u2m3-乘法故事与策略.png>) · [PDF](<海报/g4-u2m3-乘法故事与策略.pdf>) |
+| 有余数除法 | 四年级 | 第2单元 模块4 | 初步的有余数除法（Early Division with Remainders） | Bridges in Mathematics 四年级 第2单元 模块4 · The Math Learning Center | [PNG](<海报/g4-u2m4-初步的有余数除法.png>) · [PDF](<海报/g4-u2m4-初步的有余数除法.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
