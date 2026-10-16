@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 31 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 35 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### Level 1（一级，Beast Academy 1A–1D）
 
@@ -52,6 +52,10 @@
 | 3A 第3章 Perimeter and Area（周长与面积） | [周长与面积](海报/l3-A03-周长与面积.png) · [PDF](海报/l3-A03-周长与面积.pdf) | Beast Academy 3A 第3章 · Art of Problem Solving |
 | 3B 第4章 Multiplication（乘法） | [乘法](海报/l3-B04-乘法.png) · [PDF](海报/l3-B04-乘法.pdf) | Beast Academy 3B 第4章 · Art of Problem Solving |
 | 3B 第5章 Perfect Squares（完全平方数） | [完全平方数](海报/l3-B05-完全平方数.png) · [PDF](海报/l3-B05-完全平方数.pdf) | Beast Academy 3B 第5章 · Art of Problem Solving |
+| 3B 第6章 The Distributive Property（分配律） | [分配律](海报/l3-B06-分配律.png) · [PDF](海报/l3-B06-分配律.pdf) | Beast Academy 3B 第6章 · Art of Problem Solving |
+| 3C 第7章 Variables（变量） | [变量](海报/l3-C07-变量.png) · [PDF](海报/l3-C07-变量.pdf) | Beast Academy 3C 第7章 · Art of Problem Solving |
+| 3C 第8章 Division（除法） | [除法](海报/l3-C08-除法.png) · [PDF](海报/l3-C08-除法.pdf) | Beast Academy 3C 第8章 · Art of Problem Solving |
+| 3C 第9章 Measurement（测量） | [测量](海报/l3-C09-测量.png) · [PDF](海报/l3-C09-测量.pdf) | Beast Academy 3C 第9章 · Art of Problem Solving |
 
 ### Level 4（四级，Beast Academy 4A–4D）
 
