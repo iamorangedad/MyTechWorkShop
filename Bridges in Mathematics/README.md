@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 188 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 192 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -199,3 +199,7 @@
 | 除法的含义 | 五年级 | 第7单元 模块2 | 除法的含义与策略（Division Interpretations & Strategies） | Bridges in Mathematics 五年级 第7单元 模块2 · The Math Learning Center | [PNG](<海报/g5-u7m2-除法的含义与策略.png>) · [PDF](<海报/g5-u7m2-除法的含义与策略.pdf>) |
 | 10 的乘方 | 五年级 | 第7单元 模块3 | 10 的乘方（Powers of Ten） | Bridges in Mathematics 五年级 第7单元 模块3 · The Math Learning Center | [PNG](<海报/g5-u7m3-10的乘方.png>) · [PDF](<海报/g5-u7m3-10的乘方.pdf>) |
 | 小数乘除 | 五年级 | 第7单元 模块4 | 小数乘除（Decimal Multiplication & Division） | Bridges in Mathematics 五年级 第7单元 模块4 · The Math Learning Center | [PNG](<海报/g5-u7m4-小数乘除.png>) · [PDF](<海报/g5-u7m4-小数乘除.pdf>) |
+| 研究太阳能 | 五年级 | 第8单元 模块1 | 研究太阳能（Investigating Solar Energy） | Bridges in Mathematics 五年级 第8单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u8m1-研究太阳能.png>) · [PDF](<海报/g5-u8m1-研究太阳能.pdf>) |
+| 被动式太阳能 | 五年级 | 第8单元 模块2 | 研究被动式太阳能设计（Investigating Passive Solar Design） | Bridges in Mathematics 五年级 第8单元 模块2 · The Math Learning Center | [PNG](<海报/g5-u8m2-研究被动式太阳能设计.png>) · [PDF](<海报/g5-u8m2-研究被动式太阳能设计.pdf>) |
+| 设计太阳能房屋 | 五年级 | 第8单元 模块3 | 设计太阳能房屋（Designing Solar Homes） | Bridges in Mathematics 五年级 第8单元 模块3 · The Math Learning Center | [PNG](<海报/g5-u8m3-设计太阳能房屋.png>) · [PDF](<海报/g5-u8m3-设计太阳能房屋.pdf>) |
+| 完成模型 | 五年级 | 第8单元 模块4 | 完成我们的模型（Finishing Our Models） | Bridges in Mathematics 五年级 第8单元 模块4 · The Math Learning Center | [PNG](<海报/g5-u8m4-完成我们的模型.png>) · [PDF](<海报/g5-u8m4-完成我们的模型.pdf>) |
