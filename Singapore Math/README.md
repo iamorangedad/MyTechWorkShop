@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 85 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 89 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -123,3 +123,7 @@
 | 第2章 分数 | [分数乘除法](海报/g6-02-分数乘除法.png) · [PDF](海报/g6-02-分数乘除法.pdf) | Dimensions Math 6A 第2章 |
 | 第3章 小数 | [小数](海报/g6-03-小数.png) · [PDF](海报/g6-03-小数.pdf) | Dimensions Math 6A 第3章 |
 | 第4章 负数 | [负数](海报/g6-04-负数.png) · [PDF](海报/g6-04-负数.pdf) | Dimensions Math 6A 第4章 |
+| 第5章 比 | [比](海报/g6-05-比.png) · [PDF](海报/g6-05-比.pdf) | Dimensions Math 6A 第5章 |
+| 第6章 率 | [率](海报/g6-06-率.png) · [PDF](海报/g6-06-率.pdf) | Dimensions Math 6A 第6章 |
+| 第7章 百分数 | [百分数](海报/g6-07-百分数.png) · [PDF](海报/g6-07-百分数.pdf) | Dimensions Math 6A 第7章 |
+| 第8章 代数式 | [代数式](海报/g6-08-代数式.png) · [PDF](海报/g6-08-代数式.pdf) | Dimensions Math 6B 第8章 |
