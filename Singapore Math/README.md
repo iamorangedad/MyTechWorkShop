@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 62 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 66 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -90,3 +90,7 @@
 | 第11章 面积与周长 | [面积与周长](海报/g4-11-面积与周长.png) · [PDF](海报/g4-11-面积与周长.pdf) | Dimensions Math 4B 第11章 |
 | 第12章 小数 | [小数](海报/g4-12-小数.png) · [PDF](海报/g4-12-小数.pdf) | Dimensions Math 4B 第12章 |
 | 第13章 小数加减法 | [小数加减法](海报/g4-13-小数加减法.png) · [PDF](海报/g4-13-小数加减法.pdf) | Dimensions Math 4B 第13章 |
+| 第14章 小数乘除法 | [小数乘除法](海报/g4-14-小数乘除法.png) · [PDF](海报/g4-14-小数乘除法.pdf) | Dimensions Math 4B 第14章 |
+| 第15章 角 | [角](海报/g4-15-角.png) · [PDF](海报/g4-15-角.pdf) | Dimensions Math 4B 第15章 |
+| 第16章 线与图形 | [线与图形](海报/g4-16-线与图形.png) · [PDF](海报/g4-16-线与图形.pdf) | Dimensions Math 4B 第16章 |
+| 第17章 长方体的特征 | [长方体](海报/g4-17-长方体.png) · [PDF](海报/g4-17-长方体.pdf) | Dimensions Math 4B 第17章 |
