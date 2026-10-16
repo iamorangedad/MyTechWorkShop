@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 113 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 117 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -123,4 +123,8 @@
 | 时间和测量问题 | 三年级 | 第4单元 模块2 | 解测量问题，认读时间（Solving Measurement Problem Situations & Telling Time） | Bridges in Mathematics 三年级 第4单元 模块2 · The Math Learning Center | [PNG](<海报/g3-u4m2-解测量问题认读时间.png>) · [PDF](<海报/g3-u4m2-解测量问题认读时间.pdf>) |
 | 理解分数 | 三年级 | 第4单元 模块3 | 理解分数（Understanding Fractions） | Bridges in Mathematics 三年级 第4单元 模块3 · The Math Learning Center | [PNG](<海报/g3-u4m3-理解分数.png>) · [PDF](<海报/g3-u4m3-理解分数.pdf>) |
 | 线图上的分数 | 三年级 | 第4单元 模块4 | 线图上的分数（Fractions on a Line Plot） | Bridges in Mathematics 三年级 第4单元 模块4 · The Math Learning Center | [PNG](<海报/g3-u4m4-线图上的分数.png>) · [PDF](<海报/g3-u4m4-线图上的分数.pdf>) |
+| 乘法和除法 | 三年级 | 第5单元 模块1 | 连接乘法与除法（Linking Multiplication & Division） | Bridges in Mathematics 三年级 第5单元 模块1 · The Math Learning Center | [PNG](<海报/g3-u5m1-连接乘法与除法.png>) · [PDF](<海报/g3-u5m1-连接乘法与除法.pdf>) |
+| 乘除法家族 | 三年级 | 第5单元 模块2 | 乘除法家族（Multiplication & Division Families） | Bridges in Mathematics 三年级 第5单元 模块2 · The Math Learning Center | [PNG](<海报/g3-u5m2-乘除法家族.png>) · [PDF](<海报/g3-u5m2-乘除法家族.pdf>) |
+| 除法练习 | 三年级 | 第5单元 模块3 | 除法练习（Division Practice） | Bridges in Mathematics 三年级 第5单元 模块3 · The Math Learning Center | [PNG](<海报/g3-u5m3-除法练习.png>) · [PDF](<海报/g3-u5m3-除法练习.pdf>) |
+| 认识面积 | 三年级 | 第5单元 模块4 | 认识面积（Introducing Area） | Bridges in Mathematics 三年级 第5单元 模块4 · The Math Learning Center | [PNG](<海报/g3-u5m4-认识面积.png>) · [PDF](<海报/g3-u5m4-认识面积.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
