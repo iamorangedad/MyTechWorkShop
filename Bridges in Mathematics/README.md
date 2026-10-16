@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 168 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 172 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -179,3 +179,7 @@
 | 等值分数解题 | 五年级 | 第2单元 模块2 | 用等值分数解决问题（Problem Solving with Equivalent Fractions） | Bridges in Mathematics 五年级 第2单元 模块2 · The Math Learning Center | [PNG](<海报/g5-u2m2-用等值分数解决问题.png>) · [PDF](<海报/g5-u2m2-用等值分数解决问题.pdf>) |
 | 公分母 | 五年级 | 第2单元 模块3 | 公分母（Common Denominators） | Bridges in Mathematics 五年级 第2单元 模块3 · The Math Learning Center | [PNG](<海报/g5-u2m3-公分母.png>) · [PDF](<海报/g5-u2m3-公分母.pdf>) |
 | 公倍数和公因数 | 五年级 | 第2单元 模块4 | 最小公倍数与最大公因数（LCMs and GCFs） | Bridges in Mathematics 五年级 第2单元 模块4 · The Math Learning Center | [PNG](<海报/g5-u2m4-最小公倍数与最大公因数.png>) · [PDF](<海报/g5-u2m4-最小公倍数与最大公因数.pdf>) |
+| 数位与小数 | 五年级 | 第3单元 模块1 | 数位与小数（Place Value & Decimals） | Bridges in Mathematics 五年级 第3单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u3m1-数位与小数.png>) · [PDF](<海报/g5-u3m1-数位与小数.pdf>) |
+| 小数加减 | 五年级 | 第3单元 模块2 | 小数加减（Adding & Subtracting Decimals） | Bridges in Mathematics 五年级 第3单元 模块2 · The Math Learning Center | [PNG](<海报/g5-u3m2-小数加减.png>) · [PDF](<海报/g5-u3m2-小数加减.pdf>) |
+| 单位换算 | 五年级 | 第3单元 模块3 | 单位换算（Conversions） | Bridges in Mathematics 五年级 第3单元 模块3 · The Math Learning Center | [PNG](<海报/g5-u3m3-单位换算.png>) · [PDF](<海报/g5-u3m3-单位换算.pdf>) |
+| 面积模型做除法 | 五年级 | 第3单元 模块4 | 除法与面积模型（Division & the Area Model） | Bridges in Mathematics 五年级 第3单元 模块4 · The Math Learning Center | [PNG](<海报/g5-u3m4-除法与面积模型.png>) · [PDF](<海报/g5-u3m4-除法与面积模型.pdf>) |
