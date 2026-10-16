@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 70 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 74 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -103,3 +103,7 @@
 | 第2章 列式与求值 | [列式与求值](海报/g5-02-列式与求值.png) · [PDF](海报/g5-02-列式与求值.pdf) | Dimensions Math 5A 第2章 |
 | 第3章 乘法与除法 | [乘法与除法](海报/g5-03-乘法与除法.png) · [PDF](海报/g5-03-乘法与除法.pdf) | Dimensions Math 5A 第3章 |
 | 第4章 分数加减法 | [异分母分数加减](海报/g5-04-异分母分数加减.png) · [PDF](海报/g5-04-异分母分数加减.pdf) | Dimensions Math 5A 第4章 |
+| 第5章 分数乘法 | [分数乘法](海报/g5-05-分数乘法.png) · [PDF](海报/g5-05-分数乘法.pdf) | Dimensions Math 5A 第5章 |
+| 第6章 分数除法 | [分数除法](海报/g5-06-分数除法.png) · [PDF](海报/g5-06-分数除法.pdf) | Dimensions Math 5A 第6章 |
+| 第7章 测量 | [测量](海报/g5-07-测量.png) · [PDF](海报/g5-07-测量.pdf) | Dimensions Math 5A 第7章 |
+| 第8章 立体图形的体积 | [体积](海报/g5-08-体积.png) · [PDF](海报/g5-08-体积.pdf) | Dimensions Math 5A 第8章 |
