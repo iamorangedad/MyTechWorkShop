@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 109 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 113 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -119,4 +119,8 @@
 | 多位数减法 | 三年级 | 第3单元 模块2 | 多位数减法（Multidigit Subtraction） | Bridges in Mathematics 三年级 第3单元 模块2 · The Math Learning Center | [PNG](<海报/g3-u3m2-多位数减法.png>) · [PDF](<海报/g3-u3m2-多位数减法.pdf>) |
 | 估算加减 | 三年级 | 第3单元 模块3 | 估算加减（Estimating to Add & Subtract） | Bridges in Mathematics 三年级 第3单元 模块3 · The Math Learning Center | [PNG](<海报/g3-u3m3-估算加减.png>) · [PDF](<海报/g3-u3m3-估算加减.pdf>) |
 | 1000 以内加减 | 三年级 | 第3单元 模块4 | 拓展多位数加减（Extending Multidigit Addition & Subtraction） | Bridges in Mathematics 三年级 第3单元 模块4 · The Math Learning Center | [PNG](<海报/g3-u3m4-拓展多位数加减.png>) · [PDF](<海报/g3-u3m4-拓展多位数加减.pdf>) |
+| 质量和体积 | 三年级 | 第4单元 模块1 | 测量质量与液体体积（Measuring Mass & Liquid Volume） | Bridges in Mathematics 三年级 第4单元 模块1 · The Math Learning Center | [PNG](<海报/g3-u4m1-测量质量与液体体积.png>) · [PDF](<海报/g3-u4m1-测量质量与液体体积.pdf>) |
+| 时间和测量问题 | 三年级 | 第4单元 模块2 | 解测量问题，认读时间（Solving Measurement Problem Situations & Telling Time） | Bridges in Mathematics 三年级 第4单元 模块2 · The Math Learning Center | [PNG](<海报/g3-u4m2-解测量问题认读时间.png>) · [PDF](<海报/g3-u4m2-解测量问题认读时间.pdf>) |
+| 理解分数 | 三年级 | 第4单元 模块3 | 理解分数（Understanding Fractions） | Bridges in Mathematics 三年级 第4单元 模块3 · The Math Learning Center | [PNG](<海报/g3-u4m3-理解分数.png>) · [PDF](<海报/g3-u4m3-理解分数.pdf>) |
+| 线图上的分数 | 三年级 | 第4单元 模块4 | 线图上的分数（Fractions on a Line Plot） | Bridges in Mathematics 三年级 第4单元 模块4 · The Math Learning Center | [PNG](<海报/g3-u4m4-线图上的分数.png>) · [PDF](<海报/g3-u4m4-线图上的分数.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
