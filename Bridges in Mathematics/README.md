@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 40 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 44 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -47,6 +47,10 @@
 | 数字架上看数 | 一年级 | 第1单元 模块2 | 认识数字架（Meet the Number Rack） | Bridges in Mathematics 一年级 第1单元 模块2 · The Math Learning Center | [PNG](<海报/g1-u1m2-认识数字架.png>) · [PDF](<海报/g1-u1m2-认识数字架.pdf>) |
 | 数的组成 | 一年级 | 第1单元 模块3 | 数和它的组成部分（Numbers & Their Parts） | Bridges in Mathematics 一年级 第1单元 模块3 · The Math Learning Center | [PNG](<海报/g1-u1m3-数和它的组成部分.png>) · [PDF](<海报/g1-u1m3-数和它的组成部分.pdf>) |
 | 数字架上加减 | 一年级 | 第1单元 模块4 | 在数字架上做 10 以内加减（Adding & Subtracting Within 10 on the Number Rack） | Bridges in Mathematics 一年级 第1单元 模块4 · The Math Learning Center | [PNG](<海报/g1-u1m4-在数字架上做10以内加减.png>) · [PDF](<海报/g1-u1m4-在数字架上做10以内加减.pdf>) |
+| 多米诺骨牌加法 | 一年级 | 第2单元 模块1 | 用多米诺骨牌数、比、加（Counting, Comparing & Adding with Dominoes） | Bridges in Mathematics 一年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g1-u2m1-用多米诺骨牌数比加.png>) · [PDF](<海报/g1-u2m1-用多米诺骨牌数比加.pdf>) |
+| 算式一家 | 一年级 | 第2单元 模块2 | 算式家族与问题情境（Fact Families & Problem Situations） | Bridges in Mathematics 一年级 第2单元 模块2 · The Math Learning Center | [PNG](<海报/g1-u2m2-算式家族与问题情境.png>) · [PDF](<海报/g1-u2m2-算式家族与问题情境.pdf>) |
+| 基础事实 | 一年级 | 第2单元 模块3 | 基础事实（Foundational Facts） | Bridges in Mathematics 一年级 第2单元 模块3 · The Math Learning Center | [PNG](<海报/g1-u2m3-基础事实.png>) · [PDF](<海报/g1-u2m3-基础事实.pdf>) |
+| 5 个 5 个数 | 一年级 | 第2单元 模块4 | 5 个 5 个数、10 个 10 个数（Counting by 5s & 10s） | Bridges in Mathematics 一年级 第2单元 模块4 · The Math Learning Center | [PNG](<海报/g1-u2m4-5个5个数10个10个数.png>) · [PDF](<海报/g1-u2m4-5个5个数10个10个数.pdf>) |
 | 数字架上算加法 | 一年级 | 第3单元 模块1 | 10 以内及以上的和（Sums within 10 & More） | Bridges in Mathematics 一年级 第3单元 模块1 · The Math Learning Center | [PNG](<海报/g1-u3m1-10以内及以上的和.png>) · [PDF](<海报/g1-u3m1-10以内及以上的和.pdf>) |
 | 百、十、一：三位数 | 二年级 | 第5单元 模块3 | 探索数位与三位数（Exploring Place Value & 3-Digit Numbers） | Bridges in Mathematics 二年级 第5单元 模块3 · The Math Learning Center | [PNG](<海报/g2-u5m3-探索数位与三位数.png>) · [PDF](<海报/g2-u5m3-探索数位与三位数.pdf>) |
 | 宠物店里学乘法 | 三年级 | 第2单元 模块1 | 情境中的乘法（Multiplication in Context） | Bridges in Mathematics 三年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g3-u2m1-情境中的乘法.png>) · [PDF](<海报/g3-u2m1-情境中的乘法.pdf>) |
