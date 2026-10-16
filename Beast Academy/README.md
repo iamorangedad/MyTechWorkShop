@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 35 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 38 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### Level 1（一级，Beast Academy 1A–1D）
 
@@ -56,6 +56,9 @@
 | 3C 第7章 Variables（变量） | [变量](海报/l3-C07-变量.png) · [PDF](海报/l3-C07-变量.pdf) | Beast Academy 3C 第7章 · Art of Problem Solving |
 | 3C 第8章 Division（除法） | [除法](海报/l3-C08-除法.png) · [PDF](海报/l3-C08-除法.pdf) | Beast Academy 3C 第8章 · Art of Problem Solving |
 | 3C 第9章 Measurement（测量） | [测量](海报/l3-C09-测量.png) · [PDF](海报/l3-C09-测量.pdf) | Beast Academy 3C 第9章 · Art of Problem Solving |
+| 3D 第10章 Fractions（分数） | [分数](海报/l3-D10-分数.png) · [PDF](海报/l3-D10-分数.pdf) | Beast Academy 3D 第10章 · Art of Problem Solving |
+| 3D 第11章 Estimation（估算） | [估算](海报/l3-D11-估算.png) · [PDF](海报/l3-D11-估算.pdf) | Beast Academy 3D 第11章 · Art of Problem Solving |
+| 3D 第12章 Area（面积） | [面积](海报/l3-D12-面积.png) · [PDF](海报/l3-D12-面积.pdf) | Beast Academy 3D 第12章 · Art of Problem Solving |
 
 ### Level 4（四级，Beast Academy 4A–4D）
 
