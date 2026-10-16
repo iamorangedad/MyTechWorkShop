@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 12 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 16 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -22,6 +22,10 @@
 | 第7章 20以内的减法 | [20以内的减法](海报/g1-07-20以内的减法.png) · [PDF](海报/g1-07-20以内的减法.pdf) | Dimensions Math 1A 第7章 |
 | 第8章 图形 | [图形](海报/g1-08-图形.png) · [PDF](海报/g1-08-图形.pdf) | Dimensions Math 1A 第8章 |
 | 第9章 序数 | [序数](海报/g1-09-序数.png) · [PDF](海报/g1-09-序数.pdf) | Dimensions Math 1A 第9章 |
+| 第10章 长度 | [长度](海报/g1-10-长度.png) · [PDF](海报/g1-10-长度.pdf) | Dimensions Math 1B 第10章 |
+| 第11章 比较 | [比较](海报/g1-11-比较.png) · [PDF](海报/g1-11-比较.pdf) | Dimensions Math 1B 第11章 |
+| 第12章 40以内的数 | [40以内的数](海报/g1-12-40以内的数.png) · [PDF](海报/g1-12-40以内的数.pdf) | Dimensions Math 1B 第12章 |
+| 第13章 40以内的加减法 | [40以内的加减法](海报/g1-13-40以内的加减法.png) · [PDF](海报/g1-13-40以内的加减法.pdf) | Dimensions Math 1B 第13章 |
 
 ### 二年级（Dimensions Math 2A / 2B）
 
