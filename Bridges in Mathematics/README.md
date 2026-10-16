@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 83 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 86 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -91,6 +91,9 @@
 | 选单位比长短 | 二年级 | 第4单元 模块2 | 英寸、英尺和码（Inches, Feet & Yards） | Bridges in Mathematics 二年级 第4单元 模块2 · The Math Learning Center | [PNG](<海报/g2-u4m2-英寸英尺和码.png>) · [PDF](<海报/g2-u4m2-英寸英尺和码.pdf>) |
 | 杰西和巨人 | 二年级 | 第4单元 模块3 | 杰西和巨人（Jessie & the Giant） | Bridges in Mathematics 二年级 第4单元 模块3 · The Math Learning Center | [PNG](<海报/g2-u4m3-杰西和巨人.png>) · [PDF](<海报/g2-u4m3-杰西和巨人.pdf>) |
 | 3 个 3 个 | 二年级 | 第4单元 模块4 | 用 3 来思考（Thinking in 3s） | Bridges in Mathematics 二年级 第4单元 模块4 · The Math Learning Center | [PNG](<海报/g2-u4m4-用3来思考.png>) · [PDF](<海报/g2-u4m4-用3来思考.pdf>) |
+| 数到 1000 | 二年级 | 第5单元 模块1 | 数到 1000（Counting to 1,000） | Bridges in Mathematics 二年级 第5单元 模块1 · The Math Learning Center | [PNG](<海报/g2-u5m1-数到1000.png>) · [PDF](<海报/g2-u5m1-数到1000.pdf>) |
+| 用钱学数位 | 二年级 | 第5单元 模块2 | 用钱学数位（Place Value with Money） | Bridges in Mathematics 二年级 第5单元 模块2 · The Math Learning Center | [PNG](<海报/g2-u5m2-用钱学数位.png>) · [PDF](<海报/g2-u5m2-用钱学数位.pdf>) |
 | 百、十、一：三位数 | 二年级 | 第5单元 模块3 | 探索数位与三位数（Exploring Place Value & 3-Digit Numbers） | Bridges in Mathematics 二年级 第5单元 模块3 · The Math Learning Center | [PNG](<海报/g2-u5m3-探索数位与三位数.png>) · [PDF](<海报/g2-u5m3-探索数位与三位数.pdf>) |
+| 增长规律 | 二年级 | 第5单元 模块4 | 数列与增长规律（Sequences & Growing Patterns） | Bridges in Mathematics 二年级 第5单元 模块4 · The Math Learning Center | [PNG](<海报/g2-u5m4-数列与增长规律.png>) · [PDF](<海报/g2-u5m4-数列与增长规律.pdf>) |
 | 宠物店里学乘法 | 三年级 | 第2单元 模块1 | 情境中的乘法（Multiplication in Context） | Bridges in Mathematics 三年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g3-u2m1-情境中的乘法.png>) · [PDF](<海报/g3-u2m1-情境中的乘法.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
