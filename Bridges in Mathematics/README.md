@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 137 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 141 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -147,4 +147,8 @@
 | 比率表 | 四年级 | 第2单元 模块2 | 阵列与比率表（Arrays & Ratio Tables） | Bridges in Mathematics 四年级 第2单元 模块2 · The Math Learning Center | [PNG](<海报/g4-u2m2-阵列与比率表.png>) · [PDF](<海报/g4-u2m2-阵列与比率表.pdf>) |
 | 乘法策略 | 四年级 | 第2单元 模块3 | 乘法故事与策略（Multiplication Stories & Strategies） | Bridges in Mathematics 四年级 第2单元 模块3 · The Math Learning Center | [PNG](<海报/g4-u2m3-乘法故事与策略.png>) · [PDF](<海报/g4-u2m3-乘法故事与策略.pdf>) |
 | 有余数除法 | 四年级 | 第2单元 模块4 | 初步的有余数除法（Early Division with Remainders） | Bridges in Mathematics 四年级 第2单元 模块4 · The Math Learning Center | [PNG](<海报/g4-u2m4-初步的有余数除法.png>) · [PDF](<海报/g4-u2m4-初步的有余数除法.pdf>) |
+| 等值分数 | 四年级 | 第3单元 模块1 | 等值分数（Equivalent Fractions） | Bridges in Mathematics 四年级 第3单元 模块1 · The Math Learning Center | [PNG](<海报/g4-u3m1-等值分数.png>) · [PDF](<海报/g4-u3m1-等值分数.pdf>) |
+| 比较和带分数 | 四年级 | 第3单元 模块2 | 分数和带分数的比较、组合与分解（Comparing, Composing & Decomposing Fractions & Mixed Numbers） | Bridges in Mathematics 四年级 第3单元 模块2 · The Math Learning Center | [PNG](<海报/g4-u3m2-分数和带分数的比较组合与分解.png>) · [PDF](<海报/g4-u3m2-分数和带分数的比较组合与分解.pdf>) |
+| 认识小数 | 四年级 | 第3单元 模块3 | 认识小数（Introducing Decimals） | Bridges in Mathematics 四年级 第3单元 模块3 · The Math Learning Center | [PNG](<海报/g4-u3m3-认识小数.png>) · [PDF](<海报/g4-u3m3-认识小数.pdf>) |
+| 分数与小数 | 四年级 | 第3单元 模块4 | 分数与小数（Fractions & Decimals） | Bridges in Mathematics 四年级 第3单元 模块4 · The Math Learning Center | [PNG](<海报/g4-u3m4-分数与小数.png>) · [PDF](<海报/g4-u3m4-分数与小数.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
