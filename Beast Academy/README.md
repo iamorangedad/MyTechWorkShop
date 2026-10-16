@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 12 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 16 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### Level 1（一级，Beast Academy 1A–1D）
 
@@ -21,6 +21,10 @@
 | 1B 第6章 Categories（分类） | [分类](海报/l1-B06-分类.png) · [PDF](海报/l1-B06-分类.pdf) | Beast Academy 1B 第6章 · Art of Problem Solving |
 | 1C 第7章 Addition & Subtraction（加法与减法） | [加法与减法](海报/l1-C07-加法与减法.png) · [PDF](海报/l1-C07-加法与减法.pdf) | Beast Academy 1C 第7章 · Art of Problem Solving |
 | 1C 第8章 Comparison（比较） | [比较](海报/l1-C08-比较.png) · [PDF](海报/l1-C08-比较.pdf) | Beast Academy 1C 第8章 · Art of Problem Solving |
+| 1C 第9章 Patterns（规律） | [规律](海报/l1-C09-规律.png) · [PDF](海报/l1-C09-规律.pdf) | Beast Academy 1C 第9章 · Art of Problem Solving |
+| 1D 第10章 Big Numbers（大数） | [大数](海报/l1-D10-大数.png) · [PDF](海报/l1-D10-大数.pdf) | Beast Academy 1D 第10章 · Art of Problem Solving |
+| 1D 第11章 Measurement（测量） | [测量](海报/l1-D11-测量.png) · [PDF](海报/l1-D11-测量.pdf) | Beast Academy 1D 第11章 · Art of Problem Solving |
+| 1D 第12章 Problem Solving（解决问题） | [解决问题](海报/l1-D12-解决问题.png) · [PDF](海报/l1-D12-解决问题.pdf) | Beast Academy 1D 第12章 · Art of Problem Solving |
 
 ### Level 2（二级，Beast Academy 2A–2D）
 
