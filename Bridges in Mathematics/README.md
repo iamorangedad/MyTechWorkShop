@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 172 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 176 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -183,3 +183,7 @@
 | 小数加减 | 五年级 | 第3单元 模块2 | 小数加减（Adding & Subtracting Decimals） | Bridges in Mathematics 五年级 第3单元 模块2 · The Math Learning Center | [PNG](<海报/g5-u3m2-小数加减.png>) · [PDF](<海报/g5-u3m2-小数加减.pdf>) |
 | 单位换算 | 五年级 | 第3单元 模块3 | 单位换算（Conversions） | Bridges in Mathematics 五年级 第3单元 模块3 · The Math Learning Center | [PNG](<海报/g5-u3m3-单位换算.png>) · [PDF](<海报/g5-u3m3-单位换算.pdf>) |
 | 面积模型做除法 | 五年级 | 第3单元 模块4 | 除法与面积模型（Division & the Area Model） | Bridges in Mathematics 五年级 第3单元 模块4 · The Math Learning Center | [PNG](<海报/g5-u3m4-除法与面积模型.png>) · [PDF](<海报/g5-u3m4-除法与面积模型.pdf>) |
+| 乘除法策略 | 五年级 | 第4单元 模块1 | 乘除法策略（Multiplication & Division Strategies） | Bridges in Mathematics 五年级 第4单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u4m1-乘除法策略.png>) · [PDF](<海报/g5-u4m1-乘除法策略.pdf>) |
+| 凑整和补偿 | 五年级 | 第4单元 模块2 | 更多乘除法策略（More Multiplication & Division Strategies） | Bridges in Mathematics 五年级 第4单元 模块2 · The Math Learning Center | [PNG](<海报/g5-u4m2-更多乘除法策略.png>) · [PDF](<海报/g5-u4m2-更多乘除法策略.pdf>) |
+| 从阵列到竖式 | 五年级 | 第4单元 模块3 | 从阵列到竖式（From Array to Algorithm） | Bridges in Mathematics 五年级 第4单元 模块3 · The Math Learning Center | [PNG](<海报/g5-u4m3-从阵列到竖式.png>) · [PDF](<海报/g5-u4m3-从阵列到竖式.pdf>) |
+| 用乘法做除法 | 五年级 | 第4单元 模块4 | 用乘法做除法（Multiplying to Divide） | Bridges in Mathematics 五年级 第4单元 模块4 · The Math Learning Center | [PNG](<海报/g5-u4m4-用乘法做除法.png>) · [PDF](<海报/g5-u4m4-用乘法做除法.pdf>) |
