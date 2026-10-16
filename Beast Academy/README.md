@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 16 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 20 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### Level 1（一级，Beast Academy 1A–1D）
 
@@ -30,6 +30,10 @@
 
 | 章 | 海报 | 教材来源 |
 |---|---|---|
+| 2A 第1章 Place Value（数位） | [数位](海报/l2-A01-数位.png) · [PDF](海报/l2-A01-数位.pdf) | Beast Academy 2A 第1章 · Art of Problem Solving |
+| 2A 第2章 Comparing（比较） | [比较](海报/l2-A02-比较.png) · [PDF](海报/l2-A02-比较.pdf) | Beast Academy 2A 第2章 · Art of Problem Solving |
+| 2A 第3章 Addition（加法） | [加法](海报/l2-A03-加法.png) · [PDF](海报/l2-A03-加法.pdf) | Beast Academy 2A 第3章 · Art of Problem Solving |
+| 2B 第4章 Subtraction（减法） | [减法](海报/l2-B04-减法.png) · [PDF](海报/l2-B04-减法.pdf) | Beast Academy 2B 第4章 · Art of Problem Solving |
 | 2D 第12章 Problem Solving（解决问题） | [数路线](海报/l2-D12-数路线.png) · [PDF](海报/l2-D12-数路线.pdf) | Beast Academy 2D 第12章 · Art of Problem Solving |
 
 ### Level 3（三级，Beast Academy 3A–3D）
