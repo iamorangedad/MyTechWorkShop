@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 38 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 42 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### Level 1（一级，Beast Academy 1A–1D）
 
@@ -64,6 +64,10 @@
 
 | 章 | 海报 | 教材来源 |
 |---|---|---|
+| 4A 第1章 Shapes（图形） | [图形](海报/l4-A01-图形.png) · [PDF](海报/l4-A01-图形.pdf) | Beast Academy 4A 第1章 · Art of Problem Solving |
+| 4A 第2章 Multiplication（乘法） | [乘法](海报/l4-A02-乘法.png) · [PDF](海报/l4-A02-乘法.pdf) | Beast Academy 4A 第2章 · Art of Problem Solving |
+| 4A 第3章 Exponents（乘方） | [乘方](海报/l4-A03-乘方.png) · [PDF](海报/l4-A03-乘方.pdf) | Beast Academy 4A 第3章 · Art of Problem Solving |
+| 4B 第4章 Counting（计数） | [计数](海报/l4-B04-计数.png) · [PDF](海报/l4-B04-计数.pdf) | Beast Academy 4B 第4章 · Art of Problem Solving |
 | 4B 第6章 Logic（逻辑） | [逻辑推理](海报/l4-B06-逻辑推理.png) · [PDF](海报/l4-B06-逻辑推理.pdf) | Beast Academy 4B 第6章 · Art of Problem Solving |
 
 ### Level 5（五级，Beast Academy 5A–5D）
