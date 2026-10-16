@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 102 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 108 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -145,3 +145,9 @@
 | 第6章 10以内数的比较 | [10以内数的比较](海报/gK-06-10以内数的比较.png) · [PDF](海报/gK-06-10以内数的比较.pdf) | Dimensions Math KA 第6章 |
 | 第7章 20以内的数 | [20以内的数](海报/gK-07-20以内的数.png) · [PDF](海报/gK-07-20以内的数.pdf) | Dimensions Math KB 第7章 |
 | 第8章 数的分合 | [数的分合](海报/gK-08-数的分合.png) · [PDF](海报/gK-08-数的分合.pdf) | Dimensions Math KB 第8章 |
+| 第9章 加法 | [加法](海报/gK-09-加法.png) · [PDF](海报/gK-09-加法.pdf) | Dimensions Math KB 第9章 |
+| 第10章 减法 | [减法](海报/gK-10-减法.png) · [PDF](海报/gK-10-减法.pdf) | Dimensions Math KB 第10章 |
+| 第11章 加法与减法 | [加法与减法](海报/gK-11-加法与减法.png) · [PDF](海报/gK-11-加法与减法.pdf) | Dimensions Math KB 第11章 |
+| 第12章 100以内的数 | [100以内的数](海报/gK-12-100以内的数.png) · [PDF](海报/gK-12-100以内的数.pdf) | Dimensions Math KB 第12章 |
+| 第13章 时间 | [时间](海报/gK-13-时间.png) · [PDF](海报/gK-13-时间.pdf) | Dimensions Math KB 第13章 |
+| 第14章 钱币 | [钱币](海报/gK-14-钱币.png) · [PDF](海报/gK-14-钱币.pdf) | Dimensions Math KB 第14章 |
