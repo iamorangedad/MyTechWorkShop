@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 141 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 145 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -151,4 +151,8 @@
 | 比较和带分数 | 四年级 | 第3单元 模块2 | 分数和带分数的比较、组合与分解（Comparing, Composing & Decomposing Fractions & Mixed Numbers） | Bridges in Mathematics 四年级 第3单元 模块2 · The Math Learning Center | [PNG](<海报/g4-u3m2-分数和带分数的比较组合与分解.png>) · [PDF](<海报/g4-u3m2-分数和带分数的比较组合与分解.pdf>) |
 | 认识小数 | 四年级 | 第3单元 模块3 | 认识小数（Introducing Decimals） | Bridges in Mathematics 四年级 第3单元 模块3 · The Math Learning Center | [PNG](<海报/g4-u3m3-认识小数.png>) · [PDF](<海报/g4-u3m3-认识小数.pdf>) |
 | 分数与小数 | 四年级 | 第3单元 模块4 | 分数与小数（Fractions & Decimals） | Bridges in Mathematics 四年级 第3单元 模块4 · The Math Learning Center | [PNG](<海报/g4-u3m4-分数与小数.png>) · [PDF](<海报/g4-u3m4-分数与小数.pdf>) |
+| 数位与加法竖式 | 四年级 | 第4单元 模块1 | 数位与标准加法竖式（Place Value & the Standard Algorithm） | Bridges in Mathematics 四年级 第4单元 模块1 · The Math Learning Center | [PNG](<海报/g4-u4m1-数位与标准加法竖式.png>) · [PDF](<海报/g4-u4m1-数位与标准加法竖式.pdf>) |
+| 减法竖式 | 四年级 | 第4单元 模块2 | 标准减法竖式（The Standard Subtraction Algorithm） | Bridges in Mathematics 四年级 第4单元 模块2 · The Math Learning Center | [PNG](<海报/g4-u4m2-标准减法竖式.png>) · [PDF](<海报/g4-u4m2-标准减法竖式.pdf>) |
+| 单位换算 | 四年级 | 第4单元 模块3 | 测量（Measurement） | Bridges in Mathematics 四年级 第4单元 模块3 · The Math Learning Center | [PNG](<海报/g4-u4m3-测量.png>) · [PDF](<海报/g4-u4m3-测量.pdf>) |
+| 测量问题 | 四年级 | 第4单元 模块4 | 加减与测量情境（Addition, Subtraction & Measurement Situations） | Bridges in Mathematics 四年级 第4单元 模块4 · The Math Learning Center | [PNG](<海报/g4-u4m4-加减与测量情境.png>) · [PDF](<海报/g4-u4m4-加减与测量情境.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
