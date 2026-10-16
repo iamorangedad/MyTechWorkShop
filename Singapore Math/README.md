@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 48 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 50 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -70,6 +70,8 @@
 | 第11章 测量 | [测量](海报/g3-11-测量.png) · [PDF](海报/g3-11-测量.pdf) | Dimensions Math 3B 第11章 |
 | 第12章 几何 | [几何](海报/g3-12-几何.png) · [PDF](海报/g3-12-几何.pdf) | Dimensions Math 3B 第12章 |
 | 第13章 面积与周长 | [面积与周长](海报/g3-13-面积与周长.png) · [PDF](海报/g3-13-面积与周长.pdf) | Dimensions Math 3B 第13章 |
+| 第14章 时间 | [时间](海报/g3-14-时间.png) · [PDF](海报/g3-14-时间.pdf) | Dimensions Math 3B 第14章 |
+| 第15章 钱币 | [人民币](海报/g3-15-人民币.png) · [PDF](海报/g3-15-人民币.pdf) | Dimensions Math 3B 第15章 |
 
 ### 四年级（Dimensions Math 4A / 4B）
 
