@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 44 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 48 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -65,6 +65,10 @@
 | 第6章 除法 | [除法](海报/g3-06-除法.png) · [PDF](海报/g3-06-除法.pdf) | Dimensions Math 3A 第6章 |
 | 第7章 统计图与统计表 | [统计图与统计表](海报/g3-07-统计图与统计表.png) · [PDF](海报/g3-07-统计图与统计表.pdf) | Dimensions Math 3A 第7章 |
 | 第8章 6、7、8、9 的乘法与除法 | [6789的乘除法](海报/g3-08-6789的乘除法.png) · [PDF](海报/g3-08-6789的乘除法.pdf) | Dimensions Math 3B 第8章 |
+| 第9章 分数（一） | [分数一](海报/g3-09-分数一.png) · [PDF](海报/g3-09-分数一.pdf) | Dimensions Math 3B 第9章 |
+| 第10章 分数（二） | [分数二](海报/g3-10-分数二.png) · [PDF](海报/g3-10-分数二.pdf) | Dimensions Math 3B 第10章 |
+| 第11章 测量 | [测量](海报/g3-11-测量.png) · [PDF](海报/g3-11-测量.pdf) | Dimensions Math 3B 第11章 |
+| 第12章 几何 | [几何](海报/g3-12-几何.png) · [PDF](海报/g3-12-几何.pdf) | Dimensions Math 3B 第12章 |
 | 第13章 面积与周长 | [面积与周长](海报/g3-13-面积与周长.png) · [PDF](海报/g3-13-面积与周长.pdf) | Dimensions Math 3B 第13章 |
 
 ### 四年级（Dimensions Math 4A / 4B）
