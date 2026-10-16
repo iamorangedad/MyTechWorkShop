@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 49 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 53 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### Level 1（一级，Beast Academy 1A–1D）
 
@@ -81,5 +81,9 @@
 
 | 章 | 海报 | 教材来源 |
 |---|---|---|
+| 5A 第1章 3D Solids（立体图形） | [立体图形](海报/l5-A01-立体图形.png) · [PDF](海报/l5-A01-立体图形.pdf) | Beast Academy 5A 第1章 · Art of Problem Solving |
+| 5A 第2章 Integers（整数） | [正负数](海报/l5-A02-正负数.png) · [PDF](海报/l5-A02-正负数.pdf) | Beast Academy 5A 第2章 · Art of Problem Solving |
+| 5A 第3章 Expressions & Equations（代数式与方程） | [代数式与方程](海报/l5-A03-代数式与方程.png) · [PDF](海报/l5-A03-代数式与方程.pdf) | Beast Academy 5A 第3章 · Art of Problem Solving |
+| 5B 第4章 Statistics（统计） | [统计](海报/l5-B04-统计.png) · [PDF](海报/l5-B04-统计.pdf) | Beast Academy 5B 第4章 · Art of Problem Solving |
 | 5D 第11章 Square Roots（平方根） | [平方根](海报/l5-D11-平方根.png) · [PDF](海报/l5-D11-平方根.pdf) | Beast Academy 5D 第11章 · Art of Problem Solving |
 
