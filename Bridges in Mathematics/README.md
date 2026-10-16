@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 28 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 32 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -35,6 +35,10 @@
 | 能滚还是能堆 | 幼儿园 | 第6单元 模块2 | 更多立体图形（More Three-Dimensional Shapes） | Bridges in Mathematics 幼儿园 第6单元 模块2 · The Math Learning Center | [PNG](<海报/g0-u6m2-更多立体图形.png>) · [PDF](<海报/g0-u6m2-更多立体图形.pdf>) |
 | 十几 | 幼儿园 | 第6单元 模块3 | 探索十几（Exploring the Teen Numbers） | Bridges in Mathematics 幼儿园 第6单元 模块3 · The Math Learning Center | [PNG](<海报/g0-u6m3-探索十几.png>) · [PDF](<海报/g0-u6m3-探索十几.pdf>) |
 | 凑成 10 | 幼儿园 | 第6单元 模块4 | 凑成 10（Combinations to Ten） | Bridges in Mathematics 幼儿园 第6单元 模块4 · The Math Learning Center | [PNG](<海报/g0-u6m4-凑成10.png>) · [PDF](<海报/g0-u6m4-凑成10.pdf>) |
+| 多重？多长？ | 幼儿园 | 第7单元 模块1 | 多重？多长？（How Heavy? How Long?） | Bridges in Mathematics 幼儿园 第7单元 模块1 · The Math Learning Center | [PNG](<海报/g0-u7m1-多重多长.png>) · [PDF](<海报/g0-u7m1-多重多长.pdf>) |
+| 10 到 20 | 幼儿园 | 第7单元 模块2 | 10 到 20 的数（Numbers from 10 to 20） | Bridges in Mathematics 幼儿园 第7单元 模块2 · The Math Learning Center | [PNG](<海报/g0-u7m2-10到20的数.png>) · [PDF](<海报/g0-u7m2-10到20的数.pdf>) |
+| 加减故事 | 幼儿园 | 第7单元 模块3 | 加减问题情境（Addition & Subtraction Problem Situations） | Bridges in Mathematics 幼儿园 第7单元 模块3 · The Math Learning Center | [PNG](<海报/g0-u7m3-加减问题情境.png>) · [PDF](<海报/g0-u7m3-加减问题情境.pdf>) |
+| 十个十个数 | 幼儿园 | 第7单元 模块4 | 10 个 10 个数和 1 个 1 个数（Counting by 10s & 1s） | Bridges in Mathematics 幼儿园 第7单元 模块4 · The Math Learning Center | [PNG](<海报/g0-u7m4-10个10个数和1个1个数.png>) · [PDF](<海报/g0-u7m4-10个10个数和1个1个数.pdf>) |
 | 数字架上算加法 | 一年级 | 第3单元 模块1 | 10 以内及以上的和（Sums within 10 & More） | Bridges in Mathematics 一年级 第3单元 模块1 · The Math Learning Center | [PNG](<海报/g1-u3m1-10以内及以上的和.png>) · [PDF](<海报/g1-u3m1-10以内及以上的和.pdf>) |
 | 百、十、一：三位数 | 二年级 | 第5单元 模块3 | 探索数位与三位数（Exploring Place Value & 3-Digit Numbers） | Bridges in Mathematics 二年级 第5单元 模块3 · The Math Learning Center | [PNG](<海报/g2-u5m3-探索数位与三位数.png>) · [PDF](<海报/g2-u5m3-探索数位与三位数.pdf>) |
 | 宠物店里学乘法 | 三年级 | 第2单元 模块1 | 情境中的乘法（Multiplication in Context） | Bridges in Mathematics 三年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g3-u2m1-情境中的乘法.png>) · [PDF](<海报/g3-u2m1-情境中的乘法.pdf>) |
