@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 105 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 109 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -115,4 +115,8 @@
 | 阵列和数线 | 三年级 | 第2单元 模块2 | 用阵列和数线做乘法（Multiplying with Arrays & Number Lines） | Bridges in Mathematics 三年级 第2单元 模块2 · The Math Learning Center | [PNG](<海报/g3-u2m2-用阵列和数线做乘法.png>) · [PDF](<海报/g3-u2m2-用阵列和数线做乘法.pdf>) |
 | 乘法策略 | 三年级 | 第2单元 模块3 | 探索乘法策略（Exploring Multiplication Strategies） | Bridges in Mathematics 三年级 第2单元 模块3 · The Math Learning Center | [PNG](<海报/g3-u2m3-探索乘法策略.png>) · [PDF](<海报/g3-u2m3-探索乘法策略.pdf>) |
 | 统计图与两步题 | 三年级 | 第2单元 模块4 | 统计图与多种运算的问题情境（Problem Situations with Graphs & Multiple Operations） | Bridges in Mathematics 三年级 第2单元 模块4 · The Math Learning Center | [PNG](<海报/g3-u2m4-统计图与多种运算的问题情境.png>) · [PDF](<海报/g3-u2m4-统计图与多种运算的问题情境.pdf>) |
+| 四舍五入与加法 | 三年级 | 第3单元 模块1 | 四舍五入与多位数加法（Rounding & Multidigit Addition） | Bridges in Mathematics 三年级 第3单元 模块1 · The Math Learning Center | [PNG](<海报/g3-u3m1-四舍五入与多位数加法.png>) · [PDF](<海报/g3-u3m1-四舍五入与多位数加法.pdf>) |
+| 多位数减法 | 三年级 | 第3单元 模块2 | 多位数减法（Multidigit Subtraction） | Bridges in Mathematics 三年级 第3单元 模块2 · The Math Learning Center | [PNG](<海报/g3-u3m2-多位数减法.png>) · [PDF](<海报/g3-u3m2-多位数减法.pdf>) |
+| 估算加减 | 三年级 | 第3单元 模块3 | 估算加减（Estimating to Add & Subtract） | Bridges in Mathematics 三年级 第3单元 模块3 · The Math Learning Center | [PNG](<海报/g3-u3m3-估算加减.png>) · [PDF](<海报/g3-u3m3-估算加减.pdf>) |
+| 1000 以内加减 | 三年级 | 第3单元 模块4 | 拓展多位数加减（Extending Multidigit Addition & Subtraction） | Bridges in Mathematics 三年级 第3单元 模块4 · The Math Learning Center | [PNG](<海报/g3-u3m4-拓展多位数加减.png>) · [PDF](<海报/g3-u3m4-拓展多位数加减.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
