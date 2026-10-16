@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 98 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 102 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -141,3 +141,7 @@
 | 第2章 5以内的数 | [5以内的数](海报/gK-02-5以内的数.png) · [PDF](海报/gK-02-5以内的数.pdf) | Dimensions Math KA 第2章 |
 | 第3章 10以内的数 | [10以内的数](海报/gK-03-10以内的数.png) · [PDF](海报/gK-03-10以内的数.pdf) | Dimensions Math KA 第3章 |
 | 第4章 平面图形与立体图形 | [平面图形与立体图形](海报/gK-04-平面图形与立体图形.png) · [PDF](海报/gK-04-平面图形与立体图形.pdf) | Dimensions Math KA 第4章 |
+| 第5章 比较高矮、长短、轻重和容量 | [比较](海报/gK-05-比较.png) · [PDF](海报/gK-05-比较.pdf) | Dimensions Math KA 第5章 |
+| 第6章 10以内数的比较 | [10以内数的比较](海报/gK-06-10以内数的比较.png) · [PDF](海报/gK-06-10以内数的比较.pdf) | Dimensions Math KA 第6章 |
+| 第7章 20以内的数 | [20以内的数](海报/gK-07-20以内的数.png) · [PDF](海报/gK-07-20以内的数.pdf) | Dimensions Math KB 第7章 |
+| 第8章 数的分合 | [数的分合](海报/gK-08-数的分合.png) · [PDF](海报/gK-08-数的分合.pdf) | Dimensions Math KB 第8章 |
