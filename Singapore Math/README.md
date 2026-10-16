@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 54 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 58 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -81,4 +81,8 @@
 | 第2章 加法与减法 | [多位数加减法](海报/g4-02-多位数加减法.png) · [PDF](海报/g4-02-多位数加减法.pdf) | Dimensions Math 4A 第2章 |
 | 第3章 倍数与因数 | [倍数与因数](海报/g4-03-倍数与因数.png) · [PDF](海报/g4-03-倍数与因数.pdf) | Dimensions Math 4A 第3章 |
 | 第4章 乘法 | [乘法](海报/g4-04-乘法.png) · [PDF](海报/g4-04-乘法.pdf) | Dimensions Math 4A 第4章 |
+| 第5章 除法 | [除法](海报/g4-05-除法.png) · [PDF](海报/g4-05-除法.pdf) | Dimensions Math 4A 第5章 |
+| 第6章 分数 | [分数](海报/g4-06-分数.png) · [PDF](海报/g4-06-分数.pdf) | Dimensions Math 4A 第6章 |
+| 第7章 分数加减法 | [分数加减法](海报/g4-07-分数加减法.png) · [PDF](海报/g4-07-分数加减法.pdf) | Dimensions Math 4A 第7章 |
 | 第8章 分数与整数相乘 | [整数的几分之几](海报/g4-08-整数的几分之几.png) · [PDF](海报/g4-08-整数的几分之几.pdf) | Dimensions Math 4A 第8章 |
+| 第9章 折线图与线状图 | [折线图与线状图](海报/g4-09-折线图与线状图.png) · [PDF](海报/g4-09-折线图与线状图.pdf) | Dimensions Math 4A 第9章 |
