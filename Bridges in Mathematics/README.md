@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 129 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 133 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -139,4 +139,8 @@
 | 桥梁结构 | 三年级 | 第8单元 模块2 | 研究桥梁结构（Investigating Structures in Bridges） | Bridges in Mathematics 三年级 第8单元 模块2 · The Math Learning Center | [PNG](<海报/g3-u8m2-研究桥梁结构.png>) · [PDF](<海报/g3-u8m2-研究桥梁结构.pdf>) |
 | 建桥和分析 | 三年级 | 第8单元 模块3 | 规划、建造和分析桥梁（Planning, Building & Analyzing Bridges） | Bridges in Mathematics 三年级 第8单元 模块3 · The Math Learning Center | [PNG](<海报/g3-u8m3-规划建造和分析桥梁.png>) · [PDF](<海报/g3-u8m3-规划建造和分析桥梁.pdf>) |
 | 展示学习成果 | 三年级 | 第8单元 模块4 | 展示我们的桥梁学习（Demonstrating Our Learning About Bridges） | Bridges in Mathematics 三年级 第8单元 模块4 · The Math Learning Center | [PNG](<海报/g3-u8m4-展示我们的桥梁学习.png>) · [PDF](<海报/g3-u8m4-展示我们的桥梁学习.pdf>) |
+| 乘除法模型 | 四年级 | 第1单元 模块1 | 乘除法模型（Models for Multiplication & Division） | Bridges in Mathematics 四年级 第1单元 模块1 · The Math Learning Center | [PNG](<海报/g4-u1m1-乘除法模型.png>) · [PDF](<海报/g4-u1m1-乘除法模型.pdf>) |
+| 质数与合数 | 四年级 | 第1单元 模块2 | 质数与合数（Primes & Composites） | Bridges in Mathematics 四年级 第1单元 模块2 · The Math Learning Center | [PNG](<海报/g4-u1m2-质数与合数.png>) · [PDF](<海报/g4-u1m2-质数与合数.pdf>) |
+| 倍数比较与方程 | 四年级 | 第1单元 模块3 | 倍数比较与方程（Multiplicative Comparisons & Equations） | Bridges in Mathematics 四年级 第1单元 模块3 · The Math Learning Center | [PNG](<海报/g4-u1m3-倍数比较与方程.png>) · [PDF](<海报/g4-u1m3-倍数比较与方程.pdf>) |
+| 测量与换算 | 四年级 | 第1单元 模块4 | 测量体验（Measurement Experiences） | Bridges in Mathematics 四年级 第1单元 模块4 · The Math Learning Center | [PNG](<海报/g4-u1m4-测量体验.png>) · [PDF](<海报/g4-u1m4-测量体验.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
