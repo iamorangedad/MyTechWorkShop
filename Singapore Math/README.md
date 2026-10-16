@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 29 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 33 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -45,6 +45,10 @@
 | 第6章 乘法与除法 | [乘法与除法](海报/g2-06-乘法与除法.png) · [PDF](海报/g2-06-乘法与除法.pdf) | Dimensions Math 2A 第6章 |
 | 第7章 2、5、10 的乘法与除法 | [2、5、10的乘除法](海报/g2-07-2、5、10的乘除法.png) · [PDF](海报/g2-07-2、5、10的乘除法.pdf) | Dimensions Math 2A 第7章 |
 | 第8章 心算 | [心算](海报/g2-08-心算.png) · [PDF](海报/g2-08-心算.pdf) | Dimensions Math 2B 第8章 |
+| 第9章 3 和 4 的乘法与除法 | [3和4的乘除法](海报/g2-09-3和4的乘除法.png) · [PDF](海报/g2-09-3和4的乘除法.pdf) | Dimensions Math 2B 第9章 |
+| 第10章 钱币 | [人民币](海报/g2-10-人民币.png) · [PDF](海报/g2-10-人民币.pdf) | Dimensions Math 2B 第10章 |
+| 第11章 分数 | [分数](海报/g2-11-分数.png) · [PDF](海报/g2-11-分数.pdf) | Dimensions Math 2B 第11章 |
+| 第12章 时间 | [时间](海报/g2-12-时间.png) · [PDF](海报/g2-12-时间.pdf) | Dimensions Math 2B 第12章 |
 
 ### 三年级（Dimensions Math 3A / 3B）
 
