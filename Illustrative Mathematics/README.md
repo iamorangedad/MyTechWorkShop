@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个 Section 一张，全套 161 张。已完成 52 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个 Section 一张，全套 161 张。已完成 77 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 部分 | 部分名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -63,3 +63,28 @@
 | 20 以内加减复习 | 一年级 | 第8单元 A部分 | 20 以内加减（Add and Subtract Within 20） | IM K–5 Math 一年级 第8单元 A部分 · Illustrative Mathematics | [PNG](<海报/g1-u8a-20以内加减.png>) · [PDF](<海报/g1-u8a-20以内加减.pdf>) |
 | 故事题复习 | 一年级 | 第8单元 B部分 | 故事题（Story Problems） | IM K–5 Math 一年级 第8单元 B部分 · Illustrative Mathematics | [PNG](<海报/g1-u8b-故事题.png>) · [PDF](<海报/g1-u8b-故事题.pdf>) |
 | 120 以内的数 | 一年级 | 第8单元 C部分 | 120 以内的数（Numbers to 120） | IM K–5 Math 一年级 第8单元 C部分 · Illustrative Mathematics | [PNG](<海报/g1-u8c-120以内的数.png>) · [PDF](<海报/g1-u8c-120以内的数.pdf>) |
+| 20 以内加减 | 二年级 | 第1单元 A部分 | 20 以内加减（Add and Subtract Within 20） | IM K–5 Math 二年级 第1单元 A部分 · Illustrative Mathematics | [PNG](<海报/g2-u1a-20以内加减.png>) · [PDF](<海报/g2-u1a-20以内加减.pdf>) |
+| 表示数据 | 二年级 | 第1单元 B部分 | 表示数据的方法（Ways to Represent Data） | IM K–5 Math 二年级 第1单元 B部分 · Illustrative Mathematics | [PNG](<海报/g2-u1b-表示数据的方法.png>) · [PDF](<海报/g2-u1b-表示数据的方法.pdf>) |
+| 用图比较 | 二年级 | 第1单元 C部分 | 用图比较（Diagrams to Compare） | IM K–5 Math 二年级 第1单元 C部分 · Illustrative Mathematics | [PNG](<海报/g2-u1c-用图比较.png>) · [PDF](<海报/g2-u1c-用图比较.pdf>) |
+| 100 以内加减 | 二年级 | 第2单元 A部分 | 加和减（Add and Subtract） | IM K–5 Math 二年级 第2单元 A部分 · Illustrative Mathematics | [PNG](<海报/g2-u2a-加和减.png>) · [PDF](<海报/g2-u2a-加和减.pdf>) |
+| 拆开来减 | 二年级 | 第2单元 B部分 | 拆开来减（Decompose to Subtract） | IM K–5 Math 二年级 第2单元 B部分 · Illustrative Mathematics | [PNG](<海报/g2-u2b-拆开来减.png>) · [PDF](<海报/g2-u2b-拆开来减.pdf>) |
+| 故事题 | 二年级 | 第2单元 C部分 | 表示并解决故事题（Represent and Solve Story Problems） | IM K–5 Math 二年级 第2单元 C部分 · Illustrative Mathematics | [PNG](<海报/g2-u2c-表示并解决故事题.png>) · [PDF](<海报/g2-u2c-表示并解决故事题.pdf>) |
+| 厘米和米 | 二年级 | 第3单元 A部分 | 公制长度单位（Metric Measurement） | IM K–5 Math 二年级 第3单元 A部分 · Illustrative Mathematics | [PNG](<海报/g2-u3a-公制长度单位.png>) · [PDF](<海报/g2-u3a-公制长度单位.pdf>) |
+| 认识分米 | 二年级 | 第3单元 B部分 | 另一套长度单位（Customary Measurement） | IM K–5 Math 二年级 第3单元 B部分 · Illustrative Mathematics | [PNG](<海报/g2-u3b-另一套长度单位.png>) · [PDF](<海报/g2-u3b-另一套长度单位.pdf>) |
+| 线图 | 二年级 | 第3单元 C部分 | 线图（点状图）（Line Plots） | IM K–5 Math 二年级 第3单元 C部分 · Illustrative Mathematics | [PNG](<海报/g2-u3c-线图点状图.png>) · [PDF](<海报/g2-u3c-线图点状图.pdf>) |
+| 数线的结构 | 二年级 | 第4单元 A部分 | 数线的结构（The Structure of the Number Line） | IM K–5 Math 二年级 第4单元 A部分 · Illustrative Mathematics | [PNG](<海报/g2-u4a-数线的结构.png>) · [PDF](<海报/g2-u4a-数线的结构.pdf>) |
+| 数线上加减 | 二年级 | 第4单元 B部分 | 在数线上加减（Add and Subtract on a Number Line） | IM K–5 Math 二年级 第4单元 B部分 · Illustrative Mathematics | [PNG](<海报/g2-u4b-在数线上加减.png>) · [PDF](<海报/g2-u4b-在数线上加减.pdf>) |
+| 三位数 | 二年级 | 第5单元 A部分 | 三位数的值（The Value of Three Digits） | IM K–5 Math 二年级 第5单元 A部分 · Illustrative Mathematics | [PNG](<海报/g2-u5a-三位数的值.png>) · [PDF](<海报/g2-u5a-三位数的值.pdf>) |
+| 比较和排序 | 二年级 | 第5单元 B部分 | 1000 以内数的比较和排序（Compare and Order Numbers within 1,000） | IM K–5 Math 二年级 第5单元 B部分 · Illustrative Mathematics | [PNG](<海报/g2-u5b-1000以内数的比较和排序.png>) · [PDF](<海报/g2-u5b-1000以内数的比较和排序.pdf>) |
+| 图形的特征 | 二年级 | 第6单元 A部分 | 图形的特征（Attributes of Shapes） | IM K–5 Math 二年级 第6单元 A部分 · Illustrative Mathematics | [PNG](<海报/g2-u6a-图形的特征.png>) · [PDF](<海报/g2-u6a-图形的特征.pdf>) |
+| 平均分成几份 | 二年级 | 第6单元 B部分 | 二分之一、三分之一、四分之一（Halves, Thirds, and Fourths） | IM K–5 Math 二年级 第6单元 B部分 · Illustrative Mathematics | [PNG](<海报/g2-u6b-二分之一三分之一四分之一.png>) · [PDF](<海报/g2-u6b-二分之一三分之一四分之一.pdf>) |
+| 认识钟表 | 二年级 | 第6单元 C部分 | 认识钟表（Time on the Clock） | IM K–5 Math 二年级 第6单元 C部分 · Illustrative Mathematics | [PNG](<海报/g2-u6c-认识钟表.png>) · [PDF](<海报/g2-u6c-认识钟表.pdf>) |
+| 人民币 | 二年级 | 第6单元 D部分 | 钱的价值（The Value of Money） | IM K–5 Math 二年级 第6单元 D部分 · Illustrative Mathematics | [PNG](<海报/g2-u6d-钱的价值.png>) · [PDF](<海报/g2-u6d-钱的价值.pdf>) |
+| 不进位不退位的加减 | 二年级 | 第7单元 A部分 | 不进位、不退位的加减（Add and Subtract within 1,000 without Composition or Decomposition） | IM K–5 Math 二年级 第7单元 A部分 · Illustrative Mathematics | [PNG](<海报/g2-u7a-不进位不退位的加减.png>) · [PDF](<海报/g2-u7a-不进位不退位的加减.pdf>) |
+| 进位加法 | 二年级 | 第7单元 B部分 | 用数位策略做加法（Add within 1,000 using Place Value Strategies） | IM K–5 Math 二年级 第7单元 B部分 · Illustrative Mathematics | [PNG](<海报/g2-u7b-用数位策略做加法.png>) · [PDF](<海报/g2-u7b-用数位策略做加法.pdf>) |
+| 退位减法 | 二年级 | 第7单元 C部分 | 用数位策略做减法（Subtract within 1,000 using Place Value Strategies） | IM K–5 Math 二年级 第7单元 C部分 · Illustrative Mathematics | [PNG](<海报/g2-u7c-用数位策略做减法.png>) · [PDF](<海报/g2-u7c-用数位策略做减法.pdf>) |
+| 单数和双数 | 二年级 | 第8单元 A部分 | 单数和双数（Odd and Even） | IM K–5 Math 二年级 第8单元 A部分 · Illustrative Mathematics | [PNG](<海报/g2-u8a-单数和双数.png>) · [PDF](<海报/g2-u8a-单数和双数.pdf>) |
+| 长方形阵列 | 二年级 | 第8单元 B部分 | 长方形阵列（Rectangular Arrays） | IM K–5 Math 二年级 第8单元 B部分 · Illustrative Mathematics | [PNG](<海报/g2-u8b-长方形阵列.png>) · [PDF](<海报/g2-u8b-长方形阵列.pdf>) |
+| 20 以内熟练加减与测量 | 二年级 | 第9单元 A部分 | 20 以内熟练加减与测量（Fluency Within 20 and Measurement） | IM K–5 Math 二年级 第9单元 A部分 · Illustrative Mathematics | [PNG](<海报/g2-u9a-20以内熟练加减与测量.png>) · [PDF](<海报/g2-u9a-20以内熟练加减与测量.pdf>) |
+| 1000 以内的数 | 二年级 | 第9单元 B部分 | 1000 以内的数（Numbers to 1,000） | IM K–5 Math 二年级 第9单元 B部分 · Illustrative Mathematics | [PNG](<海报/g2-u9b-1000以内的数.png>) · [PDF](<海报/g2-u9b-1000以内的数.pdf>) |
+| 编题与解题 | 二年级 | 第9单元 C部分 | 编题与解题（Create and Solve Story Problems） | IM K–5 Math 二年级 第9单元 C部分 · Illustrative Mathematics | [PNG](<海报/g2-u9c-编题与解题.png>) · [PDF](<海报/g2-u9c-编题与解题.pdf>) |
