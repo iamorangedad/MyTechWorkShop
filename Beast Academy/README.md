@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 27 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 31 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### Level 1（一级，Beast Academy 1A–1D）
 
@@ -47,6 +47,10 @@
 
 | 章 | 海报 | 教材来源 |
 |---|---|---|
+| 3A 第1章 Shapes（图形） | [图形](海报/l3-A01-图形.png) · [PDF](海报/l3-A01-图形.pdf) | Beast Academy 3A 第1章 · Art of Problem Solving |
+| 3A 第2章 Skip-Counting（跳着数） | [跳着数](海报/l3-A02-跳着数.png) · [PDF](海报/l3-A02-跳着数.pdf) | Beast Academy 3A 第2章 · Art of Problem Solving |
+| 3A 第3章 Perimeter and Area（周长与面积） | [周长与面积](海报/l3-A03-周长与面积.png) · [PDF](海报/l3-A03-周长与面积.pdf) | Beast Academy 3A 第3章 · Art of Problem Solving |
+| 3B 第4章 Multiplication（乘法） | [乘法](海报/l3-B04-乘法.png) · [PDF](海报/l3-B04-乘法.pdf) | Beast Academy 3B 第4章 · Art of Problem Solving |
 | 3B 第5章 Perfect Squares（完全平方数） | [完全平方数](海报/l3-B05-完全平方数.png) · [PDF](海报/l3-B05-完全平方数.pdf) | Beast Academy 3B 第5章 · Art of Problem Solving |
 
 ### Level 4（四级，Beast Academy 4A–4D）
