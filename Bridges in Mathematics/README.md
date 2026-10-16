@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 90 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 94 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -99,5 +99,9 @@
 | 图形和数 | 二年级 | 第6单元 模块2 | 用图形探索数（Exploring Numbers with Shapes） | Bridges in Mathematics 二年级 第6单元 模块2 · The Math Learning Center | [PNG](<海报/g2-u6m2-用图形探索数.png>) · [PDF](<海报/g2-u6m2-用图形探索数.pdf>) |
 | 图形的拼与分 | 二年级 | 第6单元 模块3 | 图形的拼与分（Composing & Decomposing Shapes） | Bridges in Mathematics 二年级 第6单元 模块3 · The Math Learning Center | [PNG](<海报/g2-u6m3-图形的拼与分.png>) · [PDF](<海报/g2-u6m3-图形的拼与分.pdf>) |
 | 认识分数 | 二年级 | 第6单元 模块4 | 探索分数（Investigations into Fractions） | Bridges in Mathematics 二年级 第6单元 模块4 · The Math Learning Center | [PNG](<海报/g2-u6m4-探索分数.png>) · [PDF](<海报/g2-u6m4-探索分数.pdf>) |
+| 公制长度 | 二年级 | 第7单元 模块1 | 行军蚁：公制长度（Army Ants: Length in Metric Units） | Bridges in Mathematics 二年级 第7单元 模块1 · The Math Learning Center | [PNG](<海报/g2-u7m1-行军蚁公制长度.png>) · [PDF](<海报/g2-u7m1-行军蚁公制长度.pdf>) |
+| 玩具店算账 | 二年级 | 第7单元 模块2 | 蚂蚁玩具店的多位数加减（Multidigit Addition & Subtraction with the Ants’ Toy Store） | Bridges in Mathematics 二年级 第7单元 模块2 · The Math Learning Center | [PNG](<海报/g2-u7m2-蚂蚁玩具店的多位数加减.png>) · [PDF](<海报/g2-u7m2-蚂蚁玩具店的多位数加减.pdf>) |
+| 两步问题 | 二年级 | 第7单元 模块3 | 提出和解决问题情境（Posing & Solving Problem Situations） | Bridges in Mathematics 二年级 第7单元 模块3 · The Math Learning Center | [PNG](<海报/g2-u7m3-提出和解决问题情境.png>) · [PDF](<海报/g2-u7m3-提出和解决问题情境.pdf>) |
+| 相等的部分和组 | 二年级 | 第7单元 模块4 | 探索相等的部分和组（Exploring Equal Parts & Groups） | Bridges in Mathematics 二年级 第7单元 模块4 · The Math Learning Center | [PNG](<海报/g2-u7m4-探索相等的部分和组.png>) · [PDF](<海报/g2-u7m4-探索相等的部分和组.pdf>) |
 | 宠物店里学乘法 | 三年级 | 第2单元 模块1 | 情境中的乘法（Multiplication in Context） | Bridges in Mathematics 三年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g3-u2m1-情境中的乘法.png>) · [PDF](<海报/g3-u2m1-情境中的乘法.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
