@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 161 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 165 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -171,4 +171,8 @@
 | 做决定 | 四年级 | 第8单元 模块2 | 做决定（Making Decisions） | Bridges in Mathematics 四年级 第8单元 模块2 · The Math Learning Center | [PNG](<海报/g4-u8m2-做决定.png>) · [PDF](<海报/g4-u8m2-做决定.pdf>) |
 | 比例模型 | 四年级 | 第8单元 模块3 | 用比例模型设计操场和球场（Using Scale Models for Our Playground & Field） | Bridges in Mathematics 四年级 第8单元 模块3 · The Math Learning Center | [PNG](<海报/g4-u8m3-用比例模型设计操场和球场.png>) · [PDF](<海报/g4-u8m3-用比例模型设计操场和球场.pdf>) |
 | 搭建模型 | 四年级 | 第8单元 模块4 | 搭建操场模型（Building Model Playgrounds） | Bridges in Mathematics 四年级 第8单元 模块4 · The Math Learning Center | [PNG](<海报/g4-u8m4-搭建操场模型.png>) · [PDF](<海报/g4-u8m4-搭建操场模型.pdf>) |
+| 乘法与体积 | 五年级 | 第1单元 模块1 | 乘法与体积（Multiplication & Volume） | Bridges in Mathematics 五年级 第1单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u1m1-乘法与体积.png>) · [PDF](<海报/g5-u1m1-乘法与体积.pdf>) |
+| 因数倍数和运算律 | 五年级 | 第1单元 模块2 | 因数、倍数与运算性质（Factors, Multiples & Properties） | Bridges in Mathematics 五年级 第1单元 模块2 · The Math Learning Center | [PNG](<海报/g5-u1m2-因数倍数与运算性质.png>) · [PDF](<海报/g5-u1m2-因数倍数与运算性质.pdf>) |
+| 乘法策略 | 五年级 | 第1单元 模块3 | 乘法策略（Multiplication Strategies） | Bridges in Mathematics 五年级 第1单元 模块3 · The Math Learning Center | [PNG](<海报/g5-u1m3-乘法策略.png>) · [PDF](<海报/g5-u1m3-乘法策略.pdf>) |
+| 从乘法到除法 | 五年级 | 第1单元 模块4 | 从乘法到除法（From Multiplication to Division） | Bridges in Mathematics 五年级 第1单元 模块4 · The Math Learning Center | [PNG](<海报/g5-u1m4-从乘法到除法.png>) · [PDF](<海报/g5-u1m4-从乘法到除法.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
