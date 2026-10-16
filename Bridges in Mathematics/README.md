@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 180 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 184 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -191,3 +191,7 @@
 | 分数乘分数 | 五年级 | 第5单元 模块2 | 分数乘分数（Multiplying Fractions by Fractions） | Bridges in Mathematics 五年级 第5单元 模块2 · The Math Learning Center | [PNG](<海报/g5-u5m2-分数乘分数.png>) · [PDF](<海报/g5-u5m2-分数乘分数.pdf>) |
 | 更多分数乘法 | 五年级 | 第5单元 模块3 | 更多分数乘分数（More Fraction-by-Fraction Multiplication） | Bridges in Mathematics 五年级 第5单元 模块3 · The Math Learning Center | [PNG](<海报/g5-u5m3-更多分数乘分数.png>) · [PDF](<海报/g5-u5m3-更多分数乘分数.pdf>) |
 | 分数除法 | 五年级 | 第5单元 模块4 | 分数与整数相除（Dividing Fractions & Whole Numbers） | Bridges in Mathematics 五年级 第5单元 模块4 · The Math Learning Center | [PNG](<海报/g5-u5m4-分数与整数相除.png>) · [PDF](<海报/g5-u5m4-分数与整数相除.pdf>) |
+| 有序数对 | 五年级 | 第6单元 模块1 | 描绘有序数对（Graphing Ordered Pairs） | Bridges in Mathematics 五年级 第6单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u6m1-描绘有序数对.png>) · [PDF](<海报/g5-u6m1-描绘有序数对.pdf>) |
+| 多边形分类 | 五年级 | 第6单元 模块2 | 多边形分类（Classifying Polygons） | Bridges in Mathematics 五年级 第6单元 模块2 · The Math Learning Center | [PNG](<海报/g5-u6m2-多边形分类.png>) · [PDF](<海报/g5-u6m2-多边形分类.pdf>) |
+| 长方体体积 | 五年级 | 第6单元 模块3 | 体积（Volume） | Bridges in Mathematics 五年级 第6单元 模块3 · The Math Learning Center | [PNG](<海报/g5-u6m3-体积.png>) · [PDF](<海报/g5-u6m3-体积.pdf>) |
+| 横幅与旗帜 | 五年级 | 第6单元 模块4 | 横幅与旗帜（Banners & Flags） | Bridges in Mathematics 五年级 第6单元 模块4 · The Math Learning Center | [PNG](<海报/g5-u6m4-横幅与旗帜.png>) · [PDF](<海报/g5-u6m4-横幅与旗帜.pdf>) |
