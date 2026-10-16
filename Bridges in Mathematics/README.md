@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 153 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 157 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -163,4 +163,8 @@
 | 面积周长问题 | 四年级 | 第6单元 模块2 | 再谈面积与周长（Revisiting Area & Perimeter） | Bridges in Mathematics 四年级 第6单元 模块2 · The Math Learning Center | [PNG](<海报/g4-u6m2-再谈面积与周长.png>) · [PDF](<海报/g4-u6m2-再谈面积与周长.pdf>) |
 | 除法与余数 | 四年级 | 第6单元 模块3 | 除法策略与情境（Division Strategies & Situations） | Bridges in Mathematics 四年级 第6单元 模块3 · The Math Learning Center | [PNG](<海报/g4-u6m3-除法策略与情境.png>) · [PDF](<海报/g4-u6m3-除法策略与情境.pdf>) |
 | 分数与线图 | 四年级 | 第6单元 模块4 | 分数与数据展示（Fractions & Data Displays） | Bridges in Mathematics 四年级 第6单元 模块4 · The Math Learning Center | [PNG](<海报/g4-u6m4-分数与数据展示.png>) · [PDF](<海报/g4-u6m4-分数与数据展示.pdf>) |
+| 比较等值分数 | 四年级 | 第7单元 模块1 | 比较分数、写等值分数（Comparing Fractions & Writing Equivalent Fractions） | Bridges in Mathematics 四年级 第7单元 模块1 · The Math Learning Center | [PNG](<海报/g4-u7m1-比较分数写等值分数.png>) · [PDF](<海报/g4-u7m1-比较分数写等值分数.pdf>) |
+| 小数与十进分数 | 四年级 | 第7单元 模块2 | 小数与十进分数（Decimals & Decimal Fractions） | Bridges in Mathematics 四年级 第7单元 模块2 · The Math Learning Center | [PNG](<海报/g4-u7m2-小数与十进分数.png>) · [PDF](<海报/g4-u7m2-小数与十进分数.pdf>) |
+| 乘法竖式 | 四年级 | 第7单元 模块3 | 认识标准乘法竖式（Introducing the Standard Multiplication Algorithm） | Bridges in Mathematics 四年级 第7单元 模块3 · The Math Learning Center | [PNG](<海报/g4-u7m3-认识标准乘法竖式.png>) · [PDF](<海报/g4-u7m3-认识标准乘法竖式.pdf>) |
+| 多位数乘法 | 四年级 | 第7单元 模块4 | 拓展标准乘法竖式（Extending the Standard Multiplication Algorithm） | Bridges in Mathematics 四年级 第7单元 模块4 · The Math Learning Center | [PNG](<海报/g4-u7m4-拓展标准乘法竖式.png>) · [PDF](<海报/g4-u7m4-拓展标准乘法竖式.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
