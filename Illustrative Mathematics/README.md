@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个 Section 一张，全套 161 张。已完成 107 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个 Section 一张，全套 161 张。已完成 135 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 部分 | 部分名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -118,3 +118,31 @@
 | 测量与数据 | 三年级 | 第8单元 B部分 | 测量与数据（Measurement and Data） | IM K–5 Math 三年级 第8单元 B部分 · Illustrative Mathematics | [PNG](<海报/g3-u8b-测量与数据.png>) · [PDF](<海报/g3-u8b-测量与数据.pdf>) |
 | 乘除游戏 | 三年级 | 第8单元 C部分 | 乘除游戏（Multiplication and Division Games） | IM K–5 Math 三年级 第8单元 C部分 · Illustrative Mathematics | [PNG](<海报/g3-u8c-乘除游戏.png>) · [PDF](<海报/g3-u8c-乘除游戏.pdf>) |
 | 创作与设计 | 三年级 | 第8单元 D部分 | 创作与设计（Create and Design） | IM K–5 Math 三年级 第8单元 D部分 · Illustrative Mathematics | [PNG](<海报/g3-u8d-创作与设计.png>) · [PDF](<海报/g3-u8d-创作与设计.pdf>) |
+| 因数和倍数 | 四年级 | 第1单元 A部分 | 理解因数和倍数（Understand Factors and Multiples） | IM K–5 Math 四年级 第1单元 A部分 · Illustrative Mathematics | [PNG](<海报/g4-u1a-理解因数和倍数.png>) · [PDF](<海报/g4-u1a-理解因数和倍数.pdf>) |
+| 找因数对 | 四年级 | 第1单元 B部分 | 找因数对和倍数（Find Factor Pairs and Multiples） | IM K–5 Math 四年级 第1单元 B部分 · Illustrative Mathematics | [PNG](<海报/g4-u1b-找因数对和倍数.png>) · [PDF](<海报/g4-u1b-找因数对和倍数.pdf>) |
+| 分数的大小和位置 | 四年级 | 第2单元 A部分 | 分数的大小和位置（Size and Location of Fractions） | IM K–5 Math 四年级 第2单元 A部分 · Illustrative Mathematics | [PNG](<海报/g4-u2a-分数的大小和位置.png>) · [PDF](<海报/g4-u2a-分数的大小和位置.pdf>) |
+| 相等的分数 | 四年级 | 第2单元 B部分 | 相等的分数（Equivalent Fractions） | IM K–5 Math 四年级 第2单元 B部分 · Illustrative Mathematics | [PNG](<海报/g4-u2b-相等的分数.png>) · [PDF](<海报/g4-u2b-相等的分数.pdf>) |
+| 比较分数 | 四年级 | 第2单元 C部分 | 比较分数（Fraction Comparison） | IM K–5 Math 四年级 第2单元 C部分 · Illustrative Mathematics | [PNG](<海报/g4-u2c-比较分数.png>) · [PDF](<海报/g4-u2c-比较分数.pdf>) |
+| 分数的相等组 | 四年级 | 第3单元 A部分 | 分数的相等组（Equal Groups of Fractions） | IM K–5 Math 四年级 第3单元 A部分 · Illustrative Mathematics | [PNG](<海报/g4-u3a-分数的相等组.png>) · [PDF](<海报/g4-u3a-分数的相等组.pdf>) |
+| 分数加减法 | 四年级 | 第3单元 B部分 | 分数加减法（Addition and Subtraction of Fractions） | IM K–5 Math 四年级 第3单元 B部分 · Illustrative Mathematics | [PNG](<海报/g4-u3b-分数加减法.png>) · [PDF](<海报/g4-u3b-分数加减法.pdf>) |
+| 十分之几加百分之几 | 四年级 | 第3单元 C部分 | 十分之几加百分之几（Addition of Tenths and Hundredths） | IM K–5 Math 四年级 第3单元 C部分 · Illustrative Mathematics | [PNG](<海报/g4-u3c-十分之几加百分之几.png>) · [PDF](<海报/g4-u3c-十分之几加百分之几.pdf>) |
+| 十分位和百分位小数 | 四年级 | 第4单元 A部分 | 十分位和百分位小数（Decimals with Tenths and Hundredths） | IM K–5 Math 四年级 第4单元 A部分 · Illustrative Mathematics | [PNG](<海报/g4-u4a-十分位和百分位小数.png>) · [PDF](<海报/g4-u4a-十分位和百分位小数.pdf>) |
+| 数位关系 | 四年级 | 第4单元 B部分 | 100 万以内的数位关系（Place-value Relationships through 1,000,000） | IM K–5 Math 四年级 第4单元 B部分 · Illustrative Mathematics | [PNG](<海报/g4-u4b-100万以内的数位关系.png>) · [PDF](<海报/g4-u4b-100万以内的数位关系.pdf>) |
+| 比较排序和近似 | 四年级 | 第4单元 C部分 | 比较、排序和近似（Compare, Order, and Round） | IM K–5 Math 四年级 第4单元 C部分 · Illustrative Mathematics | [PNG](<海报/g4-u4c-比较排序和近似.png>) · [PDF](<海报/g4-u4c-比较排序和近似.pdf>) |
+| 多位数加减 | 四年级 | 第4单元 D部分 | 加和减（Add and Subtract） | IM K–5 Math 四年级 第4单元 D部分 · Illustrative Mathematics | [PNG](<海报/g4-u4d-加和减.png>) · [PDF](<海报/g4-u4d-加和减.pdf>) |
+| 倍数比较 | 四年级 | 第5单元 A部分 | 倍数比较（Multiplicative Comparison） | IM K–5 Math 四年级 第5单元 A部分 · Illustrative Mathematics | [PNG](<海报/g4-u5a-倍数比较.png>) · [PDF](<海报/g4-u5a-倍数比较.pdf>) |
+| 单位换算 | 四年级 | 第5单元 B部分 | 单位换算（Measurement Conversion） | IM K–5 Math 四年级 第5单元 B部分 · Illustrative Mathematics | [PNG](<海报/g4-u5b-单位换算.png>) · [PDF](<海报/g4-u5b-单位换算.pdf>) |
+| 学以致用：测量 | 四年级 | 第5单元 C部分 | 学以致用（Let’s Put it to Work） | IM K–5 Math 四年级 第5单元 C部分 · Illustrative Mathematics | [PNG](<海报/g4-u5c-学以致用.png>) · [PDF](<海报/g4-u5c-学以致用.pdf>) |
+| 规律的特征 | 四年级 | 第6单元 A部分 | 规律的特征（Features of Patterns） | IM K–5 Math 四年级 第6单元 A部分 · Illustrative Mathematics | [PNG](<海报/g4-u6a-规律的特征.png>) · [PDF](<海报/g4-u6a-规律的特征.pdf>) |
+| 多位数乘法 | 四年级 | 第6单元 B部分 | 多位数乘法（Multi-digit Multiplication） | IM K–5 Math 四年级 第6单元 B部分 · Illustrative Mathematics | [PNG](<海报/g4-u6b-多位数乘法.png>) · [PDF](<海报/g4-u6b-多位数乘法.pdf>) |
+| 多位数除法 | 四年级 | 第6单元 C部分 | 多位数除法（Multi-digit Division） | IM K–5 Math 四年级 第6单元 C部分 · Illustrative Mathematics | [PNG](<海报/g4-u6c-多位数除法.png>) · [PDF](<海报/g4-u6c-多位数除法.pdf>) |
+| 大数解题 | 四年级 | 第6单元 D部分 | 学以致用：大数解题（Let’s Put It to Work: Problem Solving with Large Numbers） | IM K–5 Math 四年级 第6单元 D部分 · Illustrative Mathematics | [PNG](<海报/g4-u6d-学以致用大数解题.png>) · [PDF](<海报/g4-u6d-学以致用大数解题.pdf>) |
+| 点线射线和角 | 四年级 | 第7单元 A部分 | 点、线、线段、射线和角（Points, Lines, Segments, Rays, and Angles） | IM K–5 Math 四年级 第7单元 A部分 · Illustrative Mathematics | [PNG](<海报/g4-u7a-点线线段射线和角.png>) · [PDF](<海报/g4-u7a-点线线段射线和角.pdf>) |
+| 角的大小 | 四年级 | 第7单元 B部分 | 角的大小（The Size of Angles） | IM K–5 Math 四年级 第7单元 B部分 · Illustrative Mathematics | [PNG](<海报/g4-u7b-角的大小.png>) · [PDF](<海报/g4-u7b-角的大小.pdf>) |
+| 角的分析 | 四年级 | 第7单元 C部分 | 角的分析（Angle Analysis） | IM K–5 Math 四年级 第7单元 C部分 · Illustrative Mathematics | [PNG](<海报/g4-u7c-角的分析.png>) · [PDF](<海报/g4-u7c-角的分析.pdf>) |
+| 边角和对称轴 | 四年级 | 第8单元 A部分 | 边、角和对称轴（Side Lengths, Angles, and Lines of Symmetry） | IM K–5 Math 四年级 第8单元 A部分 · Illustrative Mathematics | [PNG](<海报/g4-u8a-边角和对称轴.png>) · [PDF](<海报/g4-u8a-边角和对称轴.pdf>) |
+| 用特征解决问题 | 四年级 | 第8单元 B部分 | 用特征解决问题（Reason about Attributes to Solve Problems） | IM K–5 Math 四年级 第8单元 B部分 · Illustrative Mathematics | [PNG](<海报/g4-u8b-用特征解决问题.png>) · [PDF](<海报/g4-u8b-用特征解决问题.pdf>) |
+| 分数推理 | 四年级 | 第9单元 A部分 | 分数推理（Reason with Fractions） | IM K–5 Math 四年级 第9单元 A部分 · Illustrative Mathematics | [PNG](<海报/g4-u9a-分数推理.png>) · [PDF](<海报/g4-u9a-分数推理.pdf>) |
+| 整数运算 | 四年级 | 第9单元 B部分 | 整数运算（Whole-number Operations） | IM K–5 Math 四年级 第9单元 B部分 · Illustrative Mathematics | [PNG](<海报/g4-u9b-整数运算.png>) · [PDF](<海报/g4-u9b-整数运算.pdf>) |
+| 用乘除解题 | 四年级 | 第9单元 C部分 | 用乘除解题（Solve Problems with Multiplication and Division） | IM K–5 Math 四年级 第9单元 C部分 · Illustrative Mathematics | [PNG](<海报/g4-u9c-用乘除解题.png>) · [PDF](<海报/g4-u9c-用乘除解题.pdf>) |
+| 创作与设计 | 四年级 | 第9单元 D部分 | 创作与设计（Creation and Design） | IM K–5 Math 四年级 第9单元 D部分 · Illustrative Mathematics | [PNG](<海报/g4-u9d-创作与设计.png>) · [PDF](<海报/g4-u9d-创作与设计.pdf>) |
