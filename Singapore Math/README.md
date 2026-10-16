@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 8 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 12 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -17,7 +17,11 @@
 | 第2章 数的分合 | [数的分合](海报/g1-02-数的分合.png) · [PDF](海报/g1-02-数的分合.pdf) | Dimensions Math 1A 第2章 |
 | 第3章 加法 | [加法](海报/g1-03-加法.png) · [PDF](海报/g1-03-加法.pdf) | Dimensions Math 1A 第3章 |
 | 第4章 减法 | [减法](海报/g1-04-减法.png) · [PDF](海报/g1-04-减法.pdf) | Dimensions Math 1A 第4章 |
+| 第5章 20以内的数 | [20以内的数](海报/g1-05-20以内的数.png) · [PDF](海报/g1-05-20以内的数.pdf) | Dimensions Math 1A 第5章 |
 | 第6章 20以内的加法 | [凑十法](海报/g1-06-凑十法.png) · [PDF](海报/g1-06-凑十法.pdf) | Dimensions Math 1A 第6章 |
+| 第7章 20以内的减法 | [20以内的减法](海报/g1-07-20以内的减法.png) · [PDF](海报/g1-07-20以内的减法.pdf) | Dimensions Math 1A 第7章 |
+| 第8章 图形 | [图形](海报/g1-08-图形.png) · [PDF](海报/g1-08-图形.pdf) | Dimensions Math 1A 第8章 |
+| 第9章 序数 | [序数](海报/g1-09-序数.png) · [PDF](海报/g1-09-序数.pdf) | Dimensions Math 1A 第9章 |
 
 ### 二年级（Dimensions Math 2A / 2B）
 
