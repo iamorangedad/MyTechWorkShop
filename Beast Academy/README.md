@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 46 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 49 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### Level 1（一级，Beast Academy 1A–1D）
 
@@ -73,6 +73,9 @@
 | 4C 第7章 Factors（因数） | [因数](海报/l4-C07-因数.png) · [PDF](海报/l4-C07-因数.pdf) | Beast Academy 4C 第7章 · Art of Problem Solving |
 | 4C 第8章 Fractions（分数） | [分数](海报/l4-C08-分数.png) · [PDF](海报/l4-C08-分数.pdf) | Beast Academy 4C 第8章 · Art of Problem Solving |
 | 4C 第9章 Integers（整数） | [正负数](海报/l4-C09-正负数.png) · [PDF](海报/l4-C09-正负数.pdf) | Beast Academy 4C 第9章 · Art of Problem Solving |
+| 4D 第10章 Fractions（分数） | [分数](海报/l4-D10-分数.png) · [PDF](海报/l4-D10-分数.pdf) | Beast Academy 4D 第10章 · Art of Problem Solving |
+| 4D 第11章 Decimals（小数） | [小数](海报/l4-D11-小数.png) · [PDF](海报/l4-D11-小数.pdf) | Beast Academy 4D 第11章 · Art of Problem Solving |
+| 4D 第12章 Probability（概率） | [概率](海报/l4-D12-概率.png) · [PDF](海报/l4-D12-概率.pdf) | Beast Academy 4D 第12章 · Art of Problem Solving |
 
 ### Level 5（五级，Beast Academy 5A–5D）
 
