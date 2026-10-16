@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 66 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 70 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -94,3 +94,12 @@
 | 第15章 角 | [角](海报/g4-15-角.png) · [PDF](海报/g4-15-角.pdf) | Dimensions Math 4B 第15章 |
 | 第16章 线与图形 | [线与图形](海报/g4-16-线与图形.png) · [PDF](海报/g4-16-线与图形.pdf) | Dimensions Math 4B 第16章 |
 | 第17章 长方体的特征 | [长方体](海报/g4-17-长方体.png) · [PDF](海报/g4-17-长方体.pdf) | Dimensions Math 4B 第17章 |
+
+### 五年级（Dimensions Math 5A / 5B）
+
+| 章 | 海报 | 教材来源 |
+|---|---|---|
+| 第1章 整数 | [整数](海报/g5-01-整数.png) · [PDF](海报/g5-01-整数.pdf) | Dimensions Math 5A 第1章 |
+| 第2章 列式与求值 | [列式与求值](海报/g5-02-列式与求值.png) · [PDF](海报/g5-02-列式与求值.pdf) | Dimensions Math 5A 第2章 |
+| 第3章 乘法与除法 | [乘法与除法](海报/g5-03-乘法与除法.png) · [PDF](海报/g5-03-乘法与除法.pdf) | Dimensions Math 5A 第3章 |
+| 第4章 分数加减法 | [异分母分数加减](海报/g5-04-异分母分数加减.png) · [PDF](海报/g5-04-异分母分数加减.pdf) | Dimensions Math 5A 第4章 |
