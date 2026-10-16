@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 20 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 24 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### Level 1（一级，Beast Academy 1A–1D）
 
@@ -34,6 +34,10 @@
 | 2A 第2章 Comparing（比较） | [比较](海报/l2-A02-比较.png) · [PDF](海报/l2-A02-比较.pdf) | Beast Academy 2A 第2章 · Art of Problem Solving |
 | 2A 第3章 Addition（加法） | [加法](海报/l2-A03-加法.png) · [PDF](海报/l2-A03-加法.pdf) | Beast Academy 2A 第3章 · Art of Problem Solving |
 | 2B 第4章 Subtraction（减法） | [减法](海报/l2-B04-减法.png) · [PDF](海报/l2-B04-减法.pdf) | Beast Academy 2B 第4章 · Art of Problem Solving |
+| 2B 第5章 Expressions（算式） | [算式](海报/l2-B05-算式.png) · [PDF](海报/l2-B05-算式.pdf) | Beast Academy 2B 第5章 · Art of Problem Solving |
+| 2B 第6章 Problem Solving（解决问题） | [解决问题](海报/l2-B06-解决问题.png) · [PDF](海报/l2-B06-解决问题.pdf) | Beast Academy 2B 第6章 · Art of Problem Solving |
+| 2C 第7章 Measurement（测量） | [测量](海报/l2-C07-测量.png) · [PDF](海报/l2-C07-测量.pdf) | Beast Academy 2C 第7章 · Art of Problem Solving |
+| 2C 第8章 Strategies (+&–)（加减策略） | [加减策略](海报/l2-C08-加减策略.png) · [PDF](海报/l2-C08-加减策略.pdf) | Beast Academy 2C 第8章 · Art of Problem Solving |
 | 2D 第12章 Problem Solving（解决问题） | [数路线](海报/l2-D12-数路线.png) · [PDF](海报/l2-D12-数路线.pdf) | Beast Academy 2D 第12章 · Art of Problem Solving |
 
 ### Level 3（三级，Beast Academy 3A–3D）
