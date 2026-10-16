@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 94 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 98 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -103,5 +103,9 @@
 | 玩具店算账 | 二年级 | 第7单元 模块2 | 蚂蚁玩具店的多位数加减（Multidigit Addition & Subtraction with the Ants’ Toy Store） | Bridges in Mathematics 二年级 第7单元 模块2 · The Math Learning Center | [PNG](<海报/g2-u7m2-蚂蚁玩具店的多位数加减.png>) · [PDF](<海报/g2-u7m2-蚂蚁玩具店的多位数加减.pdf>) |
 | 两步问题 | 二年级 | 第7单元 模块3 | 提出和解决问题情境（Posing & Solving Problem Situations） | Bridges in Mathematics 二年级 第7单元 模块3 · The Math Learning Center | [PNG](<海报/g2-u7m3-提出和解决问题情境.png>) · [PDF](<海报/g2-u7m3-提出和解决问题情境.pdf>) |
 | 相等的部分和组 | 二年级 | 第7单元 模块4 | 探索相等的部分和组（Exploring Equal Parts & Groups） | Bridges in Mathematics 二年级 第7单元 模块4 · The Math Learning Center | [PNG](<海报/g2-u7m4-探索相等的部分和组.png>) · [PDF](<海报/g2-u7m4-探索相等的部分和组.pdf>) |
+| 三位数计算 | 二年级 | 第8单元 模块1 | 复习数位和三位数计算（Revisiting Place Value & Three-Digit Computation） | Bridges in Mathematics 二年级 第8单元 模块1 · The Math Learning Center | [PNG](<海报/g2-u8m1-复习数位和三位数计算.png>) · [PDF](<海报/g2-u8m1-复习数位和三位数计算.pdf>) |
+| 弹珠轨道 | 二年级 | 第8单元 模块2 | 搭建弹珠轨道、收集数据（Building Marble Rolls & Collecting Data） | Bridges in Mathematics 二年级 第8单元 模块2 · The Math Learning Center | [PNG](<海报/g2-u8m2-搭建弹珠轨道收集数据.png>) · [PDF](<海报/g2-u8m2-搭建弹珠轨道收集数据.pdf>) |
+| 点图 | 二年级 | 第8单元 模块3 | 收集并分析更多弹珠数据（Collecting & Analyzing More Marble Roll Data） | Bridges in Mathematics 二年级 第8单元 模块3 · The Math Learning Center | [PNG](<海报/g2-u8m3-收集并分析更多弹珠数据.png>) · [PDF](<海报/g2-u8m3-收集并分析更多弹珠数据.pdf>) |
+| 做调查 | 二年级 | 第8单元 模块4 | 学生自主调查（Student-Conducted Surveys） | Bridges in Mathematics 二年级 第8单元 模块4 · The Math Learning Center | [PNG](<海报/g2-u8m4-学生自主调查.png>) · [PDF](<海报/g2-u8m4-学生自主调查.pdf>) |
 | 宠物店里学乘法 | 三年级 | 第2单元 模块1 | 情境中的乘法（Multiplication in Context） | Bridges in Mathematics 三年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g3-u2m1-情境中的乘法.png>) · [PDF](<海报/g3-u2m1-情境中的乘法.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
