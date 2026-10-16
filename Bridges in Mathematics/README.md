@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 184 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 188 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -195,3 +195,7 @@
 | 多边形分类 | 五年级 | 第6单元 模块2 | 多边形分类（Classifying Polygons） | Bridges in Mathematics 五年级 第6单元 模块2 · The Math Learning Center | [PNG](<海报/g5-u6m2-多边形分类.png>) · [PDF](<海报/g5-u6m2-多边形分类.pdf>) |
 | 长方体体积 | 五年级 | 第6单元 模块3 | 体积（Volume） | Bridges in Mathematics 五年级 第6单元 模块3 · The Math Learning Center | [PNG](<海报/g5-u6m3-体积.png>) · [PDF](<海报/g5-u6m3-体积.pdf>) |
 | 横幅与旗帜 | 五年级 | 第6单元 模块4 | 横幅与旗帜（Banners & Flags） | Bridges in Mathematics 五年级 第6单元 模块4 · The Math Learning Center | [PNG](<海报/g5-u6m4-横幅与旗帜.png>) · [PDF](<海报/g5-u6m4-横幅与旗帜.pdf>) |
+| 分数和整数除法 | 五年级 | 第7单元 模块1 | 分数与整数的除法（Division of Fractions & Whole Numbers） | Bridges in Mathematics 五年级 第7单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u7m1-分数与整数的除法.png>) · [PDF](<海报/g5-u7m1-分数与整数的除法.pdf>) |
+| 除法的含义 | 五年级 | 第7单元 模块2 | 除法的含义与策略（Division Interpretations & Strategies） | Bridges in Mathematics 五年级 第7单元 模块2 · The Math Learning Center | [PNG](<海报/g5-u7m2-除法的含义与策略.png>) · [PDF](<海报/g5-u7m2-除法的含义与策略.pdf>) |
+| 10 的乘方 | 五年级 | 第7单元 模块3 | 10 的乘方（Powers of Ten） | Bridges in Mathematics 五年级 第7单元 模块3 · The Math Learning Center | [PNG](<海报/g5-u7m3-10的乘方.png>) · [PDF](<海报/g5-u7m3-10的乘方.pdf>) |
+| 小数乘除 | 五年级 | 第7单元 模块4 | 小数乘除（Decimal Multiplication & Division） | Bridges in Mathematics 五年级 第7单元 模块4 · The Math Learning Center | [PNG](<海报/g5-u7m4-小数乘除.png>) · [PDF](<海报/g5-u7m4-小数乘除.pdf>) |
