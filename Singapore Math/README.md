@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 25 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 29 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -41,6 +41,10 @@
 | 第2章 加法与减法（一） | [条形模型](海报/g2-02-条形模型.png) · [PDF](海报/g2-02-条形模型.pdf) | Dimensions Math 2A 第2章 |
 | 第3章 加法与减法（二） | [进位加与退位减](海报/g2-03-进位加与退位减.png) · [PDF](海报/g2-03-进位加与退位减.pdf) | Dimensions Math 2A 第3章 |
 | 第4章 长度 | [长度](海报/g2-04-长度.png) · [PDF](海报/g2-04-长度.pdf) | Dimensions Math 2A 第4章 |
+| 第5章 重量 | [重量](海报/g2-05-重量.png) · [PDF](海报/g2-05-重量.pdf) | Dimensions Math 2A 第5章 |
+| 第6章 乘法与除法 | [乘法与除法](海报/g2-06-乘法与除法.png) · [PDF](海报/g2-06-乘法与除法.pdf) | Dimensions Math 2A 第6章 |
+| 第7章 2、5、10 的乘法与除法 | [2、5、10的乘除法](海报/g2-07-2、5、10的乘除法.png) · [PDF](海报/g2-07-2、5、10的乘除法.pdf) | Dimensions Math 2A 第7章 |
+| 第8章 心算 | [心算](海报/g2-08-心算.png) · [PDF](海报/g2-08-心算.pdf) | Dimensions Math 2B 第8章 |
 
 ### 三年级（Dimensions Math 3A / 3B）
 
