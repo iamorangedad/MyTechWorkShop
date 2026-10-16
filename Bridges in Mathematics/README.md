@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 125 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 129 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -135,4 +135,8 @@
 | 一位数乘两位数 | 三年级 | 第7单元 模块2 | 一位数乘两位数（One- by Two-Digit Multiplication） | Bridges in Mathematics 三年级 第7单元 模块2 · The Math Learning Center | [PNG](<海报/g3-u7m2-一位数乘两位数.png>) · [PDF](<海报/g3-u7m2-一位数乘两位数.pdf>) |
 | 整体和一组 | 三年级 | 第7单元 模块3 | 整体的部分与一组的部分（Fractions as Parts of a Whole & Parts of a Set） | Bridges in Mathematics 三年级 第7单元 模块3 · The Math Learning Center | [PNG](<海报/g3-u7m3-整体的部分与一组的部分.png>) · [PDF](<海报/g3-u7m3-整体的部分与一组的部分.pdf>) |
 | 分数的应用 | 三年级 | 第7单元 模块4 | 工作中的分数（Fractions at Work） | Bridges in Mathematics 三年级 第7单元 模块4 · The Math Learning Center | [PNG](<海报/g3-u7m4-工作中的分数.png>) · [PDF](<海报/g3-u7m4-工作中的分数.pdf>) |
+| 认识桥梁 | 三年级 | 第8单元 模块1 | 认识桥梁（Introducing Bridges） | Bridges in Mathematics 三年级 第8单元 模块1 · The Math Learning Center | [PNG](<海报/g3-u8m1-认识桥梁.png>) · [PDF](<海报/g3-u8m1-认识桥梁.pdf>) |
+| 桥梁结构 | 三年级 | 第8单元 模块2 | 研究桥梁结构（Investigating Structures in Bridges） | Bridges in Mathematics 三年级 第8单元 模块2 · The Math Learning Center | [PNG](<海报/g3-u8m2-研究桥梁结构.png>) · [PDF](<海报/g3-u8m2-研究桥梁结构.pdf>) |
+| 建桥和分析 | 三年级 | 第8单元 模块3 | 规划、建造和分析桥梁（Planning, Building & Analyzing Bridges） | Bridges in Mathematics 三年级 第8单元 模块3 · The Math Learning Center | [PNG](<海报/g3-u8m3-规划建造和分析桥梁.png>) · [PDF](<海报/g3-u8m3-规划建造和分析桥梁.pdf>) |
+| 展示学习成果 | 三年级 | 第8单元 模块4 | 展示我们的桥梁学习（Demonstrating Our Learning About Bridges） | Bridges in Mathematics 三年级 第8单元 模块4 · The Math Learning Center | [PNG](<海报/g3-u8m4-展示我们的桥梁学习.png>) · [PDF](<海报/g3-u8m4-展示我们的桥梁学习.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
