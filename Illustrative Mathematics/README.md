@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个 Section 一张，全套 161 张。已完成 77 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个 Section 一张，全套 161 张。已完成 107 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 部分 | 部分名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -88,3 +88,33 @@
 | 20 以内熟练加减与测量 | 二年级 | 第9单元 A部分 | 20 以内熟练加减与测量（Fluency Within 20 and Measurement） | IM K–5 Math 二年级 第9单元 A部分 · Illustrative Mathematics | [PNG](<海报/g2-u9a-20以内熟练加减与测量.png>) · [PDF](<海报/g2-u9a-20以内熟练加减与测量.pdf>) |
 | 1000 以内的数 | 二年级 | 第9单元 B部分 | 1000 以内的数（Numbers to 1,000） | IM K–5 Math 二年级 第9单元 B部分 · Illustrative Mathematics | [PNG](<海报/g2-u9b-1000以内的数.png>) · [PDF](<海报/g2-u9b-1000以内的数.pdf>) |
 | 编题与解题 | 二年级 | 第9单元 C部分 | 编题与解题（Create and Solve Story Problems） | IM K–5 Math 二年级 第9单元 C部分 · Illustrative Mathematics | [PNG](<海报/g2-u9c-编题与解题.png>) · [PDF](<海报/g2-u9c-编题与解题.pdf>) |
+| 比例统计图 | 三年级 | 第1单元 A部分 | 读懂并画出比例统计图（Interpret and Represent Data on Scaled Graphs） | IM K–5 Math 三年级 第1单元 A部分 · Illustrative Mathematics | [PNG](<海报/g3-u1a-读懂并画出比例统计图.png>) · [PDF](<海报/g3-u1a-读懂并画出比例统计图.pdf>) |
+| 相等的组 | 三年级 | 第1单元 B部分 | 从统计图到乘法（From Graphs to Multiplication） | IM K–5 Math 三年级 第1单元 B部分 · Illustrative Mathematics | [PNG](<海报/g3-u1b-从统计图到乘法.png>) · [PDF](<海报/g3-u1b-从统计图到乘法.pdf>) |
+| 阵列与交换律 | 三年级 | 第1单元 C部分 | 用阵列表示乘法与交换律（Represent Multiplication with Arrays and the Commutative Property） | IM K–5 Math 三年级 第1单元 C部分 · Illustrative Mathematics | [PNG](<海报/g3-u1c-用阵列表示乘法与交换律.png>) · [PDF](<海报/g3-u1c-用阵列表示乘法与交换律.pdf>) |
+| 面积的概念 | 三年级 | 第2单元 A部分 | 面积的概念（Concepts of Area Measurement） | IM K–5 Math 三年级 第2单元 A部分 · Illustrative Mathematics | [PNG](<海报/g3-u2a-面积的概念.png>) · [PDF](<海报/g3-u2a-面积的概念.pdf>) |
+| 面积与乘法 | 三年级 | 第2单元 B部分 | 面积与乘法（Relate Area to Multiplication） | IM K–5 Math 三年级 第2单元 B部分 · Illustrative Mathematics | [PNG](<海报/g3-u2b-面积与乘法.png>) · [PDF](<海报/g3-u2b-面积与乘法.pdf>) |
+| 组合图形的面积 | 三年级 | 第2单元 C部分 | 组合图形的面积（Find Area of Figures Composed of Rectangles） | IM K–5 Math 三年级 第2单元 C部分 · Illustrative Mathematics | [PNG](<海报/g3-u2c-组合图形的面积.png>) · [PDF](<海报/g3-u2c-组合图形的面积.pdf>) |
+| 1000 以内加法 | 三年级 | 第3单元 A部分 | 1000 以内加法（Add Within 1,000） | IM K–5 Math 三年级 第3单元 A部分 · Illustrative Mathematics | [PNG](<海报/g3-u3a-1000以内加法.png>) · [PDF](<海报/g3-u3a-1000以内加法.pdf>) |
+| 1000 以内减法 | 三年级 | 第3单元 B部分 | 1000 以内减法（Subtract Within 1,000） | IM K–5 Math 三年级 第3单元 B部分 · Illustrative Mathematics | [PNG](<海报/g3-u3b-1000以内减法.png>) · [PDF](<海报/g3-u3b-1000以内减法.pdf>) |
+| 近似数 | 三年级 | 第3单元 C部分 | 1000 以内的近似（Round Within 1,000） | IM K–5 Math 三年级 第3单元 C部分 · Illustrative Mathematics | [PNG](<海报/g3-u3c-1000以内的近似.png>) · [PDF](<海报/g3-u3c-1000以内的近似.pdf>) |
+| 两步问题 | 三年级 | 第3单元 D部分 | 解两步问题（Solve Two-Step Problems） | IM K–5 Math 三年级 第3单元 D部分 · Illustrative Mathematics | [PNG](<海报/g3-u3d-解两步问题.png>) · [PDF](<海报/g3-u3d-解两步问题.pdf>) |
+| 什么是除法 | 三年级 | 第4单元 A部分 | 什么是除法？（What is Division?） | IM K–5 Math 三年级 第4单元 A部分 · Illustrative Mathematics | [PNG](<海报/g3-u4a-什么是除法.png>) · [PDF](<海报/g3-u4a-什么是除法.pdf>) |
+| 乘除关系 | 三年级 | 第4单元 B部分 | 乘法和除法的关系（Relate Multiplication and Division） | IM K–5 Math 三年级 第4单元 B部分 · Illustrative Mathematics | [PNG](<海报/g3-u4b-乘法和除法的关系.png>) · [PDF](<海报/g3-u4b-乘法和除法的关系.pdf>) |
+| 较大数的乘法 | 三年级 | 第4单元 C部分 | 较大数的乘法（Multiplying Larger Numbers） | IM K–5 Math 三年级 第4单元 C部分 · Illustrative Mathematics | [PNG](<海报/g3-u4c-较大数的乘法.png>) · [PDF](<海报/g3-u4c-较大数的乘法.pdf>) |
+| 较大数的除法 | 三年级 | 第4单元 D部分 | 较大数的除法（Dividing Larger Numbers） | IM K–5 Math 三年级 第4单元 D部分 · Illustrative Mathematics | [PNG](<海报/g3-u4d-较大数的除法.png>) · [PDF](<海报/g3-u4d-较大数的除法.pdf>) |
+| 认识分数 | 三年级 | 第5单元 A部分 | 认识分数（Introduction to Fractions） | IM K–5 Math 三年级 第5单元 A部分 · Illustrative Mathematics | [PNG](<海报/g3-u5a-认识分数.png>) · [PDF](<海报/g3-u5a-认识分数.pdf>) |
+| 数线上的分数 | 三年级 | 第5单元 B部分 | 数线上的分数（Fractions on the Number Line） | IM K–5 Math 三年级 第5单元 B部分 · Illustrative Mathematics | [PNG](<海报/g3-u5b-数线上的分数.png>) · [PDF](<海报/g3-u5b-数线上的分数.pdf>) |
+| 相等的分数 | 三年级 | 第5单元 C部分 | 相等的分数（Equivalent Fractions） | IM K–5 Math 三年级 第5单元 C部分 · Illustrative Mathematics | [PNG](<海报/g3-u5c-相等的分数.png>) · [PDF](<海报/g3-u5c-相等的分数.pdf>) |
+| 比较分数 | 三年级 | 第5单元 D部分 | 比较分数（Fraction Comparisons） | IM K–5 Math 三年级 第5单元 D部分 · Illustrative Mathematics | [PNG](<海报/g3-u5d-比较分数.png>) · [PDF](<海报/g3-u5d-比较分数.pdf>) |
+| 测量数据与线图 | 三年级 | 第6单元 A部分 | 测量数据与线图（Measurement Data on Line Plots） | IM K–5 Math 三年级 第6单元 A部分 · Illustrative Mathematics | [PNG](<海报/g3-u6a-测量数据与线图.png>) · [PDF](<海报/g3-u6a-测量数据与线图.pdf>) |
+| 重量和容量 | 三年级 | 第6单元 B部分 | 重量和容量（Weight and Liquid Volume） | IM K–5 Math 三年级 第6单元 B部分 · Illustrative Mathematics | [PNG](<海报/g3-u6b-重量和容量.png>) · [PDF](<海报/g3-u6b-重量和容量.pdf>) |
+| 时间问题 | 三年级 | 第6单元 C部分 | 时间问题（Problems Involving Time） | IM K–5 Math 三年级 第6单元 C部分 · Illustrative Mathematics | [PNG](<海报/g3-u6c-时间问题.png>) · [PDF](<海报/g3-u6c-时间问题.pdf>) |
+| 测量问题 | 三年级 | 第6单元 D部分 | 情境中的测量问题（Measurement Problems in Context） | IM K–5 Math 三年级 第6单元 D部分 · Illustrative Mathematics | [PNG](<海报/g3-u6d-情境中的测量问题.png>) · [PDF](<海报/g3-u6d-情境中的测量问题.pdf>) |
+| 图形推理 | 三年级 | 第7单元 A部分 | 图形推理（Reason with Shapes） | IM K–5 Math 三年级 第7单元 A部分 · Illustrative Mathematics | [PNG](<海报/g3-u7a-图形推理.png>) · [PDF](<海报/g3-u7a-图形推理.pdf>) |
+| 什么是周长 | 三年级 | 第7单元 B部分 | 什么是周长？（What is Perimeter?） | IM K–5 Math 三年级 第7单元 B部分 · Illustrative Mathematics | [PNG](<海报/g3-u7b-什么是周长.png>) · [PDF](<海报/g3-u7b-什么是周长.pdf>) |
+| 周长与面积 | 三年级 | 第7单元 C部分 | 周长再探（Expanding on Perimeter） | IM K–5 Math 三年级 第7单元 C部分 · Illustrative Mathematics | [PNG](<海报/g3-u7c-周长再探.png>) · [PDF](<海报/g3-u7c-周长再探.pdf>) |
+| 用周长和面积设计 | 三年级 | 第7单元 D部分 | 用周长和面积来设计（Design with Perimeter and Area） | IM K–5 Math 三年级 第7单元 D部分 · Illustrative Mathematics | [PNG](<海报/g3-u7d-用周长和面积来设计.png>) · [PDF](<海报/g3-u7d-用周长和面积来设计.pdf>) |
+| 分数游戏 | 三年级 | 第8单元 A部分 | 分数游戏（Fraction Fun） | IM K–5 Math 三年级 第8单元 A部分 · Illustrative Mathematics | [PNG](<海报/g3-u8a-分数游戏.png>) · [PDF](<海报/g3-u8a-分数游戏.pdf>) |
+| 测量与数据 | 三年级 | 第8单元 B部分 | 测量与数据（Measurement and Data） | IM K–5 Math 三年级 第8单元 B部分 · Illustrative Mathematics | [PNG](<海报/g3-u8b-测量与数据.png>) · [PDF](<海报/g3-u8b-测量与数据.pdf>) |
+| 乘除游戏 | 三年级 | 第8单元 C部分 | 乘除游戏（Multiplication and Division Games） | IM K–5 Math 三年级 第8单元 C部分 · Illustrative Mathematics | [PNG](<海报/g3-u8c-乘除游戏.png>) · [PDF](<海报/g3-u8c-乘除游戏.pdf>) |
+| 创作与设计 | 三年级 | 第8单元 D部分 | 创作与设计（Create and Design） | IM K–5 Math 三年级 第8单元 D部分 · Illustrative Mathematics | [PNG](<海报/g3-u8d-创作与设计.png>) · [PDF](<海报/g3-u8d-创作与设计.pdf>) |
