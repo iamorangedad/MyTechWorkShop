@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 20 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 25 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### 一年级（Dimensions Math 1A / 1B）
 
@@ -30,12 +30,17 @@
 | 第15章 分数 | [分数](海报/g1-15-分数.png) · [PDF](海报/g1-15-分数.pdf) | Dimensions Math 1B 第15章 |
 | 第16章 100以内的数 | [100以内的数](海报/g1-16-100以内的数.png) · [PDF](海报/g1-16-100以内的数.pdf) | Dimensions Math 1B 第16章 |
 | 第17章 100以内的加减法 | [100以内的加减法](海报/g1-17-100以内的加减法.png) · [PDF](海报/g1-17-100以内的加减法.pdf) | Dimensions Math 1B 第17章 |
+| 第18章 时间 | [时间](海报/g1-18-时间.png) · [PDF](海报/g1-18-时间.pdf) | Dimensions Math 1B 第18章 |
+| 第19章 钱币 | [人民币](海报/g1-19-人民币.png) · [PDF](海报/g1-19-人民币.pdf) | Dimensions Math 1B 第19章 |
 
 ### 二年级（Dimensions Math 2A / 2B）
 
 | 章 | 海报 | 教材来源 |
 |---|---|---|
+| 第1章 1000以内的数 | [1000以内的数](海报/g2-01-1000以内的数.png) · [PDF](海报/g2-01-1000以内的数.pdf) | Dimensions Math 2A 第1章 |
 | 第2章 加法与减法（一） | [条形模型](海报/g2-02-条形模型.png) · [PDF](海报/g2-02-条形模型.pdf) | Dimensions Math 2A 第2章 |
+| 第3章 加法与减法（二） | [进位加与退位减](海报/g2-03-进位加与退位减.png) · [PDF](海报/g2-03-进位加与退位减.pdf) | Dimensions Math 2A 第3章 |
+| 第4章 长度 | [长度](海报/g2-04-长度.png) · [PDF](海报/g2-04-长度.pdf) | Dimensions Math 2A 第4章 |
 
 ### 三年级（Dimensions Math 3A / 3B）
 
