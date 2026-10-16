@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 55 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 59 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -63,6 +63,10 @@
 | 加减策略 | 一年级 | 第5单元 模块2 | 加减策略（Addition & Subtraction Strategies） | Bridges in Mathematics 一年级 第5单元 模块2 · The Math Learning Center | [PNG](<海报/g1-u5m2-加减策略.png>) · [PDF](<海报/g1-u5m2-加减策略.pdf>) |
 | 求未知数 | 一年级 | 第5单元 模块3 | 企鹅故事里的未知数（Solving for the Unknown in Penguin Stories） | Bridges in Mathematics 一年级 第5单元 模块3 · The Math Learning Center | [PNG](<海报/g1-u5m3-企鹅故事里的未知数.png>) · [PDF](<海报/g1-u5m3-企鹅故事里的未知数.pdf>) |
 | 大企鹅和小企鹅 | 一年级 | 第5单元 模块4 | 测量比较帝企鹅和小蓝企鹅（Measuring & Comparing Emperor & Little Blue Penguins） | Bridges in Mathematics 一年级 第5单元 模块4 · The Math Learning Center | [PNG](<海报/g1-u5m4-测量比较帝企鹅和小蓝企鹅.png>) · [PDF](<海报/g1-u5m4-测量比较帝企鹅和小蓝企鹅.pdf>) |
+| 平面图形的特征 | 一年级 | 第6单元 模块1 | 认识平面图形（Introducing Two-Dimensional Shapes） | Bridges in Mathematics 一年级 第6单元 模块1 · The Math Learning Center | [PNG](<海报/g1-u6m1-认识平面图形.png>) · [PDF](<海报/g1-u6m1-认识平面图形.pdf>) |
+| 立体图形 | 一年级 | 第6单元 模块2 | 认识立体图形（Introducing Three-Dimensional Shapes） | Bridges in Mathematics 一年级 第6单元 模块2 · The Math Learning Center | [PNG](<海报/g1-u6m2-认识立体图形.png>) · [PDF](<海报/g1-u6m2-认识立体图形.pdf>) |
+| 拼与分 | 一年级 | 第6单元 模块3 | 图形的拼与分（Putting Shapes Together & Taking Them Apart） | Bridges in Mathematics 一年级 第6单元 模块3 · The Math Learning Center | [PNG](<海报/g1-u6m3-图形的拼与分.png>) · [PDF](<海报/g1-u6m3-图形的拼与分.pdf>) |
+| 图形统计 | 一年级 | 第6单元 模块4 | 图形分类和统计（Sorting & Graphing Shapes） | Bridges in Mathematics 一年级 第6单元 模块4 · The Math Learning Center | [PNG](<海报/g1-u6m4-图形分类和统计.png>) · [PDF](<海报/g1-u6m4-图形分类和统计.pdf>) |
 | 百、十、一：三位数 | 二年级 | 第5单元 模块3 | 探索数位与三位数（Exploring Place Value & 3-Digit Numbers） | Bridges in Mathematics 二年级 第5单元 模块3 · The Math Learning Center | [PNG](<海报/g2-u5m3-探索数位与三位数.png>) · [PDF](<海报/g2-u5m3-探索数位与三位数.pdf>) |
 | 宠物店里学乘法 | 三年级 | 第2单元 模块1 | 情境中的乘法（Multiplication in Context） | Bridges in Mathematics 三年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g3-u2m1-情境中的乘法.png>) · [PDF](<海报/g3-u2m1-情境中的乘法.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
