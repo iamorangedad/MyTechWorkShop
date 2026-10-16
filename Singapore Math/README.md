@@ -7,9 +7,32 @@
 
 ## 海报
 
-| 年级 | 海报 | 教材来源 |
+每章一张，共 8 张（PNG + PDF）。海报底部均标注教材来源。
+
+### 一年级（Dimensions Math 1A / 1B）
+
+| 章 | 海报 | 教材来源 |
 |---|---|---|
-| 一年级 | [凑十法](海报/g1-凑十法.png) · [PDF](海报/g1-凑十法.pdf) | Dimensions Math 1A 第6章 |
-| 二年级 | [条形模型](海报/g2-条形模型.png) · [PDF](海报/g2-条形模型.pdf) | Dimensions Math 2A 第2章 |
-| 三年级 | [面积与周长](海报/g3-面积与周长.png) · [PDF](海报/g3-面积与周长.pdf) | Dimensions Math 3B 第13章 |
-| 四年级 | [整数的几分之几](海报/g4-整数的几分之几.png) · [PDF](海报/g4-整数的几分之几.pdf) | Dimensions Math 4A 第8章 |
+| 第1章 10以内的数 | [10以内的数](海报/g1-01-10以内的数.png) · [PDF](海报/g1-01-10以内的数.pdf) | Dimensions Math 1A 第1章 |
+| 第2章 数的分合 | [数的分合](海报/g1-02-数的分合.png) · [PDF](海报/g1-02-数的分合.pdf) | Dimensions Math 1A 第2章 |
+| 第3章 加法 | [加法](海报/g1-03-加法.png) · [PDF](海报/g1-03-加法.pdf) | Dimensions Math 1A 第3章 |
+| 第4章 减法 | [减法](海报/g1-04-减法.png) · [PDF](海报/g1-04-减法.pdf) | Dimensions Math 1A 第4章 |
+| 第6章 20以内的加法 | [凑十法](海报/g1-06-凑十法.png) · [PDF](海报/g1-06-凑十法.pdf) | Dimensions Math 1A 第6章 |
+
+### 二年级（Dimensions Math 2A / 2B）
+
+| 章 | 海报 | 教材来源 |
+|---|---|---|
+| 第2章 加法与减法（一） | [条形模型](海报/g2-02-条形模型.png) · [PDF](海报/g2-02-条形模型.pdf) | Dimensions Math 2A 第2章 |
+
+### 三年级（Dimensions Math 3A / 3B）
+
+| 章 | 海报 | 教材来源 |
+|---|---|---|
+| 第13章 面积与周长 | [面积与周长](海报/g3-13-面积与周长.png) · [PDF](海报/g3-13-面积与周长.pdf) | Dimensions Math 3B 第13章 |
+
+### 四年级（Dimensions Math 4A / 4B）
+
+| 章 | 海报 | 教材来源 |
+|---|---|---|
+| 第8章 分数与整数相乘 | [整数的几分之几](海报/g4-08-整数的几分之几.png) · [PDF](海报/g4-08-整数的几分之几.pdf) | Dimensions Math 4A 第8章 |
