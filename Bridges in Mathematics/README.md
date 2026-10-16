@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 102 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 105 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -112,4 +112,7 @@
 | 两位数加法 | 三年级 | 第1单元 模块3 | 两位数加法（Double-Digit Addition） | Bridges in Mathematics 三年级 第1单元 模块3 · The Math Learning Center | [PNG](<海报/g3-u1m3-两位数加法.png>) · [PDF](<海报/g3-u1m3-两位数加法.pdf>) |
 | 加减策略 | 三年级 | 第1单元 模块4 | 加减策略（Strategies for Adding & Subtracting） | Bridges in Mathematics 三年级 第1单元 模块4 · The Math Learning Center | [PNG](<海报/g3-u1m4-加减策略.png>) · [PDF](<海报/g3-u1m4-加减策略.pdf>) |
 | 宠物店里学乘法 | 三年级 | 第2单元 模块1 | 情境中的乘法（Multiplication in Context） | Bridges in Mathematics 三年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g3-u2m1-情境中的乘法.png>) · [PDF](<海报/g3-u2m1-情境中的乘法.pdf>) |
+| 阵列和数线 | 三年级 | 第2单元 模块2 | 用阵列和数线做乘法（Multiplying with Arrays & Number Lines） | Bridges in Mathematics 三年级 第2单元 模块2 · The Math Learning Center | [PNG](<海报/g3-u2m2-用阵列和数线做乘法.png>) · [PDF](<海报/g3-u2m2-用阵列和数线做乘法.pdf>) |
+| 乘法策略 | 三年级 | 第2单元 模块3 | 探索乘法策略（Exploring Multiplication Strategies） | Bridges in Mathematics 三年级 第2单元 模块3 · The Math Learning Center | [PNG](<海报/g3-u2m3-探索乘法策略.png>) · [PDF](<海报/g3-u2m3-探索乘法策略.pdf>) |
+| 统计图与两步题 | 三年级 | 第2单元 模块4 | 统计图与多种运算的问题情境（Problem Situations with Graphs & Multiple Operations） | Bridges in Mathematics 三年级 第2单元 模块4 · The Math Learning Center | [PNG](<海报/g3-u2m4-统计图与多种运算的问题情境.png>) · [PDF](<海报/g3-u2m4-统计图与多种运算的问题情境.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
