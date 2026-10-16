@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 145 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 149 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -155,4 +155,8 @@
 | 减法竖式 | 四年级 | 第4单元 模块2 | 标准减法竖式（The Standard Subtraction Algorithm） | Bridges in Mathematics 四年级 第4单元 模块2 · The Math Learning Center | [PNG](<海报/g4-u4m2-标准减法竖式.png>) · [PDF](<海报/g4-u4m2-标准减法竖式.pdf>) |
 | 单位换算 | 四年级 | 第4单元 模块3 | 测量（Measurement） | Bridges in Mathematics 四年级 第4单元 模块3 · The Math Learning Center | [PNG](<海报/g4-u4m3-测量.png>) · [PDF](<海报/g4-u4m3-测量.pdf>) |
 | 测量问题 | 四年级 | 第4单元 模块4 | 加减与测量情境（Addition, Subtraction & Measurement Situations） | Bridges in Mathematics 四年级 第4单元 模块4 · The Math Learning Center | [PNG](<海报/g4-u4m4-加减与测量情境.png>) · [PDF](<海报/g4-u4m4-加减与测量情境.pdf>) |
+| 测量角 | 四年级 | 第5单元 模块1 | 测量角（Measuring Angles） | Bridges in Mathematics 四年级 第5单元 模块1 · The Math Learning Center | [PNG](<海报/g4-u5m1-测量角.png>) · [PDF](<海报/g4-u5m1-测量角.pdf>) |
+| 多边形与对称 | 四年级 | 第5单元 模块2 | 多边形与对称（Polygons & Symmetry） | Bridges in Mathematics 四年级 第5单元 模块2 · The Math Learning Center | [PNG](<海报/g4-u5m2-多边形与对称.png>) · [PDF](<海报/g4-u5m2-多边形与对称.pdf>) |
+| 面积与周长 | 四年级 | 第5单元 模块3 | 面积与周长（Area & Perimeter） | Bridges in Mathematics 四年级 第5单元 模块3 · The Math Learning Center | [PNG](<海报/g4-u5m3-面积与周长.png>) · [PDF](<海报/g4-u5m3-面积与周长.pdf>) |
+| 再谈角 | 四年级 | 第5单元 模块4 | 再谈角（Angles Revisited） | Bridges in Mathematics 四年级 第5单元 模块4 · The Math Learning Center | [PNG](<海报/g4-u5m4-再谈角.png>) · [PDF](<海报/g4-u5m4-再谈角.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
