@@ -7,7 +7,7 @@
 
 ## 海报
 
-每章一张，共 24 张（PNG + PDF）。海报底部均标注教材来源。
+每章一张，共 27 张（PNG + PDF）。海报底部均标注教材来源。
 
 ### Level 1（一级，Beast Academy 1A–1D）
 
@@ -38,6 +38,9 @@
 | 2B 第6章 Problem Solving（解决问题） | [解决问题](海报/l2-B06-解决问题.png) · [PDF](海报/l2-B06-解决问题.pdf) | Beast Academy 2B 第6章 · Art of Problem Solving |
 | 2C 第7章 Measurement（测量） | [测量](海报/l2-C07-测量.png) · [PDF](海报/l2-C07-测量.pdf) | Beast Academy 2C 第7章 · Art of Problem Solving |
 | 2C 第8章 Strategies (+&–)（加减策略） | [加减策略](海报/l2-C08-加减策略.png) · [PDF](海报/l2-C08-加减策略.pdf) | Beast Academy 2C 第8章 · Art of Problem Solving |
+| 2C 第9章 Odds & Evens（奇数与偶数） | [奇数与偶数](海报/l2-C09-奇数与偶数.png) · [PDF](海报/l2-C09-奇数与偶数.pdf) | Beast Academy 2C 第9章 · Art of Problem Solving |
+| 2D 第10章 Big Numbers（大数） | [大数](海报/l2-D10-大数.png) · [PDF](海报/l2-D10-大数.pdf) | Beast Academy 2D 第10章 · Art of Problem Solving |
+| 2D 第11章 Algorithms（竖式算法） | [竖式算法](海报/l2-D11-竖式算法.png) · [PDF](海报/l2-D11-竖式算法.pdf) | Beast Academy 2D 第11章 · Art of Problem Solving |
 | 2D 第12章 Problem Solving（解决问题） | [数路线](海报/l2-D12-数路线.png) · [PDF](海报/l2-D12-数路线.pdf) | Beast Academy 2D 第12章 · Art of Problem Solving |
 
 ### Level 3（三级，Beast Academy 3A–3D）
