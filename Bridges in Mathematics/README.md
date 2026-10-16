@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个模块一张（全套 192 个模块）。已完成 157 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张（全套 192 个模块）。已完成 161 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 模块 | 模块名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -167,4 +167,8 @@
 | 小数与十进分数 | 四年级 | 第7单元 模块2 | 小数与十进分数（Decimals & Decimal Fractions） | Bridges in Mathematics 四年级 第7单元 模块2 · The Math Learning Center | [PNG](<海报/g4-u7m2-小数与十进分数.png>) · [PDF](<海报/g4-u7m2-小数与十进分数.pdf>) |
 | 乘法竖式 | 四年级 | 第7单元 模块3 | 认识标准乘法竖式（Introducing the Standard Multiplication Algorithm） | Bridges in Mathematics 四年级 第7单元 模块3 · The Math Learning Center | [PNG](<海报/g4-u7m3-认识标准乘法竖式.png>) · [PDF](<海报/g4-u7m3-认识标准乘法竖式.pdf>) |
 | 多位数乘法 | 四年级 | 第7单元 模块4 | 拓展标准乘法竖式（Extending the Standard Multiplication Algorithm） | Bridges in Mathematics 四年级 第7单元 模块4 · The Math Learning Center | [PNG](<海报/g4-u7m4-拓展标准乘法竖式.png>) · [PDF](<海报/g4-u7m4-拓展标准乘法竖式.pdf>) |
+| 认识操场设计 | 四年级 | 第8单元 模块1 | 认识操场设计（Introducing Playground Design） | Bridges in Mathematics 四年级 第8单元 模块1 · The Math Learning Center | [PNG](<海报/g4-u8m1-认识操场设计.png>) · [PDF](<海报/g4-u8m1-认识操场设计.pdf>) |
+| 做决定 | 四年级 | 第8单元 模块2 | 做决定（Making Decisions） | Bridges in Mathematics 四年级 第8单元 模块2 · The Math Learning Center | [PNG](<海报/g4-u8m2-做决定.png>) · [PDF](<海报/g4-u8m2-做决定.pdf>) |
+| 比例模型 | 四年级 | 第8单元 模块3 | 用比例模型设计操场和球场（Using Scale Models for Our Playground & Field） | Bridges in Mathematics 四年级 第8单元 模块3 · The Math Learning Center | [PNG](<海报/g4-u8m3-用比例模型设计操场和球场.png>) · [PDF](<海报/g4-u8m3-用比例模型设计操场和球场.pdf>) |
+| 搭建模型 | 四年级 | 第8单元 模块4 | 搭建操场模型（Building Model Playgrounds） | Bridges in Mathematics 四年级 第8单元 模块4 · The Math Learning Center | [PNG](<海报/g4-u8m4-搭建操场模型.png>) · [PDF](<海报/g4-u8m4-搭建操场模型.pdf>) |
 | 用钱和钟面加减分数 | 五年级 | 第2单元 模块1 | 分数加减（Adding & Subtracting Fractions） | Bridges in Mathematics 五年级 第2单元 模块1 · The Math Learning Center | [PNG](<海报/g5-u2m1-分数加减.png>) · [PDF](<海报/g5-u2m1-分数加减.pdf>) |
