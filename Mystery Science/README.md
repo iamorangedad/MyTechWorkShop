@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 32 个单元、137 个谜题。谜题数不超过 250，所以每个谜题一张海报，共 137 张。已完成 22 张（PNG + PDF）。每张海报用 01/02/03 三步画出谜题的问题和动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
+全套 32 个单元、137 个谜题。谜题数不超过 250，所以每个谜题一张海报，共 137 张。已完成 43 张（PNG + PDF）。每张海报用 01/02/03 三步画出谜题的问题和动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 单元 | 谜题 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -33,3 +33,24 @@
 | 怎样撞倒最多的球瓶？ | 幼儿园 | 推和拉（Pushes & Pulls） | 谜题4 怎样撞倒最多的保龄球瓶？ | Mystery Science Kindergarten Pushes & Pulls 谜题4 · Mystery Science | [PNG](<海报/g0-pp-m4-力的速度和方向.png>) · [PDF](<海报/g0-pp-m4-力的速度和方向.pdf>) |
 | 怎样挡住山上的落石？ | 幼儿园 | 推和拉（Pushes & Pulls） | 谜题5 怎样保护山区小镇不被落石砸到？ | Mystery Science Kindergarten Pushes & Pulls 谜题5 · Mystery Science | [PNG](<海报/g0-pp-m5-运动方向与工程.png>) · [PDF](<海报/g0-pp-m5-运动方向与工程.pdf>) |
 | 怎样发明一个陷阱？ | 幼儿园 | 推和拉（Pushes & Pulls） | 谜题6 怎样发明一个陷阱？ | Mystery Science Kindergarten Pushes & Pulls 谜题6 · Mystery Science | [PNG](<海报/g0-pp-m6-力与工程.png>) · [PDF](<海报/g0-pp-m6-力与工程.pdf>) |
+| 怎样帮动物宝宝找父母？ | 一年级 | 动物的性状与生存（Animal Traits & Survival） | 谜题1 怎样帮走失的动物宝宝找到父母？ | Mystery Science 1st Grade Animal Traits & Survival 谜题1 · Mystery Science | [PNG](<海报/g1-at-m1-亲代与子代的性状.png>) · [PDF](<海报/g1-at-m1-亲代与子代的性状.pdf>) |
+| 能预测小狗的样子吗？ | 一年级 | 动物的性状与生存（Animal Traits & Survival） | 谜题2 你能预测动物宝宝长什么样吗？ | Mystery Science 1st Grade Animal Traits & Survival 谜题2 · Mystery Science | [PNG](<海报/g1-at-m2-子代性状的差异.png>) · [PDF](<海报/g1-at-m2-子代性状的差异.pdf>) |
+| 鸟宝宝为什么这么吵？ | 一年级 | 动物的性状与生存（Animal Traits & Survival） | 谜题3 鸟宝宝为什么这么吵？ | Mystery Science 1st Grade Animal Traits & Survival 谜题3 · Mystery Science | [PNG](<海报/g1-at-m3-亲代与子代的行为.png>) · [PDF](<海报/g1-at-m3-亲代与子代的行为.pdf>) |
+| 鸟为什么有喙？ | 一年级 | 动物的性状与生存（Animal Traits & Survival） | 谜题4 鸟为什么有喙？ | Mystery Science 1st Grade Animal Traits & Survival 谜题4 · Mystery Science | [PNG](<海报/g1-at-m4-动物的结构与生存.png>) · [PDF](<海报/g1-at-m4-动物的结构与生存.pdf>) |
+| 北极熊为什么是白的？ | 一年级 | 动物的性状与生存（Animal Traits & Survival） | 谜题5 北极熊为什么是白色的？ | Mystery Science 1st Grade Animal Traits & Survival 谜题5 · Mystery Science | [PNG](<海报/g1-at-m5-伪装与生存.png>) · [PDF](<海报/g1-at-m5-伪装与生存.pdf>) |
+| 小植物长大像什么？ | 一年级 | 植物的性状与生存（Plant Traits & Survival） | 谜题1 小植物长大以后会是什么样子？ | Mystery Science 1st Grade Plant Traits & Survival 谜题1 · Mystery Science | [PNG](<海报/g1-pt-m1-植物的性状与后代.png>) · [PDF](<海报/g1-pt-m1-植物的性状与后代.pdf>) |
+| 大风为什么吹不倒树？ | 一年级 | 植物的性状与生存（Plant Traits & Survival） | 谜题2 大风为什么吹不倒树？ | Mystery Science 1st Grade Plant Traits & Survival 谜题2 · Mystery Science | [PNG](<海报/g1-pt-m2-植物生存与工程.png>) · [PDF](<海报/g1-pt-m2-植物生存与工程.pdf>) |
+| 向日葵偷偷在做什么？ | 一年级 | 植物的性状与生存（Plant Traits & Survival） | 谜题3 你不看的时候，向日葵在做什么？ | Mystery Science 1st Grade Plant Traits & Survival 谜题3 · Mystery Science | [PNG](<海报/g1-pt-m3-植物的运动与生存.png>) · [PDF](<海报/g1-pt-m3-植物的运动与生存.pdf>) |
+| 雕像的影子会动吗？ | 一年级 | 白天的规律（Day Patterns） | 谜题1 雕像的影子会移动吗？ | Mystery Science 1st Grade Day Patterns 谜题1 · Mystery Science | [PNG](<海报/g1-dp-m1-太阳-影子与每日规律.png>) · [PDF](<海报/g1-dp-m1-太阳-影子与每日规律.pdf>) |
+| 影子偷偷在做什么？ | 一年级 | 白天的规律（Day Patterns） | 谜题2 你不看的时候，你的影子在做什么？ | Mystery Science 1st Grade Day Patterns 谜题2 · Mystery Science | [PNG](<海报/g1-dp-m2-太阳-影子与每日规律.png>) · [PDF](<海报/g1-dp-m2-太阳-影子与每日规律.pdf>) |
+| 迷路时太阳怎样帮你？ | 一年级 | 白天的规律（Day Patterns） | 谜题3 迷路的时候，太阳怎样帮你？ | Mystery Science 1st Grade Day Patterns 谜题3 · Mystery Science | [PNG](<海报/g1-dp-m3-太阳与每日规律.png>) · [PDF](<海报/g1-dp-m3-太阳与每日规律.pdf>) |
+| 夏天为何要早早睡觉？ | 一年级 | 白天的规律（Day Patterns） | 谜题4 为什么夏天天还亮着就得上床睡觉？ | Mystery Science 1st Grade Day Patterns 谜题4 · Mystery Science | [PNG](<海报/g1-dp-m4-白昼与季节规律.png>) · [PDF](<海报/g1-dp-m4-白昼与季节规律.pdf>) |
+| 什么时候能看到满月？ | 一年级 | 夜晚的规律（Night Patterns） | 谜题1 什么时候能看到满月？ | Mystery Science 1st Grade Night Patterns 谜题1 · Mystery Science | [PNG](<海报/g1-np-m1-月相与规律.png>) · [PDF](<海报/g1-np-m1-月相与规律.pdf>) |
+| 星星为什么夜里出来？ | 一年级 | 夜晚的规律（Night Patterns） | 谜题2 星星为什么在夜里出来？ | Mystery Science 1st Grade Night Patterns 谜题2 · Mystery Science | [PNG](<海报/g1-np-m2-星星与每日规律.png>) · [PDF](<海报/g1-np-m2-星星与每日规律.pdf>) |
+| 迷路时星星怎样帮你？ | 一年级 | 夜晚的规律（Night Patterns） | 谜题3 迷路的时候，星星怎样帮你？ | Mystery Science 1st Grade Night Patterns 谜题3 · Mystery Science | [PNG](<海报/g1-np-m3-星星与季节规律.png>) · [PDF](<海报/g1-np-m3-星星与季节规律.pdf>) |
+| 动画音效怎么做？ | 一年级 | 光、声音与通信（Light, Sound, & Communication） | 谜题1 动画片里的搞笑声音是怎么做出来的？ | Mystery Science 1st Grade Light, Sound, & Communication 谜题1 · Mystery Science | [PNG](<海报/g1-ls-m1-声音与振动.png>) · [PDF](<海报/g1-ls-m1-声音与振动.pdf>) |
+| 声音从哪里来？ | 一年级 | 光、声音与通信（Light, Sound, & Communication） | 谜题2 声音是从哪里来的？ | Mystery Science 1st Grade Light, Sound, & Communication 谜题2 · Mystery Science | [PNG](<海报/g1-ls-m2-声音与振动.png>) · [PDF](<海报/g1-ls-m2-声音与振动.pdf>) |
+| 如果没有窗户会怎样？ | 一年级 | 光、声音与通信（Light, Sound, & Communication） | 谜题3 如果没有窗户会怎样？ | Mystery Science 1st Grade Light, Sound, & Communication 谜题3 · Mystery Science | [PNG](<海报/g1-ls-m3-透明与不透明材料.png>) · [PDF](<海报/g1-ls-m3-透明与不透明材料.pdf>) |
+| 黑暗中能看见吗？ | 一年级 | 光、声音与通信（Light, Sound, & Communication） | 谜题4 在黑暗中你能看见东西吗？ | Mystery Science 1st Grade Light, Sound, & Communication 谜题4 · Mystery Science | [PNG](<海报/g1-ls-m4-光与照明.png>) · [PDF](<海报/g1-ls-m4-光与照明.pdf>) |
+| 怎样给远方发秘密信息？ | 一年级 | 光、声音与通信（Light, Sound, & Communication） | 谜题5 怎样给远方的人发送秘密信息？ | Mystery Science 1st Grade Light, Sound, & Communication 谜题5 · Mystery Science | [PNG](<海报/g1-ls-m5-光-通信与工程.png>) · [PDF](<海报/g1-ls-m5-光-通信与工程.pdf>) |
+| 船在雾中怎样找路？ | 一年级 | 光、声音与通信（Light, Sound, & Communication） | 谜题6 船在大雾里怎样找到方向？ | Mystery Science 1st Grade Light, Sound, & Communication 谜题6 · Mystery Science | [PNG](<海报/g1-ls-m6-光-声音与通信.png>) · [PDF](<海报/g1-ls-m6-光-声音与通信.pdf>) |
