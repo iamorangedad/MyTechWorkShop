@@ -7,7 +7,7 @@
 
 ## 海报
 
-每个 Topic 一张，全套 214 张。已完成 106 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个 Topic 一张，全套 214 张。已完成 141 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 模块 · 主题 | 主题名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -117,3 +117,38 @@
 | 组合图形与分数概念 | 二年级 | 第8模块 B主题 | 组合图形与分数概念（Composite Shapes and Fraction Concepts） | Eureka Math 二年级 第8模块 B主题 · Great Minds | [PNG](<海报/g2-m8b-组合图形与分数概念.png>) · [PDF](<海报/g2-m8b-组合图形与分数概念.pdf>) |
 | 圆和长方形的等分 | 二年级 | 第8模块 C主题 | 圆和长方形的等分（Halves, Thirds, and Fourths of Circles and Rectangles） | Eureka Math 二年级 第8模块 C主题 · Great Minds | [PNG](<海报/g2-m8c-圆和长方形的等分.png>) · [PDF](<海报/g2-m8c-圆和长方形的等分.pdf>) |
 | 认识时间 | 二年级 | 第8模块 D主题 | 用分数认识时间（Application of Fractions to Tell Time） | Eureka Math 二年级 第8模块 D主题 · Great Minds | [PNG](<海报/g2-m8d-用分数认识时间.png>) · [PDF](<海报/g2-m8d-用分数认识时间.pdf>) |
+| 乘法与因数 | 三年级 | 第1模块 A主题 | 乘法与因数的意义（Multiplication and the Meaning of the Factors） | Eureka Math 三年级 第1模块 A主题 · Great Minds | [PNG](<海报/g3-m1a-乘法与因数的意义.png>) · [PDF](<海报/g3-m1a-乘法与因数的意义.pdf>) |
+| 除法是求未知因数 | 三年级 | 第1模块 B主题 | 除法是求未知因数（Division as an Unknown Factor Problem） | Eureka Math 三年级 第1模块 B主题 · Great Minds | [PNG](<海报/g3-m1b-除法是求未知因数.png>) · [PDF](<海报/g3-m1b-除法是求未知因数.pdf>) |
+| 2 和 3 的乘法 | 三年级 | 第1模块 C主题 | 2 和 3 的乘法（Multiplication Using Units of 2 and 3） | Eureka Math 三年级 第1模块 C主题 · Great Minds | [PNG](<海报/g3-m1c-2和3的乘法.png>) · [PDF](<海报/g3-m1c-2和3的乘法.pdf>) |
+| 2 和 3 的除法 | 三年级 | 第1模块 D主题 | 2 和 3 的除法（Division Using Units of 2 and 3） | Eureka Math 三年级 第1模块 D主题 · Great Minds | [PNG](<海报/g3-m1d-2和3的除法.png>) · [PDF](<海报/g3-m1d-2和3的除法.pdf>) |
+| 4 的乘法和除法 | 三年级 | 第1模块 E主题 | 4 的乘法和除法（Multiplication and Division Using Units of 4） | Eureka Math 三年级 第1模块 E主题 · Great Minds | [PNG](<海报/g3-m1e-4的乘法和除法.png>) · [PDF](<海报/g3-m1e-4的乘法和除法.pdf>) |
+| 分配律与解决问题 | 三年级 | 第1模块 F主题 | 分配律与解决问题（Distributive Property and Problem Solving Using Units of 2–5 and 10） | Eureka Math 三年级 第1模块 F主题 · Great Minds | [PNG](<海报/g3-m1f-分配律与解决问题.png>) · [PDF](<海报/g3-m1f-分配律与解决问题.pdf>) |
+| 时间 | 三年级 | 第2模块 A主题 | 时间（Time Measurement and Problem Solving） | Eureka Math 三年级 第2模块 A主题 · Great Minds | [PNG](<海报/g3-m2a-时间.png>) · [PDF](<海报/g3-m2a-时间.pdf>) |
+| 千克、克；升、毫升 | 三年级 | 第2模块 B主题 | 公制的重量和容量（Measuring Weight and Liquid Volume in Metric Units） | Eureka Math 三年级 第2模块 B主题 · Great Minds | [PNG](<海报/g3-m2b-公制的重量和容量.png>) · [PDF](<海报/g3-m2b-公制的重量和容量.pdf>) |
+| 近似到十和百 | 三年级 | 第2模块 C主题 | 近似到十和百（Rounding to the Nearest Ten and Hundred） | Eureka Math 三年级 第2模块 C主题 · Great Minds | [PNG](<海报/g3-m2c-近似到十和百.png>) · [PDF](<海报/g3-m2c-近似到十和百.pdf>) |
+| 测量中的加法竖式 | 三年级 | 第2模块 D主题 | 测量中的加法竖式（Two- and Three-Digit Measurement Addition Using the Standard Algorithm） | Eureka Math 三年级 第2模块 D主题 · Great Minds | [PNG](<海报/g3-m2d-测量中的加法竖式.png>) · [PDF](<海报/g3-m2d-测量中的加法竖式.pdf>) |
+| 测量中的减法竖式 | 三年级 | 第2模块 E主题 | 测量中的减法竖式（Two- and Three-Digit Measurement Subtraction Using the Standard Algorithm） | Eureka Math 三年级 第2模块 E主题 · Great Minds | [PNG](<海报/g3-m2e-测量中的减法竖式.png>) · [PDF](<海报/g3-m2e-测量中的减法竖式.pdf>) |
+| 乘除法的性质 | 三年级 | 第3模块 A主题 | 乘除法的性质（The Properties of Multiplication and Division） | Eureka Math 三年级 第3模块 A主题 · Great Minds | [PNG](<海报/g3-m3a-乘除法的性质.png>) · [PDF](<海报/g3-m3a-乘除法的性质.pdf>) |
+| 6 和 7 的乘除 | 三年级 | 第3模块 B主题 | 6 和 7 的乘除（Multiplication and Division Using Units of 6 and 7） | Eureka Math 三年级 第3模块 B主题 · Great Minds | [PNG](<海报/g3-m3b-6和7的乘除.png>) · [PDF](<海报/g3-m3b-6和7的乘除.pdf>) |
+| 8 以内的乘除 | 三年级 | 第3模块 C主题 | 8 以内的乘除（Multiplication and Division Using Units up to 8） | Eureka Math 三年级 第3模块 C主题 · Great Minds | [PNG](<海报/g3-m3c-8以内的乘除.png>) · [PDF](<海报/g3-m3c-8以内的乘除.pdf>) |
+| 9 的乘除 | 三年级 | 第3模块 D主题 | 9 的乘除（Multiplication and Division Using Units of 9） | Eureka Math 三年级 第3模块 D主题 · Great Minds | [PNG](<海报/g3-m3d-9的乘除.png>) · [PDF](<海报/g3-m3d-9的乘除.pdf>) |
+| 规律、0 和 1 | 三年级 | 第3模块 E主题 | 规律、0 和 1（Analysis of Patterns and Problem Solving Including Units of 0 and 1） | Eureka Math 三年级 第3模块 E主题 · Great Minds | [PNG](<海报/g3-m3e-规律0和1.png>) · [PDF](<海报/g3-m3e-规律0和1.pdf>) |
+| 一位数乘整十数 | 三年级 | 第3模块 F主题 | 一位数乘整十数（Multiplication of Single-Digit Factors and Multiples of 10） | Eureka Math 三年级 第3模块 F主题 · Great Minds | [PNG](<海报/g3-m3f-一位数乘整十数.png>) · [PDF](<海报/g3-m3f-一位数乘整十数.pdf>) |
+| 认识面积 | 三年级 | 第4模块 A主题 | 认识面积（Foundations for Understanding Area） | Eureka Math 三年级 第4模块 A主题 · Great Minds | [PNG](<海报/g3-m4a-认识面积.png>) · [PDF](<海报/g3-m4a-认识面积.pdf>) |
+| 面积的测量 | 三年级 | 第4模块 B主题 | 面积的测量（Concepts of Area Measurement） | Eureka Math 三年级 第4模块 B主题 · Great Minds | [PNG](<海报/g3-m4b-面积的测量.png>) · [PDF](<海报/g3-m4b-面积的测量.pdf>) |
+| 面积模型与运算律 | 三年级 | 第4模块 C主题 | 面积模型与运算律（Arithmetic Properties Using Area Models） | Eureka Math 三年级 第4模块 C主题 · Great Minds | [PNG](<海报/g3-m4c-面积模型与运算律.png>) · [PDF](<海报/g3-m4c-面积模型与运算律.pdf>) |
+| 面积的应用 | 三年级 | 第4模块 D主题 | 面积的应用（Applications of Area Using Side Lengths of Figures） | Eureka Math 三年级 第4模块 D主题 · Great Minds | [PNG](<海报/g3-m4d-面积的应用.png>) · [PDF](<海报/g3-m4d-面积的应用.pdf>) |
+| 把整体平均分 | 三年级 | 第5模块 A主题 | 把整体平均分（Partitioning a Whole into Equal Parts） | Eureka Math 三年级 第5模块 A主题 · Great Minds | [PNG](<海报/g3-m5a-把整体平均分.png>) · [PDF](<海报/g3-m5a-把整体平均分.pdf>) |
+| 单位分数和整体 | 三年级 | 第5模块 B主题 | 单位分数和整体（Unit Fractions and Their Relation to the Whole） | Eureka Math 三年级 第5模块 B主题 · Great Minds | [PNG](<海报/g3-m5b-单位分数和整体.png>) · [PDF](<海报/g3-m5b-单位分数和整体.pdf>) |
+| 比较单位分数 | 三年级 | 第5模块 C主题 | 比较单位分数（Comparing Unit Fractions and Specifying the Whole） | Eureka Math 三年级 第5模块 C主题 · Great Minds | [PNG](<海报/g3-m5c-比较单位分数.png>) · [PDF](<海报/g3-m5c-比较单位分数.pdf>) |
+| 数线上的分数 | 三年级 | 第5模块 D主题 | 数线上的分数（Fractions on the Number Line） | Eureka Math 三年级 第5模块 D主题 · Great Minds | [PNG](<海报/g3-m5d-数线上的分数.png>) · [PDF](<海报/g3-m5d-数线上的分数.pdf>) |
+| 相等的分数 | 三年级 | 第5模块 E主题 | 相等的分数（Equivalent Fractions） | Eureka Math 三年级 第5模块 E主题 · Great Minds | [PNG](<海报/g3-m5e-相等的分数.png>) · [PDF](<海报/g3-m5e-相等的分数.pdf>) |
+| 分数的比较和排序 | 三年级 | 第5模块 F主题 | 分数的比较和排序（Comparison, Order, and Size of Fractions） | Eureka Math 三年级 第5模块 F主题 · Great Minds | [PNG](<海报/g3-m5f-分数的比较和排序.png>) · [PDF](<海报/g3-m5f-分数的比较和排序.pdf>) |
+| 分类数据 | 三年级 | 第6模块 A主题 | 分类数据（Generate and Analyze Categorical Data） | Eureka Math 三年级 第6模块 A主题 · Great Minds | [PNG](<海报/g3-m6a-分类数据.png>) · [PDF](<海报/g3-m6a-分类数据.pdf>) |
+| 测量数据 | 三年级 | 第6模块 B主题 | 测量数据（Generate and Analyze Measurement Data） | Eureka Math 三年级 第6模块 B主题 · Great Minds | [PNG](<海报/g3-m6b-测量数据.png>) · [PDF](<海报/g3-m6b-测量数据.pdf>) |
+| 解决应用题 | 三年级 | 第7模块 A主题 | 解决应用题（Solving Word Problems） | Eureka Math 三年级 第7模块 A主题 · Great Minds | [PNG](<海报/g3-m7a-解决应用题.png>) · [PDF](<海报/g3-m7a-解决应用题.pdf>) |
+| 平面图形的特征 | 三年级 | 第7模块 B主题 | 平面图形的特征（Attributes of Two-Dimensional Figures） | Eureka Math 三年级 第7模块 B主题 · Great Minds | [PNG](<海报/g3-m7b-平面图形的特征.png>) · [PDF](<海报/g3-m7b-平面图形的特征.pdf>) |
+| 周长 | 三年级 | 第7模块 C主题 | 周长（Problem Solving with Perimeter） | Eureka Math 三年级 第7模块 C主题 · Great Minds | [PNG](<海报/g3-m7c-周长.png>) · [PDF](<海报/g3-m7c-周长.pdf>) |
+| 周长和面积 | 三年级 | 第7模块 D主题 | 周长和面积的线图（Recording Perimeter and Area Data on Line Plots） | Eureka Math 三年级 第7模块 D主题 · Great Minds | [PNG](<海报/g3-m7d-周长和面积的线图.png>) · [PDF](<海报/g3-m7d-周长和面积的线图.pdf>) |
+| 周长与面积的问题 | 三年级 | 第7模块 E主题 | 周长与面积的问题（Problem Solving with Perimeter and Area） | Eureka Math 三年级 第7模块 E主题 · Great Minds | [PNG](<海报/g3-m7e-周长与面积的问题.png>) · [PDF](<海报/g3-m7e-周长与面积的问题.pdf>) |
+| 学年回顾 | 三年级 | 第7模块 F主题 | 学年回顾（Year in Review） | Eureka Math 三年级 第7模块 F主题 · Great Minds | [PNG](<海报/g3-m7f-学年回顾.png>) · [PDF](<海报/g3-m7f-学年回顾.pdf>) |
