@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 307 个部分，超过 250，所以每个探究一张海报，共 77 张。已完成 50 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这个探究里的关键动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，需要注意安全的地方写在小结框里。
+全套 307 个部分，超过 250，所以每个探究一张海报，共 77 张。已完成 63 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这个探究里的关键动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 模块 | 探究 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -61,3 +61,16 @@
 | 植物怎样继续生长？ | 三年级 | 生命的结构（Structures of Life） | 探究2 继续生长 | FOSS Structures of Life 探究2 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g3-sx-i2-继续生长.png>) · [PDF](<海报/g3-sx-i2-继续生长.pdf>) |
 | 小龙虾怎样生活？ | 三年级 | 生命的结构（Structures of Life） | 探究3 认识小龙虾 | FOSS Structures of Life 探究3 第1–5部分 · Lawrence Hall of Science | [PNG](<海报/g3-sx-i3-认识小龙虾.png>) · [PDF](<海报/g3-sx-i3-认识小龙虾.pdf>) |
 | 人体由什么支撑？ | 三年级 | 生命的结构（Structures of Life） | 探究4 人体 | FOSS Structures of Life 探究4 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g3-sx-i4-人体.png>) · [PDF](<海报/g3-sx-i4-人体.pdf>) |
+| 怎样让灯泡亮起来？ | 四年级 | 能量（Energy） | 探究1 能量与电路 | FOSS Energy 探究1 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g4-en-i1-能量与电路.png>) · [PDF](<海报/g4-en-i1-能量与电路.pdf>) |
+| 磁铁有多大的力？ | 四年级 | 能量（Energy） | 探究2 磁的力量 | FOSS Energy 探究2 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g4-en-i2-磁的力量.png>) · [PDF](<海报/g4-en-i2-磁的力量.pdf>) |
+| 怎样做电磁铁？ | 四年级 | 能量（Energy） | 探究3 电磁铁 | FOSS Energy 探究3 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g4-en-i3-电磁铁.png>) · [PDF](<海报/g4-en-i3-电磁铁.pdf>) |
+| 能量怎样转移？ | 四年级 | 能量（Energy） | 探究4 能量转移 | FOSS Energy 探究4 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g4-en-i4-能量转移.png>) · [PDF](<海报/g4-en-i4-能量转移.pdf>) |
+| 波和光怎样传递能量？ | 四年级 | 能量（Energy） | 探究5 波 | FOSS Energy 探究5 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g4-en-i5-波.png>) · [PDF](<海报/g4-en-i5-波.pdf>) |
+| 土壤是怎样形成的？ | 四年级 | 土壤、岩石与地形（Soils, Rocks, and Landforms） | 探究1 土壤与风化 | FOSS Soils, Rocks, and Landforms 探究1 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g4-sr-i1-土壤与风化.png>) · [PDF](<海报/g4-sr-i1-土壤与风化.pdf>) |
+| 地形是怎样改变的？ | 四年级 | 土壤、岩石与地形（Soils, Rocks, and Landforms） | 探究2 地形 | FOSS Soils, Rocks, and Landforms 探究2 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g4-sr-i2-地形.png>) · [PDF](<海报/g4-sr-i2-地形.pdf>) |
+| 怎样绘制地表？ | 四年级 | 土壤、岩石与地形（Soils, Rocks, and Landforms） | 探究3 绘制地表 | FOSS Soils, Rocks, and Landforms 探究3 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g4-sr-i3-绘制地表.png>) · [PDF](<海报/g4-sr-i3-绘制地表.pdf>) |
+| 我们怎样利用地球材料？ | 四年级 | 土壤、岩石与地形（Soils, Rocks, and Landforms） | 探究4 自然资源 | FOSS Soils, Rocks, and Landforms 探究4 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g4-sr-i4-自然资源.png>) · [PDF](<海报/g4-sr-i4-自然资源.pdf>) |
+| 动物喜欢什么样的环境？ | 四年级 | 环境（Environments） | 探究1 环境因素 | FOSS Environments 探究1 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g4-ev-i1-环境因素.png>) · [PDF](<海报/g4-ev-i1-环境因素.pdf>) |
+| 生态系统里有什么？ | 四年级 | 环境（Environments） | 探究2 生态系统 | FOSS Environments 探究2 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g4-ev-i2-生态系统.png>) · [PDF](<海报/g4-ev-i2-生态系统.pdf>) |
+| 卤虫耐得住多咸的水？ | 四年级 | 环境（Environments） | 探究3 卤虫孵化 | FOSS Environments 探究3 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g4-ev-i3-卤虫孵化.png>) · [PDF](<海报/g4-ev-i3-卤虫孵化.pdf>) |
+| 植物能忍受怎样的环境？ | 四年级 | 环境（Environments） | 探究4 耐受范围 | FOSS Environments 探究4 （各部分标题待核） · Lawrence Hall of Science | [PNG](<海报/g4-ev-i4-耐受范围.png>) · [PDF](<海报/g4-ev-i4-耐受范围.pdf>) |
