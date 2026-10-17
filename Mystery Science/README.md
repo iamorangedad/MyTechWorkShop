@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 32 个单元、137 个谜题。谜题数不超过 250，所以每个谜题一张海报，共 137 张。已完成 43 张（PNG + PDF）。每张海报用 01/02/03 三步画出谜题的问题和动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
+全套 32 个单元、137 个谜题。谜题数不超过 250，所以每个谜题一张海报，共 137 张。已完成 65 张（PNG + PDF）。每张海报用 01/02/03 三步画出谜题的问题和动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 单元 | 谜题 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -54,3 +54,25 @@
 | 黑暗中能看见吗？ | 一年级 | 光、声音与通信（Light, Sound, & Communication） | 谜题4 在黑暗中你能看见东西吗？ | Mystery Science 1st Grade Light, Sound, & Communication 谜题4 · Mystery Science | [PNG](<海报/g1-ls-m4-光与照明.png>) · [PDF](<海报/g1-ls-m4-光与照明.pdf>) |
 | 怎样给远方发秘密信息？ | 一年级 | 光、声音与通信（Light, Sound, & Communication） | 谜题5 怎样给远方的人发送秘密信息？ | Mystery Science 1st Grade Light, Sound, & Communication 谜题5 · Mystery Science | [PNG](<海报/g1-ls-m5-光-通信与工程.png>) · [PDF](<海报/g1-ls-m5-光-通信与工程.pdf>) |
 | 船在雾中怎样找路？ | 一年级 | 光、声音与通信（Light, Sound, & Communication） | 谜题6 船在大雾里怎样找到方向？ | Mystery Science 1st Grade Light, Sound, & Communication 谜题6 · Mystery Science | [PNG](<海报/g1-ls-m6-光-声音与通信.png>) · [PDF](<海报/g1-ls-m6-光-声音与通信.pdf>) |
+| 动物有多少种？ | 二年级 | 动物多样性与栖息地（Animal Biodiversity & Habitats） | 谜题1 动物有多少种？ | Mystery Science 2nd Grade Animal Biodiversity & Habitats 谜题1 · Mystery Science | [PNG](<海报/g2-ab-m1-生物多样性与分类.png>) · [PDF](<海报/g2-ab-m1-生物多样性与分类.pdf>) |
+| 野生动物为何逛操场？ | 二年级 | 动物多样性与栖息地（Animal Biodiversity & Habitats） | 谜题2 野生动物为什么会跑到操场上来？ | Mystery Science 2nd Grade Animal Biodiversity & Habitats 谜题2 · Mystery Science | [PNG](<海报/g2-ab-m2-栖息地的多样性.png>) · [PDF](<海报/g2-ab-m2-栖息地的多样性.pdf>) |
+| 青蛙为什么呱呱叫？ | 二年级 | 动物多样性与栖息地（Animal Biodiversity & Habitats） | 谜题3 青蛙为什么会“呱呱”叫？ | Mystery Science 2nd Grade Animal Biodiversity & Habitats 谜题3 · Mystery Science | [PNG](<海报/g2-ab-m3-生物多样性-栖息地与物种.png>) · [PDF](<海报/g2-ab-m3-生物多样性-栖息地与物种.pdf>) |
+| 怎样吸引更多鸟来吃食？ | 二年级 | 动物多样性与栖息地（Animal Biodiversity & Habitats） | 谜题4 怎样让更多的鸟来喂鸟器？ | Mystery Science 2nd Grade Animal Biodiversity & Habitats 谜题4 · Mystery Science | [PNG](<海报/g2-ab-m4-生物多样性与工程.png>) · [PDF](<海报/g2-ab-m4-生物多样性与工程.pdf>) |
+| 树怎样跨越半个地球？ | 二年级 | 植物的生长与相互作用（Plant Growth & Interactions） | 谜题1 一棵树是怎样跨越半个地球的？ | Mystery Science 2nd Grade Plant Growth & Interactions 谜题1 · Mystery Science | [PNG](<海报/g2-pg-m1-种子的传播.png>) · [PDF](<海报/g2-pg-m1-种子的传播.pdf>) |
+| 种子为什么形状各异？ | 二年级 | 植物的生长与相互作用（Plant Growth & Interactions） | 谜题2 种子为什么有那么多不同的形状？ | Mystery Science 2nd Grade Plant Growth & Interactions 谜题2 · Mystery Science | [PNG](<海报/g2-pg-m2-动物传播种子.png>) · [PDF](<海报/g2-pg-m2-动物传播种子.pdf>) |
+| 花和蜜蜂为何总在一起？ | 二年级 | 植物的生长与相互作用（Plant Growth & Interactions） | 谜题3 为什么花和蜜蜂总是在一起？ | Mystery Science 2nd Grade Plant Growth & Interactions 谜题3 · Mystery Science | [PNG](<海报/g2-pg-m3-传粉.png>) · [PDF](<海报/g2-pg-m3-传粉.pdf>) |
+| 没有光植物能活吗？ | 二年级 | 植物的生长与相互作用（Plant Growth & Interactions） | 谜题4 没有光，植物能活下去吗？ | Mystery Science 2nd Grade Plant Growth & Interactions 谜题4 · Mystery Science | [PNG](<海报/g2-pg-m4-水-阳光与植物生长.png>) · [PDF](<海报/g2-pg-m4-水-阳光与植物生长.pdf>) |
+| 该给植物浇多少水？ | 二年级 | 植物的生长与相互作用（Plant Growth & Interactions） | 谜题5 应该给植物浇多少水？ | Mystery Science 2nd Grade Plant Growth & Interactions 谜题5 · Mystery Science | [PNG](<海报/g2-pg-m5-植物的需要与栖息地.png>) · [PDF](<海报/g2-pg-m5-植物的需要与栖息地.pdf>) |
+| 宝藏藏在哪里最好？ | 二年级 | 侵蚀与地球表面（Erosion & Earth’s Surface） | 谜题1 宝藏藏在哪里最好？ | Mystery Science 2nd Grade Erosion & Earth’s Surface 谜题1 · Mystery Science | [PNG](<海报/g2-er-m1-地形与水体地图.png>) · [PDF](<海报/g2-er-m1-地形与水体地图.pdf>) |
+| 顺河漂流会到哪里？ | 二年级 | 侵蚀与地球表面（Erosion & Earth’s Surface） | 谜题2 如果顺着河漂下去，你最后会到哪里？ | Mystery Science 2nd Grade Erosion & Earth’s Surface 谜题2 · Mystery Science | [PNG](<海报/g2-er-m2-地图-山与河.png>) · [PDF](<海报/g2-er-m2-地图-山与河.pdf>) |
+| 海滩上为什么有沙？ | 二年级 | 侵蚀与地球表面（Erosion & Earth’s Surface） | 谜题3 海滩上为什么会有沙子？ | Mystery Science 2nd Grade Erosion & Earth’s Surface 谜题3 · Mystery Science | [PNG](<海报/g2-er-m3-岩石-沙与侵蚀.png>) · [PDF](<海报/g2-er-m3-岩石-沙与侵蚀.pdf>) |
+| 山洪在哪里发生？ | 二年级 | 侵蚀与地球表面（Erosion & Earth’s Surface） | 谜题4 山洪暴发会出现在哪里？ | Mystery Science 2nd Grade Erosion & Earth’s Surface 谜题4 · Mystery Science | [PNG](<海报/g2-er-m4-地图与恶劣天气.png>) · [PDF](<海报/g2-er-m4-地图与恶劣天气.pdf>) |
+| 什么能造出峡谷？ | 二年级 | 侵蚀与地球表面（Erosion & Earth’s Surface） | 谜题5 什么力量强大到能造出峡谷？ | Mystery Science 2nd Grade Erosion & Earth’s Surface 谜题5 · Mystery Science | [PNG](<海报/g2-er-m5-侵蚀-地表与地形.png>) · [PDF](<海报/g2-er-m5-侵蚀-地表与地形.pdf>) |
+| 怎样阻止山体滑坡？ | 二年级 | 侵蚀与地球表面（Erosion & Earth’s Surface） | 谜题6 怎样阻止山体滑坡？ | Mystery Science 2nd Grade Erosion & Earth’s Surface 谜题6 · Mystery Science | [PNG](<海报/g2-er-m6-侵蚀与工程.png>) · [PDF](<海报/g2-er-m6-侵蚀与工程.pdf>) |
+| 我们为什么穿衣服？ | 二年级 | 材料的性质（Material Properties） | 谜题1 我们为什么要穿衣服？ | Mystery Science 2nd Grade Material Properties 谜题1 · Mystery Science | [PNG](<海报/g2-mp-m1-材料性质与工程.png>) · [PDF](<海报/g2-mp-m1-材料性质与工程.pdf>) |
+| 热路面上能煎蛋吗？ | 二年级 | 材料的性质（Material Properties） | 谜题2 真的能在滚烫的人行道上煎鸡蛋吗？ | Mystery Science 2nd Grade Material Properties 谜题2 · Mystery Science | [PNG](<海报/g2-mp-m2-隔热体与导热体.png>) · [PDF](<海报/g2-mp-m2-隔热体与导热体.pdf>) |
+| 能用纸盖房子吗？ | 二年级 | 材料的性质（Material Properties） | 谜题3 能用纸盖一座房子吗？ | Mystery Science 2nd Grade Material Properties 谜题3 · Mystery Science | [PNG](<海报/g2-mp-m3-材料组件与工程.png>) · [PDF](<海报/g2-mp-m3-材料组件与工程.pdf>) |
+| 怎样用泥土盖城市？ | 二年级 | 材料的性质（Material Properties） | 谜题4 怎样用泥土盖起一座城市？ | Mystery Science 2nd Grade Material Properties 谜题4 · Mystery Science | [PNG](<海报/g2-mp-m4-土壤的性质.png>) · [PDF](<海报/g2-mp-m4-土壤的性质.pdf>) |
+| 动物到哪里找水？ | 二年级 | 物质的状态（States Of Matter） | 谜题1 动物到哪里找到需要的水？ | Mystery Science 2nd Grade States Of Matter 谜题1 · Mystery Science | [PNG](<海报/g2-sm-m1-液态水与固态冰.png>) · [PDF](<海报/g2-sm-m1-液态水与固态冰.pdf>) |
+| 冰块和蜡笔哪里像？ | 二年级 | 物质的状态（States Of Matter） | 谜题2 冰块和蜡笔有什么相像的地方？ | Mystery Science 2nd Grade States Of Matter 谜题2 · Mystery Science | [PNG](<海报/g2-sm-m2-可逆与不可逆的变化.png>) · [PDF](<海报/g2-sm-m2-可逆与不可逆的变化.pdf>) |
+| 玩具为何多用塑料？ | 二年级 | 物质的状态（States Of Matter） | 谜题3 为什么那么多玩具是用塑料做的？ | Mystery Science 2nd Grade States Of Matter 谜题3 · Mystery Science | [PNG](<海报/g2-sm-m3-加热-冷却与物态.png>) · [PDF](<海报/g2-sm-m3-加热-冷却与物态.pdf>) |
