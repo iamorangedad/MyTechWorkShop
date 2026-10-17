@@ -1,28 +1,33 @@
-# 点亮工坊
+# MyTechWorkShop 青少年科技工坊
 
-给 6–16 岁孩子的科技兴趣工坊。孩子先让一盏灯亮起来，再弄懂磁和电怎样互相转化，然后做出能带回家的闹钟和小车。
+青少年 STEM 教育研究与科学探究活动海报集
 
-每节课让一个现象发生，学期结束带走一件能向家人演示的作品。完整的课程、选址、装修和经营方案在 [设计稿](设计稿.md)。
+## 海报
 
-## 四条课程线
+### 全球青少年 STEM 教育研究
 
-| 班 | 年龄 | 带回家里的作品 |
-| --- | --- | --- |
-| 点亮班 | 6–8 岁 | 纸盒小夜灯、电磁起重机 |
-| 磁电班 | 9–11 岁 | 手摇小灯或门磁报警器 |
-| 闹钟班 | 12–14 岁 | 会响的台式闹钟 |
-| 小车班 | 13–16 岁 | 沿黑线走或会避障的小车 |
+[![全球青少年 STEM 教育研究](posters/research/research_poster.png)](posters/research/research_poster.pdf)
 
-## 课程海报
+[下载 PDF](posters/research/research_poster.pdf)
 
-![点亮工坊课程海报](点亮工坊课程海报.jpg)
+---
 
-## 店内装修
+### 一年级科学探究
 
-剖视用来看分区：临街是点亮橱窗和跑道，里面是点亮班、磁电班、等候区和制作台。
+#### 哪个是生物？
 
-![点亮工坊装修剖视](点亮工坊装修剖视.jpg)
+[![哪个是生物？](posters/science-inquiry/grade1/g1-c1-guided-living-nonliving.png)](posters/science-inquiry/grade1/g1-c1-guided-living-nonliving.pdf)
 
-进门效果用来看气氛：浅色墙面，暖光来自真实的灯泡。
+[下载 PDF](posters/science-inquiry/grade1/g1-c1-guided-living-nonliving.pdf)
 
-![点亮工坊进门效果](点亮工坊进门效果.jpg)
+#### 虫卵会变吗？
+
+[![虫卵会变吗？](posters/science-inquiry/grade1/g1-c1-inquiry-brine-shrimp.png)](posters/science-inquiry/grade1/g1-c1-inquiry-brine-shrimp.pdf)
+
+[下载 PDF](posters/science-inquiry/grade1/g1-c1-inquiry-brine-shrimp.pdf)
+
+#### 动物住哪儿？
+
+[![动物住哪儿？](posters/science-inquiry/grade1/g1-c2-guided-animal-habitats.png)](posters/science-inquiry/grade1/g1-c2-guided-animal-habitats.pdf)
+
+[下载 PDF](posters/science-inquiry/grade1/g1-c2-guided-animal-habitats.pdf)
