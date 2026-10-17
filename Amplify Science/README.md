@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 21 个单元、89 章、466 课。章数不超过 250，所以每章一张海报，共 89 张。已完成 15 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这一章的锚定问题和关键课（标注课号），底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
+全套 21 个单元、89 章、466 课。章数不超过 250，所以每章一张海报，共 89 张。已完成 28 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这一章的锚定问题和关键课（标注课号），底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 单元 | 章 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -26,3 +26,16 @@
 | 为何下午更暖和？ | 幼儿园 | 阳光与天气（Sunlight and Weather） | 第3章 为什么操场下午更暖和？ | Amplify Science Grade K Sunlight and Weather 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g0-saw-c3-上午和下午.png>) · [PDF](<海报/g0-saw-c3-上午和下午.pdf>) |
 | 为何这块操场更热？ | 幼儿园 | 阳光与天气（Sunlight and Weather） | 第4章 为什么伍德兰小学的操场课间总是更热？ | Amplify Science Grade K Sunlight and Weather 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g0-saw-c4-地面颜色.png>) · [PDF](<海报/g0-saw-c4-地面颜色.pdf>) |
 | 为何只有这里积水？ | 幼儿园 | 阳光与天气（Sunlight and Weather） | 第5章 为什么只有伍德兰小学的操场会积水？ | Amplify Science Grade K Sunlight and Weather 第5章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g0-saw-c5-积水与天气.png>) · [PDF](<海报/g0-saw-c5-积水与天气.pdf>) |
+| 海龟怎样生存？ | 一年级 | 动植物的防御（Animal and Plant Defenses） | 第1章 海龟斯普鲁斯怎样做到生存需要做的事情？ | Amplify Science Grade 1 Animal and Plant Defenses 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-apd-c1-生存需要.png>) · [PDF](<海报/g1-apd-c1-生存需要.pdf>) |
+| 有鲨鱼怎么办？ | 一年级 | 动植物的防御（Animal and Plant Defenses） | 第2章 在有鲨鱼的地方，海龟斯普鲁斯怎样生存？ | Amplify Science Grade 1 Animal and Plant Defenses 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-apd-c2-身体防御.png>) · [PDF](<海报/g1-apd-c2-身体防御.pdf>) |
+| 小海龟怎样生存？ | 一年级 | 动植物的防御（Animal and Plant Defenses） | 第3章 在有鲨鱼的地方，斯普鲁斯的后代怎样生存？ | Amplify Science Grade 1 Animal and Plant Defenses 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-apd-c3-后代的生存.png>) · [PDF](<海报/g1-apd-c3-后代的生存.pdf>) |
+| 怎样向游客解释？ | 一年级 | 动植物的防御（Animal and Plant Defenses） | 第4章 水族馆的科学家怎样向游客解释动物的防御？ | Amplify Science Grade 1 Animal and Plant Defenses 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-apd-c4-讲给游客听.png>) · [PDF](<海报/g1-apd-c4-讲给游客听.pdf>) |
+| 怎样让地方变亮变暗？ | 一年级 | 光与声（Light and Sound） | 第1章 怎样让一块地方变亮或变暗？ | Amplify Science Grade 1 Light and Sound 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-las-c1-光源.png>) · [PDF](<海报/g1-las-c1-光源.pdf>) |
+| 怎样在亮处做暗区？ | 一年级 | 光与声（Light and Sound） | 第2章 怎样在明亮的木偶戏场景里做出一块暗的地方？ | Amplify Science Grade 1 Light and Sound 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-las-c2-影子.png>) · [PDF](<海报/g1-las-c2-影子.pdf>) |
+| 怎样做出明暗三层？ | 一年级 | 光与声（Light and Sound） | 第3章 怎样在场景里做出亮、半亮和暗三种区域？ | Amplify Science Grade 1 Light and Sound 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-las-c3-透光的材料.png>) · [PDF](<海报/g1-las-c3-透光的材料.pdf>) |
+| 怎样给木偶戏配音？ | 一年级 | 光与声（Light and Sound） | 第4章 怎样设计一个声源，给木偶戏配上声音？ | Amplify Science Grade 1 Light and Sound 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-las-c4-声音.png>) · [PDF](<海报/g1-las-c4-声音.pdf>) |
+| 天空为何不一样？ | 一年级 | 自转的地球（Spinning Earth） | 第1章 为什么赛和奶奶看到的天空不一样？ | Amplify Science Grade 1 Spinning Earth 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-se-c1-白天和夜晚.png>) · [PDF](<海报/g1-se-c1-白天和夜晚.pdf>) |
+| 为何这边是白天？ | 一年级 | 自转的地球（Spinning Earth） | 第2章 为什么赛这边是白天，奶奶那边却是夜晚？ | Amplify Science Grade 1 Spinning Earth 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-se-c2-地球自转.png>) · [PDF](<海报/g1-se-c2-地球自转.pdf>) |
+| 白天为何变成黑夜？ | 一年级 | 自转的地球（Spinning Earth） | 第3章 为什么赛打电话的时候，白天变成了夜晚？ | Amplify Science Grade 1 Spinning Earth 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-se-c3-天空在变.png>) · [PDF](<海报/g1-se-c3-天空在变.pdf>) |
+| 明天天空会怎样？ | 一年级 | 自转的地球（Spinning Earth） | 第4章 赛明天给奶奶打电话时，会在天空中看到什么？ | Amplify Science Grade 1 Spinning Earth 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-se-c4-预测天空.png>) · [PDF](<海报/g1-se-c4-预测天空.pdf>) |
+| 冬天为何天黑得早？ | 一年级 | 自转的地球（Spinning Earth） | 第5章 为什么冬天赛同一时间打电话时，天已经黑了？ | Amplify Science Grade 1 Spinning Earth 第5章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-se-c5-季节与昼长.png>) · [PDF](<海报/g1-se-c5-季节与昼长.pdf>) |
