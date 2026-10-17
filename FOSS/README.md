@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 307 个部分，超过 250，所以每个探究一张海报，共 77 张。已完成 12 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这个探究里的关键动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，需要注意安全的地方写在小结框里。
+全套 307 个部分，超过 250，所以每个探究一张海报，共 77 张。已完成 24 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这个探究里的关键动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 模块 | 探究 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -23,3 +23,15 @@
 | 水蜗牛和陆蜗牛 | 幼儿园 | 成对的动物（Animals Two by Two） | 探究2 水蜗牛与陆蜗牛 | FOSS Animals Two by Two 探究2 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g0-ab-i2-水蜗牛与陆蜗牛.png>) · [PDF](<海报/g0-ab-i2-水蜗牛与陆蜗牛.pdf>) |
 | 大蚯蚓和小蚯蚓 | 幼儿园 | 成对的动物（Animals Two by Two） | 探究3 大蚯蚓与小蚯蚓 | FOSS Animals Two by Two 探究3 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g0-ab-i3-大蚯蚓与小蚯蚓.png>) · [PDF](<海报/g0-ab-i3-大蚯蚓与小蚯蚓.pdf>) |
 | 球鼠妇和潮虫 | 幼儿园 | 成对的动物（Animals Two by Two） | 探究4 球鼠妇与潮虫 | FOSS Animals Two by Two 探究4 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g0-ab-i4-球鼠妇与潮虫.png>) · [PDF](<海报/g0-ab-i4-球鼠妇与潮虫.pdf>) |
+| 声音从哪里来？ | 一年级 | 声与光（Sound and Light） | 探究1 声音与振动 | FOSS Sound and Light 探究1 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g1-sl-i1-声音与振动.png>) · [PDF](<海报/g1-sl-i1-声音与振动.pdf>) |
+| 怎样改变声音？ | 一年级 | 声与光（Sound and Light） | 探究2 改变声音 | FOSS Sound and Light 探究2 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g1-sl-i2-改变声音.png>) · [PDF](<海报/g1-sl-i2-改变声音.pdf>) |
+| 影子是怎样形成的？ | 一年级 | 声与光（Sound and Light） | 探究3 光与影 | FOSS Sound and Light 探究3 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g1-sl-i3-光与影.png>) · [PDF](<海报/g1-sl-i3-光与影.pdf>) |
+| 光遇到镜子会怎样？ | 一年级 | 声与光（Sound and Light） | 探究4 光与镜子 | FOSS Sound and Light 探究4 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g1-sl-i4-光与镜子.png>) · [PDF](<海报/g1-sl-i4-光与镜子.pdf>) |
+| 空气看不见，它在哪儿？ | 一年级 | 空气与天气（Air and Weather） | 探究1 探索空气 | FOSS Air and Weather 探究1 第1–5部分 · Lawrence Hall of Science | [PNG](<海报/g1-aw-i1-探索空气.png>) · [PDF](<海报/g1-aw-i1-探索空气.pdf>) |
+| 天空里有什么在变？ | 一年级 | 空气与天气（Air and Weather） | 探究2 观察天空 | FOSS Air and Weather 探究2 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g1-aw-i2-观察天空.png>) · [PDF](<海报/g1-aw-i2-观察天空.pdf>) |
+| 风从哪里来，有多大？ | 一年级 | 空气与天气（Air and Weather） | 探究3 探索风 | FOSS Air and Weather 探究3 第1–5部分 · Lawrence Hall of Science | [PNG](<海报/g1-aw-i3-探索风.png>) · [PDF](<海报/g1-aw-i3-探索风.pdf>) |
+| 天气一年里怎样变化？ | 一年级 | 空气与天气（Air and Weather） | 探究4 寻找变化 | FOSS Air and Weather 探究4 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g1-aw-i4-寻找变化.png>) · [PDF](<海报/g1-aw-i4-寻找变化.pdf>) |
+| 草和小麦怎样生长？ | 一年级 | 植物与动物（Plants and Animals） | 探究1 草籽与谷粒 | FOSS Plants and Animals 探究1 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g1-pa-i1-草籽与谷粒.png>) · [PDF](<海报/g1-pa-i1-草籽与谷粒.pdf>) |
+| 一段茎能长成新植物吗？ | 一年级 | 植物与动物（Plants and Animals） | 探究2 茎 | FOSS Plants and Animals 探究2 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g1-pa-i2-茎.png>) · [PDF](<海报/g1-pa-i2-茎.pdf>) |
+| 动植物怎样一起生活？ | 一年级 | 植物与动物（Plants and Animals） | 探究3 生态缸 | FOSS Plants and Animals 探究3 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g1-pa-i3-生态缸.png>) · [PDF](<海报/g1-pa-i3-生态缸.pdf>) |
+| 植物和动物怎样长大？ | 一年级 | 植物与动物（Plants and Animals） | 探究4 生长与变化 | FOSS Plants and Animals 探究4 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g1-pa-i4-生长与变化.png>) · [PDF](<海报/g1-pa-i4-生长与变化.pdf>) |
