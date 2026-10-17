@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 21 个单元、89 章、466 课。章数不超过 250，所以每章一张海报，共 89 张。已完成 40 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这一章的锚定问题和关键课（标注课号），底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
+全套 21 个单元、89 章、466 课。章数不超过 250，所以每章一张海报，共 89 张。已完成 57 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这一章的锚定问题和关键课（标注课号），底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 单元 | 章 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -51,3 +51,20 @@
 | 悬崖是怎样变化的？ | 二年级 | 变化的地形（Changing Landforms） | 第2章 娱乐中心下面的悬崖是怎样变化的？ | Amplify Science Grade 2 Changing Landforms 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-cl-c2-侵蚀.png>) · [PDF](<海报/g2-cl-c2-侵蚀.pdf>) |
 | 为何没人发现？ | 二年级 | 变化的地形（Changing Landforms） | 第3章 为什么悬崖被侵蚀了，主任却没有发现？ | Amplify Science Grade 2 Changing Landforms 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-cl-c3-慢慢变化.png>) · [PDF](<海报/g2-cl-c3-慢慢变化.pdf>) |
 | 悬崖会很快被侵蚀吗？ | 二年级 | 变化的地形（Changing Landforms） | 第4章 娱乐中心的悬崖会很快被侵蚀吗？ | Amplify Science Grade 2 Changing Landforms 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-cl-c4-快速变化.png>) · [PDF](<海报/g2-cl-c4-快速变化.pdf>) |
+| 列车为何会升起？ | 三年级 | 平衡力（Balancing Forces） | 第1章 为什么列车会升起来？ | Amplify Science Grade 3 Balancing Forces 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-bf-c1-磁悬浮.png>) · [PDF](<海报/g3-bf-c1-磁悬浮.pdf>) |
+| 为何不碰也能升起？ | 三年级 | 平衡力（Balancing Forces） | 第2章 为什么没有东西碰列车，它也能升起来？ | Amplify Science Grade 3 Balancing Forces 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-bf-c2-磁力.png>) · [PDF](<海报/g3-bf-c2-磁力.pdf>) |
+| 列车为何会落下？ | 三年级 | 平衡力（Balancing Forces） | 第3章 为什么列车会落下来？ | Amplify Science Grade 3 Balancing Forces 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-bf-c3-重力.png>) · [PDF](<海报/g3-bf-c3-重力.pdf>) |
+| 为何能浮在空中？ | 三年级 | 平衡力（Balancing Forces） | 第4章 重力一直作用在列车上，为什么它还能浮着？ | Amplify Science Grade 3 Balancing Forces 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-bf-c4-平衡的力.png>) · [PDF](<海报/g3-bf-c4-平衡的力.pdf>) |
+| 为何从浮变成落？ | 三年级 | 平衡力（Balancing Forces） | 第5章 为什么列车会从浮着变成落下？ | Amplify Science Grade 3 Balancing Forces 第5章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-bf-c5-不平衡的力.png>) · [PDF](<海报/g3-bf-c5-不平衡的力.pdf>) |
+| 同种的狼为何不同？ | 三年级 | 遗传与性状（Inheritance and Traits） | 第1章 同是一个物种，为什么狼和狼不一样？ | Amplify Science Grade 3 Inheritance and Traits 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-iat-c1-性状差异.png>) · [PDF](<海报/g3-iat-c1-性状差异.pdf>) |
+| 44号狼的毛色像谁？ | 三年级 | 遗传与性状（Inheritance and Traits） | 第2章 为什么44号狼的毛色像一个狼群，却和另一个不同？ | Amplify Science Grade 3 Inheritance and Traits 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-iat-c2-遗传.png>) · [PDF](<海报/g3-iat-c2-遗传.pdf>) |
+| 为何捕猎方式不同？ | 三年级 | 遗传与性状（Inheritance and Traits） | 第3章 为什么44号狼在捕猎方式和体型上不像野牛谷狼群？ | Amplify Science Grade 3 Inheritance and Traits 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-iat-c3-环境影响.png>) · [PDF](<海报/g3-iat-c3-环境影响.pdf>) |
+| 怎样研究性状？ | 三年级 | 遗传与性状（Inheritance and Traits） | 第4章 科学家怎样研究关于性状的问题？ | Amplify Science Grade 3 Inheritance and Traits 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-iat-c4-科学研究.png>) · [PDF](<海报/g3-iat-c4-科学研究.pdf>) |
+| 黄壳蜗牛为何难活？ | 三年级 | 环境与生存（Environments and Survival） | 第1章 为什么黄色壳的蜗牛不容易活下来？ | Amplify Science Grade 3 Environments and Survival 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-eas-c1-生存需要.png>) · [PDF](<海报/g3-eas-c1-生存需要.pdf>) |
+| 条纹壳为何更易活？ | 三年级 | 环境与生存（Environments and Survival） | 第2章 为什么有条纹壳的蜗牛比黄色壳的更容易活下来？ | Amplify Science Grade 3 Environments and Survival 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-eas-c2-适应性状.png>) · [PDF](<海报/g3-eas-c2-适应性状.pdf>) |
+| 十年前为何不同？ | 三年级 | 环境与生存（Environments and Survival） | 第3章 为什么十年前黄色壳的蜗牛更容易活下来？ | Amplify Science Grade 3 Environments and Survival 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-eas-c3-环境变化.png>) · [PDF](<海报/g3-eas-c3-环境变化.pdf>) |
+| 怎样借鉴生物设计？ | 三年级 | 环境与生存（Environments and Survival） | 第4章 工程师怎样借鉴生物的性状来设计解决方案？ | Amplify Science Grade 3 Environments and Survival 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-eas-c4-仿生设计.png>) · [PDF](<海报/g3-eas-c4-仿生设计.pdf>) |
+| 哪座岛的天气最好？ | 三年级 | 天气与气候（Weather and Climate） | 第1章 哪座岛的天气最适合红毛猩猩？ | Amplify Science Grade 3 Weather and Climate 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-wac-c1-天气数据.png>) · [PDF](<海报/g3-wac-c1-天气数据.pdf>) |
+| 哪座岛一直最好？ | 三年级 | 天气与气候（Weather and Climate） | 第2章 哪座岛的天气会一直最适合红毛猩猩？ | Amplify Science Grade 3 Weather and Climate 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-wac-c2-天气规律.png>) · [PDF](<海报/g3-wac-c2-天气规律.pdf>) |
+| 多年来哪座岛最好？ | 三年级 | 天气与气候（Weather and Climate） | 第3章 从多年来看，哪座岛的天气最适合红毛猩猩？ | Amplify Science Grade 3 Weather and Climate 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-wac-c3-气候.png>) · [PDF](<海报/g3-wac-c3-气候.pdf>) |
+| 怎样防范自然灾害？ | 三年级 | 天气与气候（Weather and Climate） | 第4章 保护组织怎样防范可能损坏办公室的自然灾害？ | Amplify Science Grade 3 Weather and Climate 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-wac-c4-天气灾害.png>) · [PDF](<海报/g3-wac-c4-天气灾害.pdf>) |
