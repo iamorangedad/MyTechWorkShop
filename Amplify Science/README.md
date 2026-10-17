@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 21 个单元、89 章、466 课。章数不超过 250，所以每章一张海报，共 89 张。已完成 57 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这一章的锚定问题和关键课（标注课号），底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
+全套 21 个单元、89 章、466 课。章数不超过 250，所以每章一张海报，共 89 张。已完成 74 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这一章的锚定问题和关键课（标注课号），底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 单元 | 章 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -68,3 +68,20 @@
 | 哪座岛一直最好？ | 三年级 | 天气与气候（Weather and Climate） | 第2章 哪座岛的天气会一直最适合红毛猩猩？ | Amplify Science Grade 3 Weather and Climate 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-wac-c2-天气规律.png>) · [PDF](<海报/g3-wac-c2-天气规律.pdf>) |
 | 多年来哪座岛最好？ | 三年级 | 天气与气候（Weather and Climate） | 第3章 从多年来看，哪座岛的天气最适合红毛猩猩？ | Amplify Science Grade 3 Weather and Climate 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-wac-c3-气候.png>) · [PDF](<海报/g3-wac-c3-气候.pdf>) |
 | 怎样防范自然灾害？ | 三年级 | 天气与气候（Weather and Climate） | 第4章 保护组织怎样防范可能损坏办公室的自然灾害？ | Amplify Science Grade 3 Weather and Climate 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g3-wac-c4-天气灾害.png>) · [PDF](<海报/g3-wac-c4-天气灾害.pdf>) |
+| 停电那晚发生了什么？ | 四年级 | 能量转换（Energy Conversions） | 第1章 停电那天晚上，电力系统发生了什么？ | Amplify Science Grade 4 Energy Conversions 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-ec-c1-电路系统.png>) · [PDF](<海报/g4-ec-c1-电路系统.pdf>) |
+| 电器为何不工作？ | 四年级 | 能量转换（Energy Conversions） | 第2章 是什么让埃格斯镇的电器输出能量，或者不能输出能量？ | Amplify Science Grade 4 Energy Conversions 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-ec-c2-能量转换.png>) · [PDF](<海报/g4-ec-c2-能量转换.pdf>) |
+| 电能从哪里来？ | 四年级 | 能量转换（Energy Conversions） | 第3章 埃格斯镇电器用的电能是从哪里来的？ | Amplify Science Grade 4 Energy Conversions 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-ec-c3-能量来源.png>) · [PDF](<海报/g4-ec-c3-能量来源.pdf>) |
+| 能量怎样送到各处？ | 四年级 | 能量转换（Energy Conversions） | 第4章 能量是怎样送到埃格斯镇各处的电器的？ | Amplify Science Grade 4 Energy Conversions 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-ec-c4-电网.png>) · [PDF](<海报/g4-ec-c4-电网.pdf>) |
+| 壁虎怎样获取信息？ | 四年级 | 视觉与光（Vision and Light） | 第1章 大壁虎怎样获取周围环境的信息？ | Amplify Science Grade 4 Vision and Light 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-val-c1-感官.png>) · [PDF](<海报/g4-val-c1-感官.pdf>) |
+| 光怎样让它看见猎物？ | 四年级 | 视觉与光（Vision and Light） | 第2章 光怎样让大壁虎看见猎物？ | Amplify Science Grade 4 Vision and Light 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-val-c2-光的反射.png>) · [PDF](<海报/g4-val-c2-光的反射.pdf>) |
+| 它怎样认出猎物？ | 四年级 | 视觉与光（Vision and Light） | 第3章 大壁虎怎样知道自己看到的是猎物？ | Amplify Science Grade 4 Vision and Light 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-val-c3-眼睛与大脑.png>) · [PDF](<海报/g4-val-c3-眼睛与大脑.pdf>) |
+| 夜里光多为何难看清？ | 四年级 | 视觉与光（Vision and Light） | 第4章 为什么夜里灯光多了，大壁虎反而难看清猎物？ | Amplify Science Grade 4 Vision and Light 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-val-c4-光的敏感度.png>) · [PDF](<海报/g4-val-c4-光的敏感度.pdf>) |
+| 感官怎样帮助我们？ | 四年级 | 视觉与光（Vision and Light） | 第5章 我们的感官怎样帮助我们了解环境？ | Amplify Science Grade 4 Vision and Light 第5章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-val-c5-人的感官.png>) · [PDF](<海报/g4-val-c5-人的感官.pdf>) |
+| 化石怎样进入岩石？ | 四年级 | 地球的地貌（Earth's Features） | 第1章 化石是怎样跑到岩石露头里面去的？ | Amplify Science Grade 4 Earth's Features 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-ef-c1-沉积岩.png>) · [PDF](<海报/g4-ef-c1-沉积岩.pdf>) |
+| 过去的环境什么样？ | 四年级 | 地球的地貌（Earth's Features） | 第2章 沙漠岩石国家公园过去的环境是什么样的？ | Amplify Science Grade 4 Earth's Features 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-ef-c2-过去的环境.png>) · [PDF](<海报/g4-ef-c2-过去的环境.pdf>) |
+| 过去环境的顺序？ | 四年级 | 地球的地貌（Earth's Features） | 第3章 沙漠岩石国家公园过去的各种环境是按什么顺序出现的？ | Amplify Science Grade 4 Earth's Features 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-ef-c3-岩层顺序.png>) · [PDF](<海报/g4-ef-c3-岩层顺序.pdf>) |
+| 为何露出更多岩层？ | 四年级 | 地球的地貌（Earth's Features） | 第4章 为什么沙漠峡谷比凯勒峡谷露出的岩层更多？ | Amplify Science Grade 4 Earth's Features 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-ef-c4-侵蚀与峡谷.png>) · [PDF](<海报/g4-ef-c4-侵蚀与峡谷.pdf>) |
+| 海豚怎样隔远交流？ | 四年级 | 波、能量与信息（Waves, Energy, and Information） | 第1章 海豚妈妈怎样和远处的幼崽交流？ | Amplify Science Grade 4 Waves, Energy, and Information 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-wei-c1-声波.png>) · [PDF](<海报/g4-wei-c1-声波.pdf>) |
+| 声能怎样在水中传播？ | 四年级 | 波、能量与信息（Waves, Energy, and Information） | 第2章 声能是怎样在水中从海豚妈妈传到幼崽的？ | Amplify Science Grade 4 Waves, Energy, and Information 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-wei-c2-介质.png>) · [PDF](<海报/g4-wei-c2-介质.pdf>) |
+| 幼崽怎样认出妈妈？ | 四年级 | 波、能量与信息（Waves, Energy, and Information） | 第3章 海豚幼崽怎样知道哪个叫声是妈妈的？ | Amplify Science Grade 4 Waves, Energy, and Information 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-wei-c3-声音的规律.png>) · [PDF](<海报/g4-wei-c3-声音的规律.pdf>) |
+| 人怎样用规律通信？ | 四年级 | 波、能量与信息（Waves, Energy, and Information） | 第4章 人类怎样利用规律来传递信息？ | Amplify Science Grade 4 Waves, Energy, and Information 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-wei-c4-编码通信.png>) · [PDF](<海报/g4-wei-c4-编码通信.pdf>) |
