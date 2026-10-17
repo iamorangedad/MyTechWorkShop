@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 307 个部分，超过 250，所以每个探究一张海报，共 77 张。已完成 63 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这个探究里的关键动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，需要注意安全的地方写在小结框里。
+全套 307 个部分，超过 250，所以每个探究一张海报，共 77 张。已完成 77 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这个探究里的关键动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 模块 | 探究 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -74,3 +74,17 @@
 | 生态系统里有什么？ | 四年级 | 环境（Environments） | 探究2 生态系统 | FOSS Environments 探究2 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g4-ev-i2-生态系统.png>) · [PDF](<海报/g4-ev-i2-生态系统.pdf>) |
 | 卤虫耐得住多咸的水？ | 四年级 | 环境（Environments） | 探究3 卤虫孵化 | FOSS Environments 探究3 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g4-ev-i3-卤虫孵化.png>) · [PDF](<海报/g4-ev-i3-卤虫孵化.pdf>) |
 | 植物能忍受怎样的环境？ | 四年级 | 环境（Environments） | 探究4 耐受范围 | FOSS Environments 探究4 （各部分标题待核） · Lawrence Hall of Science | [PNG](<海报/g4-ev-i4-耐受范围.png>) · [PDF](<海报/g4-ev-i4-耐受范围.pdf>) |
+| 怎样分离混合物？ | 五年级 | 混合物与溶液（Mixtures and Solutions） | 探究1 分离混合物 | FOSS Mixtures and Solutions 探究1 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g5-ms-i1-分离混合物.png>) · [PDF](<海报/g5-ms-i1-分离混合物.pdf>) |
+| 怎样用模型解释变化？ | 五年级 | 混合物与溶液（Mixtures and Solutions） | 探究2 建立模型 | FOSS Mixtures and Solutions 探究2 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g5-ms-i2-建立模型.png>) · [PDF](<海报/g5-ms-i2-建立模型.pdf>) |
+| 溶液有多浓？ | 五年级 | 混合物与溶液（Mixtures and Solutions） | 探究3 浓度 | FOSS Mixtures and Solutions 探究3 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g5-ms-i3-浓度.png>) · [PDF](<海报/g5-ms-i3-浓度.pdf>) |
+| 能溶解多少？ | 五年级 | 混合物与溶液（Mixtures and Solutions） | 探究4 达到饱和 | FOSS Mixtures and Solutions 探究4 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g5-ms-i4-达到饱和.png>) · [PDF](<海报/g5-ms-i4-达到饱和.pdf>) |
+| 怎样判断化学反应？ | 五年级 | 混合物与溶液（Mixtures and Solutions） | 探究5 气泡小测验 | FOSS Mixtures and Solutions 探究5 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g5-ms-i5-气泡小测验.png>) · [PDF](<海报/g5-ms-i5-气泡小测验.pdf>) |
+| 太阳在天空中怎样移动？ | 五年级 | 地球与太阳（Earth and Sun） | 探究1 太阳 | FOSS Earth and Sun 探究1 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g5-es-i1-太阳.png>) · [PDF](<海报/g5-es-i1-太阳.pdf>) |
+| 太阳系是什么样的？ | 五年级 | 地球与太阳（Earth and Sun） | 探究2 行星系统 | FOSS Earth and Sun 探究2 第1–5部分 · Lawrence Hall of Science | [PNG](<海报/g5-es-i2-行星系统.png>) · [PDF](<海报/g5-es-i2-行星系统.pdf>) |
+| 大气是什么？ | 五年级 | 地球与太阳（Earth and Sun） | 探究3 地球的大气 | FOSS Earth and Sun 探究3 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g5-es-i3-地球的大气.png>) · [PDF](<海报/g5-es-i3-地球的大气.pdf>) |
+| 地球表面怎样被加热？ | 五年级 | 地球与太阳（Earth and Sun） | 探究4 加热地球 | FOSS Earth and Sun 探究4 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g5-es-i4-加热地球.png>) · [PDF](<海报/g5-es-i4-加热地球.pdf>) |
+| 水怎样在地球上循环？ | 五年级 | 地球与太阳（Earth and Sun） | 探究5 水的星球 | FOSS Earth and Sun 探究5 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g5-es-i5-水的星球.png>) · [PDF](<海报/g5-es-i5-水的星球.pdf>) |
+| 什么是系统？ | 五年级 | 生命系统（Living Systems） | 探究1 系统 | FOSS Living Systems 探究1 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g5-ls-i1-系统.png>) · [PDF](<海报/g5-ls-i1-系统.pdf>) |
+| 生物怎样获得养分？ | 五年级 | 生命系统（Living Systems） | 探究2 营养系统 | FOSS Living Systems 探究2 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g5-ls-i2-营养系统.png>) · [PDF](<海报/g5-ls-i2-营养系统.pdf>) |
+| 生物体内怎样运输？ | 五年级 | 生命系统（Living Systems） | 探究3 运输系统 | FOSS Living Systems 探究3 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g5-ls-i3-运输系统.png>) · [PDF](<海报/g5-ls-i3-运输系统.pdf>) |
+| 动物怎样感知世界？ | 五年级 | 生命系统（Living Systems） | 探究4 感觉系统 | FOSS Living Systems 探究4 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g5-ls-i4-感觉系统.png>) · [PDF](<海报/g5-ls-i4-感觉系统.pdf>) |
