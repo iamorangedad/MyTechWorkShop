@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 307 个部分，超过 250，所以每个探究一张海报，共 77 张。已完成 24 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这个探究里的关键动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，需要注意安全的地方写在小结框里。
+全套 307 个部分，超过 250，所以每个探究一张海报，共 77 张。已完成 37 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这个探究里的关键动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 模块 | 探究 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -35,3 +35,16 @@
 | 一段茎能长成新植物吗？ | 一年级 | 植物与动物（Plants and Animals） | 探究2 茎 | FOSS Plants and Animals 探究2 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g1-pa-i2-茎.png>) · [PDF](<海报/g1-pa-i2-茎.pdf>) |
 | 动植物怎样一起生活？ | 一年级 | 植物与动物（Plants and Animals） | 探究3 生态缸 | FOSS Plants and Animals 探究3 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g1-pa-i3-生态缸.png>) · [PDF](<海报/g1-pa-i3-生态缸.pdf>) |
 | 植物和动物怎样长大？ | 一年级 | 植物与动物（Plants and Animals） | 探究4 生长与变化 | FOSS Plants and Animals 探究4 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g1-pa-i4-生长与变化.png>) · [PDF](<海报/g1-pa-i4-生长与变化.pdf>) |
+| 固体有哪些性质？ | 二年级 | 固体与液体（Solids and Liquids） | 探究1 固体 | FOSS Solids and Liquids 探究1 第1–5部分 · Lawrence Hall of Science | [PNG](<海报/g2-sq-i1-固体.png>) · [PDF](<海报/g2-sq-i1-固体.pdf>) |
+| 液体有哪些性质？ | 二年级 | 固体与液体（Solids and Liquids） | 探究2 液体 | FOSS Solids and Liquids 探究2 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g2-sq-i2-液体.png>) · [PDF](<海报/g2-sq-i2-液体.pdf>) |
+| 颗粒也是固体吗？ | 二年级 | 固体与液体（Solids and Liquids） | 探究3 颗粒与碎片 | FOSS Solids and Liquids 探究3 第1–5部分 · Lawrence Hall of Science | [PNG](<海报/g2-sq-i3-颗粒与碎片.png>) · [PDF](<海报/g2-sq-i3-颗粒与碎片.pdf>) |
+| 东西放进水里会怎样？ | 二年级 | 固体与液体（Solids and Liquids） | 探究4 固体、液体与水 | FOSS Solids and Liquids 探究4 第1–5部分 · Lawrence Hall of Science | [PNG](<海报/g2-sq-i4-固体-液体与水.png>) · [PDF](<海报/g2-sq-i4-固体-液体与水.pdf>) |
+| 岩石有什么不同？ | 二年级 | 卵石、沙与粉砂（Pebbles, Sand, and Silt） | 探究1 初识岩石 | FOSS Pebbles, Sand, and Silt 探究1 第1–5部分 · Lawrence Hall of Science | [PNG](<海报/g2-ps-i1-初识岩石.png>) · [PDF](<海报/g2-ps-i1-初识岩石.pdf>) |
+| 河里的石头有多大？ | 二年级 | 卵石、沙与粉砂（Pebbles, Sand, and Silt） | 探究2 河石 | FOSS Pebbles, Sand, and Silt 探究2 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g2-ps-i2-河石.png>) · [PDF](<海报/g2-ps-i2-河石.pdf>) |
+| 岩石有什么用？ | 二年级 | 卵石、沙与粉砂（Pebbles, Sand, and Silt） | 探究3 利用岩石 | FOSS Pebbles, Sand, and Silt 探究3 第1–5部分 · Lawrence Hall of Science | [PNG](<海报/g2-ps-i3-利用岩石.png>) · [PDF](<海报/g2-ps-i3-利用岩石.pdf>) |
+| 土壤和水 | 二年级 | 卵石、沙与粉砂（Pebbles, Sand, and Silt） | 探究4 土壤与水 | FOSS Pebbles, Sand, and Silt 探究4 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g2-ps-i4-土壤与水.png>) · [PDF](<海报/g2-ps-i4-土壤与水.pdf>) |
+| 黄粉虫怎样长大？ | 二年级 | 昆虫与植物（Insects and Plants） | 探究1 黄粉虫 | FOSS Insects and Plants 探究1 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g2-ip-i1-黄粉虫.png>) · [PDF](<海报/g2-ip-i1-黄粉虫.pdf>) |
+| 芸薹怎样度过一生？ | 二年级 | 昆虫与植物（Insects and Plants） | 探究2 芸薹种子 | FOSS Insects and Plants 探究2 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g2-ip-i2-芸薹种子.png>) · [PDF](<海报/g2-ip-i2-芸薹种子.pdf>) |
+| 乳草长蝽怎样长大？ | 二年级 | 昆虫与植物（Insects and Plants） | 探究3 乳草长蝽 | FOSS Insects and Plants 探究3 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g2-ip-i3-乳草长蝽.png>) · [PDF](<海报/g2-ip-i3-乳草长蝽.pdf>) |
+| 家蚕怎样度过一生？ | 二年级 | 昆虫与植物（Insects and Plants） | 探究4 家蚕 | FOSS Insects and Plants 探究4 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g2-ip-i4-家蚕.png>) · [PDF](<海报/g2-ip-i4-家蚕.pdf>) |
+| 毛虫怎样变成蝴蝶？ | 二年级 | 昆虫与植物（Insects and Plants） | 探究5 蝴蝶 | FOSS Insects and Plants 探究5 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g2-ip-i5-蝴蝶.png>) · [PDF](<海报/g2-ip-i5-蝴蝶.pdf>) |
