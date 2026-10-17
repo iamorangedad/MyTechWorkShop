@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 21 个单元、89 章、466 课。章数不超过 250，所以每章一张海报，共 89 张。已完成 28 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这一章的锚定问题和关键课（标注课号），底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
+全套 21 个单元、89 章、466 课。章数不超过 250，所以每章一张海报，共 89 张。已完成 40 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这一章的锚定问题和关键课（标注课号），底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 单元 | 章 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -39,3 +39,15 @@
 | 白天为何变成黑夜？ | 一年级 | 自转的地球（Spinning Earth） | 第3章 为什么赛打电话的时候，白天变成了夜晚？ | Amplify Science Grade 1 Spinning Earth 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-se-c3-天空在变.png>) · [PDF](<海报/g1-se-c3-天空在变.pdf>) |
 | 明天天空会怎样？ | 一年级 | 自转的地球（Spinning Earth） | 第4章 赛明天给奶奶打电话时，会在天空中看到什么？ | Amplify Science Grade 1 Spinning Earth 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-se-c4-预测天空.png>) · [PDF](<海报/g1-se-c4-预测天空.pdf>) |
 | 冬天为何天黑得早？ | 一年级 | 自转的地球（Spinning Earth） | 第5章 为什么冬天赛同一时间打电话时，天已经黑了？ | Amplify Science Grade 1 Spinning Earth 第5章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g1-se-c5-季节与昼长.png>) · [PDF](<海报/g1-se-c5-季节与昼长.pdf>) |
+| 为何没有新的树？ | 二年级 | 植物与动物的关系（Plant and Animal Relationships） | 第1章 为什么孟加拉虎保护区里没有新的查尔塔树长出来？ | Amplify Science Grade 2 Plant and Animal Relationships 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-par-c1-种子要什么.png>) · [PDF](<海报/g2-par-c1-种子要什么.pdf>) |
+| 种子缺了什么？ | 二年级 | 植物与动物的关系（Plant and Animal Relationships） | 第2章 为什么查尔塔树的种子得不到生长需要的东西？ | Amplify Science Grade 2 Plant and Animal Relationships 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-par-c2-植物的部分.png>) · [PDF](<海报/g2-par-c2-植物的部分.pdf>) |
+| 种子为何去不了？ | 二年级 | 植物与动物的关系（Plant and Animal Relationships） | 第3章 为什么查尔塔树的种子到不了能生长的地方？ | Amplify Science Grade 2 Plant and Animal Relationships 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-par-c3-动物传种子.png>) · [PDF](<海报/g2-par-c3-动物传种子.pdf>) |
+| 别的种子怎样传播？ | 二年级 | 植物与动物的关系（Plant and Animal Relationships） | 第4章 保护区里的其他种子是怎样到达能生长的地方的？ | Amplify Science Grade 2 Plant and Animal Relationships 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-par-c4-风传种子.png>) · [PDF](<海报/g2-par-c4-风传种子.pdf>) |
+| 怎样做出黏的胶水？ | 二年级 | 材料的性质（Properties of Materials） | 第1章 怎样做出很黏的胶水？ | Amplify Science Grade 2 Properties of Materials 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-pom-c1-黏性.png>) · [PDF](<海报/g2-pom-c1-黏性.pdf>) |
+| 加热能改进胶水吗？ | 二年级 | 材料的性质（Properties of Materials） | 第2章 加热某种原料，能做出更好的胶水吗？ | Amplify Science Grade 2 Properties of Materials 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-pom-c2-加热与冷却.png>) · [PDF](<海报/g2-pom-c2-加热与冷却.pdf>) |
+| 怎样又黏又牢？ | 二年级 | 材料的性质（Properties of Materials） | 第3章 用哪些原料能做出又黏又牢固的胶水？ | Amplify Science Grade 2 Properties of Materials 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-pom-c3-混合原料.png>) · [PDF](<海报/g2-pom-c3-混合原料.pdf>) |
+| 哪个配方最好？ | 二年级 | 材料的性质（Properties of Materials） | 第4章 哪种胶水配方最符合我们的设计目标？ | Amplify Science Grade 2 Properties of Materials 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-pom-c4-最佳配方.png>) · [PDF](<海报/g2-pom-c4-最佳配方.pdf>) |
+| 悬崖为何靠近旗杆？ | 二年级 | 变化的地形（Changing Landforms） | 第1章 悬崖边是怎样变得离旗杆这么近的？ | Amplify Science Grade 2 Changing Landforms 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-cl-c1-岩石与地形.png>) · [PDF](<海报/g2-cl-c1-岩石与地形.pdf>) |
+| 悬崖是怎样变化的？ | 二年级 | 变化的地形（Changing Landforms） | 第2章 娱乐中心下面的悬崖是怎样变化的？ | Amplify Science Grade 2 Changing Landforms 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-cl-c2-侵蚀.png>) · [PDF](<海报/g2-cl-c2-侵蚀.pdf>) |
+| 为何没人发现？ | 二年级 | 变化的地形（Changing Landforms） | 第3章 为什么悬崖被侵蚀了，主任却没有发现？ | Amplify Science Grade 2 Changing Landforms 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-cl-c3-慢慢变化.png>) · [PDF](<海报/g2-cl-c3-慢慢变化.pdf>) |
+| 悬崖会很快被侵蚀吗？ | 二年级 | 变化的地形（Changing Landforms） | 第4章 娱乐中心的悬崖会很快被侵蚀吗？ | Amplify Science Grade 2 Changing Landforms 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g2-cl-c4-快速变化.png>) · [PDF](<海报/g2-cl-c4-快速变化.pdf>) |
