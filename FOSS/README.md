@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 307 个部分，超过 250，所以每个探究一张海报，共 77 张。已完成 37 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这个探究里的关键动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，需要注意安全的地方写在小结框里。
+全套 307 个部分，超过 250，所以每个探究一张海报，共 77 张。已完成 50 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这个探究里的关键动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 模块 | 探究 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -48,3 +48,16 @@
 | 乳草长蝽怎样长大？ | 二年级 | 昆虫与植物（Insects and Plants） | 探究3 乳草长蝽 | FOSS Insects and Plants 探究3 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g2-ip-i3-乳草长蝽.png>) · [PDF](<海报/g2-ip-i3-乳草长蝽.pdf>) |
 | 家蚕怎样度过一生？ | 二年级 | 昆虫与植物（Insects and Plants） | 探究4 家蚕 | FOSS Insects and Plants 探究4 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g2-ip-i4-家蚕.png>) · [PDF](<海报/g2-ip-i4-家蚕.pdf>) |
 | 毛虫怎样变成蝴蝶？ | 二年级 | 昆虫与植物（Insects and Plants） | 探究5 蝴蝶 | FOSS Insects and Plants 探究5 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g2-ip-i5-蝴蝶.png>) · [PDF](<海报/g2-ip-i5-蝴蝶.pdf>) |
+| 力有哪些？ | 三年级 | 运动与物质（Motion and Matter） | 探究1 力 | FOSS Motion and Matter 探究1 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g3-mo-i1-力.png>) · [PDF](<海报/g3-mo-i1-力.pdf>) |
+| 物体怎样运动？ | 三年级 | 运动与物质（Motion and Matter） | 探究2 运动的规律 | FOSS Motion and Matter 探究2 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g3-mo-i2-运动的规律.png>) · [PDF](<海报/g3-mo-i2-运动的规律.pdf>) |
+| 怎样设计一辆小车？ | 三年级 | 运动与物质（Motion and Matter） | 探究3 工程设计 | FOSS Motion and Matter 探究3 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g3-mo-i3-工程设计.png>) · [PDF](<海报/g3-mo-i3-工程设计.pdf>) |
+| 混合会发生什么变化？ | 三年级 | 运动与物质（Motion and Matter） | 探究4 混合物 | FOSS Motion and Matter 探究4 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g3-mo-i4-混合物.png>) · [PDF](<海报/g3-mo-i4-混合物.pdf>) |
+| 水有什么特性？ | 三年级 | 水与气候（Water and Climate） | 探究1 观察水 | FOSS Water and Climate 探究1 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g3-wc-i1-观察水.png>) · [PDF](<海报/g3-wc-i1-观察水.pdf>) |
+| 热水和冷水有什么不同？ | 三年级 | 水与气候（Water and Climate） | 探究2 热水与冷水 | FOSS Water and Climate 探究2 第1–5部分 · Lawrence Hall of Science | [PNG](<海报/g3-wc-i2-热水与冷水.png>) · [PDF](<海报/g3-wc-i2-热水与冷水.pdf>) |
+| 天气里的水去了哪里？ | 三年级 | 水与气候（Water and Climate） | 探究3 天气与水 | FOSS Water and Climate 探究3 第1–5部分 · Lawrence Hall of Science | [PNG](<海报/g3-wc-i3-天气与水.png>) · [PDF](<海报/g3-wc-i3-天气与水.pdf>) |
+| 什么是气候？ | 三年级 | 水与气候（Water and Climate） | 探究4 季节与气候 | FOSS Water and Climate 探究4 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g3-wc-i4-季节与气候.png>) · [PDF](<海报/g3-wc-i4-季节与气候.pdf>) |
+| 水能做什么？ | 三年级 | 水与气候（Water and Climate） | 探究5 水的利用 | FOSS Water and Climate 探究5 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g3-wc-i5-水的利用.png>) · [PDF](<海报/g3-wc-i5-水的利用.pdf>) |
+| 种子从哪里来？ | 三年级 | 生命的结构（Structures of Life） | 探究1 种子从哪里来 | FOSS Structures of Life 探究1 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g3-sx-i1-种子从哪里来.png>) · [PDF](<海报/g3-sx-i1-种子从哪里来.pdf>) |
+| 植物怎样继续生长？ | 三年级 | 生命的结构（Structures of Life） | 探究2 继续生长 | FOSS Structures of Life 探究2 第1–3部分 · Lawrence Hall of Science | [PNG](<海报/g3-sx-i2-继续生长.png>) · [PDF](<海报/g3-sx-i2-继续生长.pdf>) |
+| 小龙虾怎样生活？ | 三年级 | 生命的结构（Structures of Life） | 探究3 认识小龙虾 | FOSS Structures of Life 探究3 第1–5部分 · Lawrence Hall of Science | [PNG](<海报/g3-sx-i3-认识小龙虾.png>) · [PDF](<海报/g3-sx-i3-认识小龙虾.pdf>) |
+| 人体由什么支撑？ | 三年级 | 生命的结构（Structures of Life） | 探究4 人体 | FOSS Structures of Life 探究4 第1–4部分 · Lawrence Hall of Science | [PNG](<海报/g3-sx-i4-人体.png>) · [PDF](<海报/g3-sx-i4-人体.pdf>) |
