@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 21 个单元、89 章、466 课。章数不超过 250，所以每章一张海报，共 89 张。已完成 74 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这一章的锚定问题和关键课（标注课号），底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
+全套 21 个单元、89 章、466 课。章数不超过 250，所以每章一张海报，共 89 张。已完成 89 张（PNG + PDF）。每张海报用 01/02/03… 几步画出这一章的锚定问题和关键课（标注课号），底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 单元 | 章 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -85,3 +85,18 @@
 | 声能怎样在水中传播？ | 四年级 | 波、能量与信息（Waves, Energy, and Information） | 第2章 声能是怎样在水中从海豚妈妈传到幼崽的？ | Amplify Science Grade 4 Waves, Energy, and Information 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-wei-c2-介质.png>) · [PDF](<海报/g4-wei-c2-介质.pdf>) |
 | 幼崽怎样认出妈妈？ | 四年级 | 波、能量与信息（Waves, Energy, and Information） | 第3章 海豚幼崽怎样知道哪个叫声是妈妈的？ | Amplify Science Grade 4 Waves, Energy, and Information 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-wei-c3-声音的规律.png>) · [PDF](<海报/g4-wei-c3-声音的规律.pdf>) |
 | 人怎样用规律通信？ | 四年级 | 波、能量与信息（Waves, Energy, and Information） | 第4章 人类怎样利用规律来传递信息？ | Amplify Science Grade 4 Waves, Energy, and Information 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g4-wei-c4-编码通信.png>) · [PDF](<海报/g4-wei-c4-编码通信.pdf>) |
+| 白天为何看不到星星？ | 五年级 | 地球和天空的规律（Patterns of Earth and Sky） | 第1章 为什么白天我们看不到很多星星？ | Amplify Science Grade 5 Patterns of Earth and Sky 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-pes-c1-星星与距离.png>) · [PDF](<海报/g5-pes-c1-星星与距离.pdf>) |
+| 太阳为何时有时无？ | 五年级 | 地球和天空的规律（Patterns of Earth and Sky） | 第2章 为什么太阳有时在天上，有时不在？ | Amplify Science Grade 5 Patterns of Earth and Sky 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-pes-c2-地球自转.png>) · [PDF](<海报/g5-pes-c2-地球自转.pdf>) |
+| 为何四季星星不同？ | 五年级 | 地球和天空的规律（Patterns of Earth and Sky） | 第3章 为什么一年中不同时候看到的星星不一样？ | Amplify Science Grade 5 Patterns of Earth and Sky 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-pes-c3-地球公转.png>) · [PDF](<海报/g5-pes-c3-地球公转.pdf>) |
+| 怎样研究不同星空？ | 五年级 | 地球和天空的规律（Patterns of Earth and Sky） | 第4章 我们怎样研究为什么不同的夜晚看到的星星不同？ | Amplify Science Grade 5 Patterns of Earth and Sky 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-pes-c4-自主探究.png>) · [PDF](<海报/g5-pes-c4-自主探究.pdf>) |
+| 色素为何分成几种？ | 五年级 | 物质建模（Modeling Matter） | 第1章 为什么食用色素会分成几种不同的颜色？ | Amplify Science Grade 5 Modeling Matter 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-mm-c1-色谱分离.png>) · [PDF](<海报/g5-mm-c1-色谱分离.pdf>) |
+| 沙拉汁为何有沉淀？ | 五年级 | 物质建模（Modeling Matter） | 第2章 为什么有的沙拉汁有沉淀，有的没有？ | Amplify Science Grade 5 Modeling Matter 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-mm-c2-溶解.png>) · [PDF](<海报/g5-mm-c2-溶解.pdf>) |
+| 为何混好又分开？ | 五年级 | 物质建模（Modeling Matter） | 第3章 为什么沙拉汁的原料混合后又会重新分开？ | Amplify Science Grade 5 Modeling Matter 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-mm-c3-分层.png>) · [PDF](<海报/g5-mm-c3-分层.pdf>) |
+| 东费里斯为何缺水？ | 五年级 | 地球系统（The Earth System） | 第1章 为什么东费里斯缺水，西费里斯却不缺？ | Amplify Science Grade 5 The Earth System 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-es-c1-水的分布.png>) · [PDF](<海报/g5-es-c1-水的分布.pdf>) |
+| 西边为何雨更多？ | 五年级 | 地球系统（The Earth System） | 第2章 为什么西费里斯上空形成的雨比东费里斯多？ | Amplify Science Grade 5 The Earth System 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-es-c2-蒸发与凝结.png>) · [PDF](<海报/g5-es-c2-蒸发与凝结.pdf>) |
+| 西边水汽为何更冷？ | 五年级 | 地球系统（The Earth System） | 第3章 为什么西费里斯上空有更多水蒸气变冷？ | Amplify Science Grade 5 The Earth System 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-es-c3-高空凝结.png>) · [PDF](<海报/g5-es-c3-高空凝结.pdf>) |
+| 西边高空为何水汽多？ | 五年级 | 地球系统（The Earth System） | 第4章 为什么西费里斯高空的水蒸气比东费里斯多？ | Amplify Science Grade 5 The Earth System 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-es-c4-雨影.png>) · [PDF](<海报/g5-es-c4-雨影.pdf>) |
+| 怎样把废水变清水？ | 五年级 | 地球系统（The Earth System） | 第5章 东费里斯怎样把废水变成干净的淡水？ | Amplify Science Grade 5 The Earth System 第5章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-es-c5-化学反应.png>) · [PDF](<海报/g5-es-c5-化学反应.pdf>) |
+| 美洲豹为何长不好？ | 五年级 | 生态系统修复（Ecosystem Restoration） | 第1章 为什么美洲豹和树懒长不好、活不好？ | Amplify Science Grade 5 Ecosystem Restoration 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-er-c1-动物的食物.png>) · [PDF](<海报/g5-er-c1-动物的食物.pdf>) |
+| 号角树为何长不好？ | 五年级 | 生态系统修复（Ecosystem Restoration） | 第2章 为什么号角树长不好？ | Amplify Science Grade 5 Ecosystem Restoration 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-er-c2-植物的食物.png>) · [PDF](<海报/g5-er-c2-植物的食物.pdf>) |
+| 土壤为何让树长不好？ | 五年级 | 生态系统修复（Ecosystem Restoration） | 第3章 为什么号角树在这片土壤里长不好？ | Amplify Science Grade 5 Ecosystem Restoration 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g5-er-c3-分解者.png>) · [PDF](<海报/g5-er-c3-分解者.pdf>) |
