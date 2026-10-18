@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 24 个单元、39 个模块、108 课。课数不超过 250，所以每课一张海报，共 108 张。已完成 34 张（PNG + PDF）。每张海报用 01/02/03 三步画出本课的现象问题、探究步骤和结论，底部标注教材来源。课内的现象和活动大多没有公开：能在官方样章里核实的，副标题写“教材活动”；其余是按官方课名、模块 NGSS 表现期望和官方配套器材设计的示例，副标题写“示例探究”。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
+全套 24 个单元、39 个模块、108 课。课数不超过 250，所以每课一张海报，共 108 张。已完成 49 张（PNG + PDF）。每张海报用 01/02/03 三步画出本课的现象问题、探究步骤和结论，底部标注教材来源。课内的现象和活动大多没有公开：能在官方样章里核实的，副标题写“教材活动”；其余是按官方课名、模块 NGSS 表现期望和官方配套器材设计的示例，副标题写“示例探究”。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
 
 | 海报 | 年级 | 单元 | 模块 | 课 | 活动类型 | 教材来源 | 文件 |
 |---|---|---|---|---|---|---|---|
@@ -45,3 +45,18 @@
 | 天上有什么？ | 一年级 | 单元4 天空的规律（Sky Patterns） | 观察天空（Observe the Sky） | 第1课 天空中的物体（Objects in the Sky） | 示例探究 | Inspire Science Grade 1 Unit 4 Observe the Sky 第1课 · McGraw Hill | [PNG](<海报/g1-u4m1-l1-天空中的物体.png>) · [PDF](<海报/g1-u4m1-l1-天空中的物体.pdf>) |
 | 影子为什么会移动？ | 一年级 | 单元4 天空的规律（Sky Patterns） | 观察天空（Observe the Sky） | 第2课 昼夜规律（Day and Night Patterns） | 示例探究 | Inspire Science Grade 1 Unit 4 Observe the Sky 第2课 · McGraw Hill | [PNG](<海报/g1-u4m1-l2-昼夜规律.png>) · [PDF](<海报/g1-u4m1-l2-昼夜规律.pdf>) |
 | 白天为何有长短？ | 一年级 | 单元4 天空的规律（Sky Patterns） | 观察天空（Observe the Sky） | 第3课 一年中的规律（Patterns During the Year） | 示例探究 | Inspire Science Grade 1 Unit 4 Observe the Sky 第3课 · McGraw Hill | [PNG](<海报/g1-u4m1-l3-一年中的规律.png>) · [PDF](<海报/g1-u4m1-l3-一年中的规律.pdf>) |
+| 身边有什么地形？ | 二年级 | 单元1 陆地和水（Land and Water） | 地球的地貌（Earth's Landscape） | 第1课 身边的地形（Local Landscapes） | 示例探究 | Inspire Science Grade 2 Unit 1 Earth's Landscape 第1课 · McGraw Hill | [PNG](<海报/g2-u1m1-l1-身边的地形.png>) · [PDF](<海报/g2-u1m1-l1-身边的地形.pdf>) |
+| 怎样画出地形？ | 二年级 | 单元1 陆地和水（Land and Water） | 地球的地貌（Earth's Landscape） | 第2课 地球上的陆地（Land on Earth） | 示例探究 | Inspire Science Grade 2 Unit 1 Earth's Landscape 第2课 · McGraw Hill | [PNG](<海报/g2-u1m1-l2-地球上的陆地.png>) · [PDF](<海报/g2-u1m1-l2-地球上的陆地.pdf>) |
+| 地球上的水在哪？ | 二年级 | 单元1 陆地和水（Land and Water） | 地球的地貌（Earth's Landscape） | 第3课 地球上的水（Water on Earth） | 示例探究 | Inspire Science Grade 2 Unit 1 Earth's Landscape 第3课 · McGraw Hill | [PNG](<海报/g2-u1m1-l3-地球上的水.png>) · [PDF](<海报/g2-u1m1-l3-地球上的水.pdf>) |
+| 怎样描述材料？ | 二年级 | 单元2 材料的性质（Properties of Materials） | 描述材料（Describe Materials） | 第1课 认识材料（Investigate Materials） | 示例探究 | Inspire Science Grade 2 Unit 2 Describe Materials 第1课 · McGraw Hill | [PNG](<海报/g2-u2m1-l1-认识材料.png>) · [PDF](<海报/g2-u2m1-l1-认识材料.pdf>) |
+| 哪种材料最合适？ | 二年级 | 单元2 材料的性质（Properties of Materials） | 描述材料（Describe Materials） | 第2课 测试与分析材料（Test and Analyze Materials） | 示例探究 | Inspire Science Grade 2 Unit 2 Describe Materials 第2课 · McGraw Hill | [PNG](<海报/g2-u2m1-l2-测试与分析材料.png>) · [PDF](<海报/g2-u2m1-l2-测试与分析材料.pdf>) |
+| 小块能拼成大物吗？ | 二年级 | 单元2 材料的性质（Properties of Materials） | 材料的变化（Changes to Materials） | 第1课 用材料搭建（Build with Materials） | 示例探究 | Inspire Science Grade 2 Unit 2 Changes to Materials 第1课 · McGraw Hill | [PNG](<海报/g2-u2m2-l1-用材料搭建.png>) · [PDF](<海报/g2-u2m2-l1-用材料搭建.pdf>) |
+| 加热冷却会怎样？ | 二年级 | 单元2 材料的性质（Properties of Materials） | 材料的变化（Changes to Materials） | 第2课 材料会变化（Materials Can Change） | 示例探究 | Inspire Science Grade 2 Unit 2 Changes to Materials 第2课 · McGraw Hill | [PNG](<海报/g2-u2m2-l2-材料会变化.png>) · [PDF](<海报/g2-u2m2-l2-材料会变化.pdf>) |
+| 岩石怎样慢慢变？ | 二年级 | 单元3 变化的地貌（Earth's Changing Landscape） | 地貌的变化（Landscape Changes） | 第1课 地貌的缓慢变化（Slow Changes to Earth's Landscape） | 示例探究 | Inspire Science Grade 2 Unit 3 Landscape Changes 第1课 · McGraw Hill | [PNG](<海报/g2-u3m1-l1-地貌的缓慢变化.png>) · [PDF](<海报/g2-u3m1-l1-地貌的缓慢变化.pdf>) |
+| 地面会突然改变吗？ | 二年级 | 单元3 变化的地貌（Earth's Changing Landscape） | 地貌的变化（Landscape Changes） | 第2课 地貌的快速变化（Quick Changes to Earth's Landscape） | 示例探究 | Inspire Science Grade 2 Unit 3 Landscape Changes 第2课 · McGraw Hill | [PNG](<海报/g2-u3m1-l2-地貌的快速变化.png>) · [PDF](<海报/g2-u3m1-l2-地貌的快速变化.pdf>) |
+| 怎样防止水土流失？ | 二年级 | 单元3 变化的地貌（Earth's Changing Landscape） | 地貌的变化（Landscape Changes） | 第3课 减缓地貌变化（Ways to Slow Landscape Changes） | 示例探究 | Inspire Science Grade 2 Unit 3 Landscape Changes 第3课 · McGraw Hill | [PNG](<海报/g2-u3m1-l3-减缓地貌变化.png>) · [PDF](<海报/g2-u3m1-l3-减缓地貌变化.pdf>) |
+| 植物要光和水吗？ | 二年级 | 单元4 生物与栖息地（Living Things and Habitats） | 地貌中的植物（Plants in Landscapes） | 第1课 植物的需要（Needs of Plants） | 示例探究 | Inspire Science Grade 2 Unit 4 Plants in Landscapes 第1课 · McGraw Hill | [PNG](<海报/g2-u4m1-l1-植物的需要.png>) · [PDF](<海报/g2-u4m1-l1-植物的需要.pdf>) |
+| 种子怎样去远方？ | 二年级 | 单元4 生物与栖息地（Living Things and Habitats） | 地貌中的植物（Plants in Landscapes） | 第2课 植物依靠动物（Plants Depend on Animals） | 示例探究 | Inspire Science Grade 2 Unit 4 Plants in Landscapes 第2课 · McGraw Hill | [PNG](<海报/g2-u4m1-l2-植物依靠动物.png>) · [PDF](<海报/g2-u4m1-l2-植物依靠动物.pdf>) |
+| 身边住着哪些生物？ | 二年级 | 单元4 生物与栖息地（Living Things and Habitats） | 栖息地中的生物（Living Things in Habitats） | 第1课 身边的栖息地（Local Habitats） | 示例探究 | Inspire Science Grade 2 Unit 4 Living Things in Habitats 第1课 · McGraw Hill | [PNG](<海报/g2-u4m2-l1-身边的栖息地.png>) · [PDF](<海报/g2-u4m2-l1-身边的栖息地.pdf>) |
+| 鼠妇喜欢哪里？ | 二年级 | 单元4 生物与栖息地（Living Things and Habitats） | 栖息地中的生物（Living Things in Habitats） | 第2课 陆地栖息地（Land Habitats） | 示例探究 | Inspire Science Grade 2 Unit 4 Living Things in Habitats 第2课 · McGraw Hill | [PNG](<海报/g2-u4m2-l2-陆地栖息地.png>) · [PDF](<海报/g2-u4m2-l2-陆地栖息地.pdf>) |
+| 淡水海水有何不同？ | 二年级 | 单元4 生物与栖息地（Living Things and Habitats） | 栖息地中的生物（Living Things in Habitats） | 第3课 水中栖息地（Water Habitats） | 示例探究 | Inspire Science Grade 2 Unit 4 Living Things in Habitats 第3课 · McGraw Hill | [PNG](<海报/g2-u4m2-l3-水中栖息地.png>) · [PDF](<海报/g2-u4m2-l3-水中栖息地.pdf>) |
