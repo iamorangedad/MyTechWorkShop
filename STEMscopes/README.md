@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 25 个单元、80 个 Scope。Scope 数不超过 250，所以每个 Scope 一张海报，共 80 张。已完成 64 张（PNG + PDF），其中教材活动 6 张、示例探究 58 张。每张海报的 01/02/03 三行对应 5E 的 Engage（现象）、Explore（探究）、Explain（结论），小结框里的「拓展」对应 Elaborate，底部标注教材来源。「教材活动」表示第 02 行画的是官方公开的 Explore 活动（活动名写在海报上；有官方样课的按样课步骤，只有简介的注明步骤为示意）；「示例探究」表示官方没有公开这个 Scope 的活动，海报改用本项目设计的探究。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
+全套 25 个单元、80 个 Scope。Scope 数不超过 250，所以每个 Scope 一张海报，共 80 张。已完成 80 张（PNG + PDF），其中教材活动 7 张、示例探究 73 张。每张海报的 01/02/03 三行对应 5E 的 Engage（现象）、Explore（探究）、Explain（结论），小结框里的「拓展」对应 Elaborate，底部标注教材来源。「教材活动」表示第 02 行画的是官方公开的 Explore 活动（活动名写在海报上；有官方样课的按样课步骤，只有简介的注明步骤为示意）；「示例探究」表示官方没有公开这个 Scope 的活动，海报改用本项目设计的探究。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
 
 | 海报 | 年级 | 单元 | 章（Scope） | 官方 Explore 活动 | 活动类型 | 教材来源 | 文件 |
 |---|---|---|---|---|---|---|---|
@@ -75,3 +75,19 @@
 | 大浪小浪有何不同？ | 四年级 | 单元4 用波的能量交流（Communicating Using Wave Energy） | 第2章 波长与振幅（Wavelength and Amplitude） | （未公开） | 示例探究 | STEMscopes Grade 4 Wavelength and Amplitude · Accelerate Learning | [PNG](<海报/g4-b4-s2-波长与振幅.png>) · [PDF](<海报/g4-b4-s2-波长与振幅.pdf>) |
 | 我们怎样看见？ | 四年级 | 单元4 用波的能量交流（Communicating Using Wave Energy） | 第3章 光的反射（Light Reflection） | （未公开） | 示例探究 | STEMscopes Grade 4 Light Reflection · Accelerate Learning | [PNG](<海报/g4-b4-s3-光的反射.png>) · [PDF](<海报/g4-b4-s3-光的反射.pdf>) |
 | 图片怎样传出去？ | 四年级 | 单元4 用波的能量交流（Communicating Using Wave Energy） | 第4章 信息技术（Information Technologies） | （未公开） | 示例探究 | STEMscopes Grade 4 Information Technologies · Accelerate Learning | [PNG](<海报/g4-b4-s4-信息技术.png>) · [PDF](<海报/g4-b4-s4-信息技术.pdf>) |
+| 食物能量从哪来？ | 五年级 | 单元1 生态系统中的物质与能量流动（Matter and Energy Flow in an Ecosystem） | 第1章 能量传递（Energy Transfer） | （未公开） | 示例探究 | STEMscopes Grade 5 Energy Transfer · Accelerate Learning | [PNG](<海报/g5-b1-s1-能量传递.png>) · [PDF](<海报/g5-b1-s1-能量传递.pdf>) |
+| 大树的质量从哪来？ | 五年级 | 单元1 生态系统中的物质与能量流动（Matter and Energy Flow in an Ecosystem） | 第2章 植物中的物质与能量（Matter and Energy in Plants） | （未公开） | 示例探究 | STEMscopes Grade 5 Matter and Energy in Plants · Accelerate Learning | [PNG](<海报/g5-b1-s2-植物中的物质与能量.png>) · [PDF](<海报/g5-b1-s2-植物中的物质与能量.pdf>) |
+| 能量怎样传递？ | 五年级 | 单元1 生态系统中的物质与能量流动（Matter and Energy Flow in an Ecosystem） | 第3章 食物网（Food Webs） | Stringy Connections、Classroom Compost Column | 教材活动 | STEMscopes Grade 5 Food Webs · Accelerate Learning | [PNG](<海报/g5-b1-s3-食物网.png>) · [PDF](<海报/g5-b1-s3-食物网.pdf>) |
+| 瓶中花园为何不死？ | 五年级 | 单元1 生态系统中的物质与能量流动（Matter and Energy Flow in an Ecosystem） | 第4章 物质循环（Matter Cycles） | （未公开） | 示例探究 | STEMscopes Grade 5 Matter Cycles · Accelerate Learning | [PNG](<海报/g5-b1-s4-物质循环.png>) · [PDF](<海报/g5-b1-s4-物质循环.pdf>) |
+| 外来物种会怎样？ | 五年级 | 单元1 生态系统中的物质与能量流动（Matter and Energy Flow in an Ecosystem） | 第5章 生态系统（Ecosystems） | （未公开） | 示例探究 | STEMscopes Grade 5 Ecosystems · Accelerate Learning | [PNG](<海报/g5-b1-s5-生态系统.png>) · [PDF](<海报/g5-b1-s5-生态系统.pdf>) |
+| 影子怎样变化？ | 五年级 | 单元2 观察天空（Observing Our Sky） | 第1章 地球自转（Earth's Rotation） | （未公开） | 示例探究 | STEMscopes Grade 5 Earth's Rotation · Accelerate Learning | [PNG](<海报/g5-b2-s1-地球自转.png>) · [PDF](<海报/g5-b2-s1-地球自转.pdf>) |
+| 太阳为何最亮？ | 五年级 | 单元2 观察天空（Observing Our Sky） | 第2章 观察恒星（Observing the Stars） | （未公开） | 示例探究 | STEMscopes Grade 5 Observing the Stars · Accelerate Learning | [PNG](<海报/g5-b2-s2-观察恒星.png>) · [PDF](<海报/g5-b2-s2-观察恒星.pdf>) |
+| 星座为何会换？ | 五年级 | 单元2 观察天空（Observing Our Sky） | 第3章 天空中的天体（Objects in the Sky） | （未公开） | 示例探究 | STEMscopes Grade 5 Objects in the Sky · Accelerate Learning | [PNG](<海报/g5-b2-s3-天空中的天体.png>) · [PDF](<海报/g5-b2-s3-天空中的天体.pdf>) |
+| 东西为何往下掉？ | 五年级 | 单元2 观察天空（Observing Our Sky） | 第4章 重力（Gravity） | （未公开） | 示例探究 | STEMscopes Grade 5 Gravity · Accelerate Learning | [PNG](<海报/g5-b2-s4-重力.png>) · [PDF](<海报/g5-b2-s4-重力.pdf>) |
+| 四大圈怎样互动？ | 五年级 | 单元3 人类对地球系统的影响（Human Impact on the Earth's Systems） | 第1章 地球系统的相互作用（Earth's Systems Interactions） | （未公开） | 示例探究 | STEMscopes Grade 5 Earth's Systems Interactions · Accelerate Learning | [PNG](<海报/g5-b3-s1-地球系统的相互作用.png>) · [PDF](<海报/g5-b3-s1-地球系统的相互作用.pdf>) |
+| 能喝的水有多少？ | 五年级 | 单元3 人类对地球系统的影响（Human Impact on the Earth's Systems） | 第2章 水资源（Water Sources） | （未公开） | 示例探究 | STEMscopes Grade 5 Water Sources · Accelerate Learning | [PNG](<海报/g5-b3-s2-水资源.png>) · [PDF](<海报/g5-b3-s2-水资源.pdf>) |
+| 怎样少用水？ | 五年级 | 单元3 人类对地球系统的影响（Human Impact on the Earth's Systems） | 第3章 减少人类足迹（Reducing the Human Footprint） | （未公开） | 示例探究 | STEMscopes Grade 5 Reducing the Human Footprint · Accelerate Learning | [PNG](<海报/g5-b3-s3-减少人类足迹.png>) · [PDF](<海报/g5-b3-s3-减少人类足迹.pdf>) |
+| 空气有质量吗？ | 五年级 | 单元4 物质的相互作用（Interactions in Matter） | 第1章 物质无处不在（Matter Is Everywhere） | （未公开） | 示例探究 | STEMscopes Grade 5 Matter Is Everywhere · Accelerate Learning | [PNG](<海报/g5-b4-s1-物质无处不在.png>) · [PDF](<海报/g5-b4-s1-物质无处不在.pdf>) |
+| 怎样分辨白色粉末？ | 五年级 | 单元4 物质的相互作用（Interactions in Matter） | 第2章 物质的性质（Properties of Matter） | （未公开） | 示例探究 | STEMscopes Grade 5 Properties of Matter · Accelerate Learning | [PNG](<海报/g5-b4-s2-物质的性质.png>) · [PDF](<海报/g5-b4-s2-物质的性质.pdf>) |
+| 反应后质量变吗？ | 五年级 | 单元4 物质的相互作用（Interactions in Matter） | 第3章 物质的变化（Changes to Matter） | （未公开） | 示例探究 | STEMscopes Grade 5 Changes to Matter · Accelerate Learning | [PNG](<海报/g5-b4-s3-物质的变化.png>) · [PDF](<海报/g5-b4-s3-物质的变化.pdf>) |
+| 混合物能分开吗？ | 五年级 | 单元4 物质的相互作用（Interactions in Matter） | 第4章 混合物（Mixtures） | （未公开） | 示例探究 | STEMscopes Grade 5 Mixtures · Accelerate Learning | [PNG](<海报/g5-b4-s4-混合物.png>) · [PDF](<海报/g5-b4-s4-混合物.pdf>) |
