@@ -8,7 +8,7 @@
 
 ## 海报
 
-全套 42 个主题、139 课。课数不超过 250，所以每课一张海报，共 139 张。已完成 58 张（PNG + PDF），其中教材活动 24 张、示例探究 34 张。每张海报分 01 现象、02 探究、03 结论三行，小结框有拓展和安全提示，底部标注教材来源。「教材活动」表示第 02 行画的是官方公开了名称的实验（英文名写在海报上；步骤没有公开，注明步骤为示意）；「示例探究」表示找不到这一课的官方实验名，海报改用本项目设计的探究。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意。
+全套 42 个主题、139 课。课数不超过 250，所以每课一张海报，共 139 张。已完成 79 张（PNG + PDF），其中教材活动 32 张、示例探究 47 张。每张海报分 01 现象、02 探究、03 结论三行，小结框有拓展和安全提示，底部标注教材来源。「教材活动」表示第 02 行画的是官方公开了名称的实验（英文名写在海报上；步骤没有公开，注明步骤为示意）；「示例探究」表示找不到这一课的官方实验名，海报改用本项目设计的探究。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意。
 
 | 海报 | 年级 | 主题 | 课 | 官方实验名 | 活动类型 | 教材来源 | 文件 |
 |---|---|---|---|---|---|---|---|
@@ -70,3 +70,24 @@
 | 什么是栖息地？ | 二年级 | Topic 6 栖息地（Habitats） | 第1课 认识栖息地（Identify Habitats） | （未公开） | 示例探究 | Elevate Science Grade 2 Topic 6 第1课 · Savvas | [PNG](<海报/g2-t6-l1-认识栖息地.png>) · [PDF](<海报/g2-t6-l1-认识栖息地.pdf>) |
 | 陆地栖息地有哪些？ | 二年级 | Topic 6 栖息地（Habitats） | 第2课 陆地栖息地的生物（Living Things in Land Habitats） | （未公开） | 示例探究 | Elevate Science Grade 2 Topic 6 第2课 · Savvas | [PNG](<海报/g2-t6-l2-陆地栖息地的生物.png>) · [PDF](<海报/g2-t6-l2-陆地栖息地的生物.pdf>) |
 | 水里住着谁？ | 二年级 | Topic 6 栖息地（Habitats） | 第3课 水中栖息地的生物（Living Things in Water Habitats） | （未公开） | 示例探究 | Elevate Science Grade 2 Topic 6 第3课 · Savvas | [PNG](<海报/g2-t6-l3-水中栖息地的生物.png>) · [PDF](<海报/g2-t6-l3-水中栖息地的生物.pdf>) |
+| 怎样知道它在动？ | 三年级 | Topic 1 运动和力（Motion and Forces） | 第1课 运动（Motion） | （未公开） | 示例探究 | Elevate Science Grade 3 Topic 1 第1课 · Savvas | [PNG](<海报/g3-t1-l1-运动.png>) · [PDF](<海报/g3-t1-l1-运动.pdf>) |
+| 秋千有规律吗？ | 三年级 | Topic 1 运动和力（Motion and Forces） | 第2课 运动的规律（Patterns in Motion） | （未公开） | 示例探究 | Elevate Science Grade 3 Topic 1 第2课 · Savvas | [PNG](<海报/g3-t1-l2-运动的规律.png>) · [PDF](<海报/g3-t1-l2-运动的规律.pdf>) |
+| 什么让它动起来？ | 三年级 | Topic 1 运动和力（Motion and Forces） | 第3课 力和运动（Forces and Motion） | uInvestigate Lab: What makes it move? | 教材活动 | Elevate Science Grade 3 Topic 1 第3课 · Savvas | [PNG](<海报/g3-t1-l3-力和运动.png>) · [PDF](<海报/g3-t1-l3-力和运动.pdf>) |
+| 拔河为什么不动？ | 三年级 | Topic 1 运动和力（Motion and Forces） | 第4课 平衡力和不平衡力（Balanced and Unbalanced Forces） | STEM uInvestigate Lab: How can you hold up an object? | 教材活动 | Elevate Science Grade 3 Topic 1 第4课 · Savvas | [PNG](<海报/g3-t1-l4-平衡力和不平衡力.png>) · [PDF](<海报/g3-t1-l4-平衡力和不平衡力.pdf>) |
+| 气球能吸纸屑吗？ | 三年级 | Topic 2 电和磁（Electricity and Magnetism） | 第1课 静电力（Electric Forces） | （未公开） | 示例探究 | Elevate Science Grade 3 Topic 2 第1课 · Savvas | [PNG](<海报/g3-t2-l1-静电力.png>) · [PDF](<海报/g3-t2-l1-静电力.pdf>) |
+| 磁铁隔着能吸吗？ | 三年级 | Topic 2 电和磁（Electricity and Magnetism） | 第2课 磁力（Magnetic Forces） | （未公开） | 示例探究 | Elevate Science Grade 3 Topic 2 第2课 · Savvas | [PNG](<海报/g3-t2-l2-磁力.png>) · [PDF](<海报/g3-t2-l2-磁力.pdf>) |
+| 云是怎样形成的？ | 三年级 | Topic 3 天气（Weather） | 第1课 水与天气（Water and Weather） | （未公开） | 示例探究 | Elevate Science Grade 3 Topic 3 第1课 · Savvas | [PNG](<海报/g3-t3-l1-水与天气.png>) · [PDF](<海报/g3-t3-l1-水与天气.pdf>) |
+| 哪个月最热？ | 三年级 | Topic 3 天气（Weather） | 第2课 季节性天气变化（Seasonal Weather Changes） | （未公开） | 示例探究 | Elevate Science Grade 3 Topic 3 第2课 · Savvas | [PNG](<海报/g3-t3-l2-季节性天气变化.png>) · [PDF](<海报/g3-t3-l2-季节性天气变化.pdf>) |
+| 怎样让屋顶不被吹走？ | 三年级 | Topic 3 天气（Weather） | 第3课 天气灾害（Weather Hazards） | （未公开） | 示例探究 | Elevate Science Grade 3 Topic 3 第3课 · Savvas | [PNG](<海报/g3-t3-l3-天气灾害.png>) · [PDF](<海报/g3-t3-l3-天气灾害.pdf>) |
+| 天气和气候一样吗？ | 三年级 | Topic 4 气候（Climate） | 第1课 气候（Climates） | （未公开） | 示例探究 | Elevate Science Grade 3 Topic 4 第1课 · Savvas | [PNG](<海报/g3-t4-l1-气候.png>) · [PDF](<海报/g3-t4-l1-气候.pdf>) |
+| 气候会变化吗？ | 三年级 | Topic 4 气候（Climate） | 第2课 气候变化（Climate Change） | （未公开） | 示例探究 | Elevate Science Grade 3 Topic 4 第2课 · Savvas | [PNG](<海报/g3-t4-l2-气候变化.png>) · [PDF](<海报/g3-t4-l2-气候变化.pdf>) |
+| 世界有哪些气候？ | 三年级 | Topic 4 气候（Climate） | 第3课 世界的气候（World Climates） | （未公开） | 示例探究 | Elevate Science Grade 3 Topic 4 第3课 · Savvas | [PNG](<海报/g3-t4-l3-世界的气候.png>) · [PDF](<海报/g3-t4-l3-世界的气候.pdf>) |
+| 动物的一生都一样吗？ | 三年级 | Topic 5 生命周期与性状（Life Cycles and Traits） | 第1课 生命周期（Life Cycles） | （未公开） | 示例探究 | Elevate Science Grade 3 Topic 5 第1课 · Savvas | [PNG](<海报/g3-t5-l1-生命周期.png>) · [PDF](<海报/g3-t5-l1-生命周期.pdf>) |
+| 你像爸爸还是妈妈？ | 三年级 | Topic 5 生命周期与性状（Life Cycles and Traits） | 第2课 遗传性状（Inherited Traits） | （未公开） | 示例探究 | Elevate Science Grade 3 Topic 5 第2课 · Savvas | [PNG](<海报/g3-t5-l2-遗传性状.png>) · [PDF](<海报/g3-t5-l2-遗传性状.pdf>) |
+| 环境会改变性状吗？ | 三年级 | Topic 5 生命周期与性状（Life Cycles and Traits） | 第3课 受环境影响的性状（Traits Influenced by the Environments） | （未公开） | 示例探究 | Elevate Science Grade 3 Topic 5 第3课 · Savvas | [PNG](<海报/g3-t5-l3-受环境影响的性状.png>) · [PDF](<海报/g3-t5-l3-受环境影响的性状.pdf>) |
+| 海狮怎样保暖？ | 三年级 | Topic 6 适应与生存（Adaptations and Survival） | 第1课 个体的生存（Survival of Individuals） | uInvestigate Lab: How do sea lions stay warm in cold waters? | 教材活动 | Elevate Science Grade 3 Topic 6 第1课 · Savvas | [PNG](<海报/g3-t6-l1-个体的生存.png>) · [PDF](<海报/g3-t6-l1-个体的生存.pdf>) |
+| 大雁为什么排成V字？ | 三年级 | Topic 6 适应与生存（Adaptations and Survival） | 第2课 群体的生存（Survival of Groups） | uInvestigate Lab: How do some birds fly so far? | 教材活动 | Elevate Science Grade 3 Topic 6 第2课 · Savvas | [PNG](<海报/g3-t6-l2-群体的生存.png>) · [PDF](<海报/g3-t6-l2-群体的生存.pdf>) |
+| 海平面升高会怎样？ | 三年级 | Topic 6 适应与生存（Adaptations and Survival） | 第3课 环境改变时的生存（Survival When Environments Change） | uInvestigate Lab: How will sea levels affect tigers? | 教材活动 | Elevate Science Grade 3 Topic 6 第3课 · Savvas | [PNG](<海报/g3-t6-l3-环境改变时的生存.png>) · [PDF](<海报/g3-t6-l3-环境改变时的生存.pdf>) |
+| 化石是怎样形成的？ | 三年级 | Topic 7 化石证据（Fossil Evidence） | 第1课 化石（Fossils） | uInvestigate Lab: How do minerals help form fossils? | 教材活动 | Elevate Science Grade 3 Topic 7 第1课 · Savvas | [PNG](<海报/g3-t7-l1-化石.png>) · [PDF](<海报/g3-t7-l1-化石.pdf>) |
+| 脚印能说什么？ | 三年级 | Topic 7 化石证据（Fossil Evidence） | 第2课 化石是记录（Fossils as a Record） | uInvestigate Lab: What can fossil footprints tell you about an animal? | 教材活动 | Elevate Science Grade 3 Topic 7 第2课 · Savvas | [PNG](<海报/g3-t7-l2-化石是记录.png>) · [PDF](<海报/g3-t7-l2-化石是记录.pdf>) |
+| 化石能看出气候吗？ | 三年级 | Topic 7 化石证据（Fossil Evidence） | 第3课 生物与气候变化（Living Things and Climate Change） | uInvestigate Lab: How can you use evidence to infer climate change? | 教材活动 | Elevate Science Grade 3 Topic 7 第3课 · Savvas | [PNG](<海报/g3-t7-l3-生物与气候变化.png>) · [PDF](<海报/g3-t7-l3-生物与气候变化.pdf>) |
