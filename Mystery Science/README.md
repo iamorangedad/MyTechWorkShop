@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 32 个单元、137 个谜题。谜题数不超过 250，所以每个谜题一张海报，共 137 张。已完成 88 张（PNG + PDF）。每张海报用 01/02/03 三步画出谜题的问题和动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
+全套 32 个单元、137 个谜题。谜题数不超过 250，所以每个谜题一张海报，共 137 张。已完成 112 张（PNG + PDF）。每张海报用 01/02/03 三步画出谜题的问题和动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 单元 | 谜题 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -99,3 +99,27 @@
 | 空中飞人能荡多高？ | 三年级 | 力、运动与磁铁（Forces, Motion, & Magnets） | 谜题3 荡空中飞人秋千能荡多高？ | Mystery Science 3rd Grade Forces, Motion, & Magnets 谜题3 · Mystery Science | [PNG](<海报/g3-fm-m3-运动规律-重力与摩擦力.png>) · [PDF](<海报/g3-fm-m3-运动规律-重力与摩擦力.pdf>) |
 | 磁铁能做什么？ | 三年级 | 力、运动与磁铁（Forces, Motion, & Magnets） | 谜题4 磁铁能做什么？ | Mystery Science 3rd Grade Forces, Motion, & Magnets 谜题4 · Mystery Science | [PNG](<海报/g3-fm-m4-磁铁与力.png>) · [PDF](<海报/g3-fm-m4-磁铁与力.pdf>) |
 | 怎样用磁铁开门锁？ | 三年级 | 力、运动与磁铁（Forces, Motion, & Magnets） | 谜题5 怎样用磁铁打开一扇门？ | Mystery Science 3rd Grade Forces, Motion, & Magnets 谜题5 · Mystery Science | [PNG](<海报/g3-fm-m5-磁铁与工程.png>) · [PDF](<海报/g3-fm-m5-磁铁与工程.pdf>) |
+| 肱二头肌为何鼓起？ | 四年级 | 人体、视觉与大脑（Human Body, Vision, & The Brain） | 谜题1 为什么肱二头肌会鼓起来？ | Mystery Science 4th Grade Human Body, Vision, & The Brain 谜题1 · Mystery Science | [PNG](<海报/g4-hb-m1-肌肉与骨骼.png>) · [PDF](<海报/g4-hb-m1-肌肉与骨骼.pdf>) |
+| 盲人看到的是什么？ | 四年级 | 人体、视觉与大脑（Human Body, Vision, & The Brain） | 谜题2 盲人看到的是什么？ | Mystery Science 4th Grade Human Body, Vision, & The Brain 谜题2 · Mystery Science | [PNG](<海报/g4-hb-m2-光-眼睛与视觉.png>) · [PDF](<海报/g4-hb-m2-光-眼睛与视觉.pdf>) |
+| 动物怎样在夜里看见？ | 四年级 | 人体、视觉与大脑（Human Body, Vision, & The Brain） | 谜题3 为什么有些动物在黑暗中也能看见？ | Mystery Science 4th Grade Human Body, Vision, & The Brain 谜题3 · Mystery Science | [PNG](<海报/g4-hb-m3-眼睛的结构与功能.png>) · [PDF](<海报/g4-hb-m3-眼睛的结构与功能.pdf>) |
+| 大脑怎样控制身体？ | 四年级 | 人体、视觉与大脑（Human Body, Vision, & The Brain） | 谜题4 大脑是怎样控制身体的？ | Mystery Science 4th Grade Human Body, Vision, & The Brain 谜题4 · Mystery Science | [PNG](<海报/g4-hb-m4-大脑-神经与信息处理.png>) · [PDF](<海报/g4-hb-m4-大脑-神经与信息处理.pdf>) |
+| 海洋生物为何长得怪？ | 四年级 | 动植物的适应（Animal & Plant Adaptations） | 谜题1 为什么有些海洋生物长得那么奇怪？ | Mystery Science 4th Grade Animal & Plant Adaptations 谜题1 · Mystery Science | [PNG](<海报/g4-ad-m1-动物的适应.png>) · [PDF](<海报/g4-ad-m1-动物的适应.pdf>) |
+| 海龟为什么吃塑料袋？ | 四年级 | 动植物的适应（Animal & Plant Adaptations） | 谜题2 海龟为什么会吃塑料袋？ | Mystery Science 4th Grade Animal & Plant Adaptations 谜题2 · Mystery Science | [PNG](<海报/g4-ad-m2-习得行为与本能.png>) · [PDF](<海报/g4-ad-m2-习得行为与本能.pdf>) |
+| 树为何各地不同？ | 四年级 | 动植物的适应（Animal & Plant Adaptations） | 谜题3 为什么不是每个地方都长同样的树？ | Mystery Science 4th Grade Animal & Plant Adaptations 谜题3 · Mystery Science | [PNG](<海报/g4-ad-m3-植物的适应.png>) · [PDF](<海报/g4-ad-m3-植物的适应.pdf>) |
+| 你家附近会冒出火山吗？ | 四年级 | 地球的地貌与变化过程（Earth's Features & Processes） | 谜题1 你住的地方会冒出一座火山吗？ | Mystery Science 4th Grade Earth's Features & Processes 谜题1 · Mystery Science | [PNG](<海报/g4-ef-m1-火山与地貌分布规律.png>) · [PDF](<海报/g4-ef-m1-火山与地貌分布规律.pdf>) |
+| 有些火山为何会爆炸？ | 四年级 | 地球的地貌与变化过程（Earth's Features & Processes） | 谜题2 为什么有些火山会爆炸式喷发？ | Mystery Science 4th Grade Earth's Features & Processes 谜题2 · Mystery Science | [PNG](<海报/g4-ef-m2-火山与岩石循环.png>) · [PDF](<海报/g4-ef-m2-火山与岩石循环.pdf>) |
+| 山会永远存在吗？ | 四年级 | 地球的地貌与变化过程（Earth's Features & Processes） | 谜题3 一座山会永远存在吗？ | Mystery Science 4th Grade Earth's Features & Processes 谜题3 · Mystery Science | [PNG](<海报/g4-ef-m3-风化与侵蚀.png>) · [PDF](<海报/g4-ef-m3-风化与侵蚀.pdf>) |
+| 一亿年前家乡啥样？ | 四年级 | 地球的地貌与变化过程（Earth's Features & Processes） | 谜题4 1 亿年前你住的地方是什么样子？ | Mystery Science 4th Grade Earth's Features & Processes 谜题4 · Mystery Science | [PNG](<海报/g4-ef-m4-沉积岩与化石.png>) · [PDF](<海报/g4-ef-m4-沉积岩与化石.pdf>) |
+| 能设计抗震建筑吗？ | 四年级 | 地球的地貌与变化过程（Earth's Features & Processes） | 谜题5 你能设计一座经得住地震的建筑吗？ | Mystery Science 4th Grade Earth's Features & Processes 谜题5 · Mystery Science | [PNG](<海报/g4-ef-m5-地震与工程.png>) · [PDF](<海报/g4-ef-m5-地震与工程.pdf>) |
+| 怎样发送秘密代码？ | 四年级 | 声音、波与通信（Sound, Waves, & Communication） | 谜题1 怎样发送一条秘密代码？ | Mystery Science 4th Grade Sound, Waves, & Communication 谜题1 · Mystery Science | [PNG](<海报/g4-sd-m1-信息传递与技术.png>) · [PDF](<海报/g4-sd-m1-信息传递与技术.pdf>) |
+| 悄悄话能传多远？ | 四年级 | 声音、波与通信（Sound, Waves, & Communication） | 谜题2 悄悄话能传多远？ | Mystery Science 4th Grade Sound, Waves, & Communication 谜题2 · Mystery Science | [PNG](<海报/g4-sd-m2-声音-振动与工程.png>) · [PDF](<海报/g4-sd-m2-声音-振动与工程.pdf>) |
+| 在太空尖叫会怎样？ | 四年级 | 声音、波与通信（Sound, Waves, & Communication） | 谜题3 如果在太空里尖叫会怎样？ | Mystery Science 4th Grade Sound, Waves, & Communication 谜题3 · Mystery Science | [PNG](<海报/g4-sd-m3-声音与振动.png>) · [PDF](<海报/g4-sd-m3-声音与振动.pdf>) |
+| 声音为何有高有低？ | 四年级 | 声音、波与通信（Sound, Waves, & Communication） | 谜题4 为什么有的声音高、有的声音低？ | Mystery Science 4th Grade Sound, Waves, & Communication 谜题4 · Mystery Science | [PNG](<海报/g4-sd-m4-声波与波长.png>) · [PDF](<海报/g4-sd-m4-声波与波长.pdf>) |
+| 身体和汽车哪里像？ | 四年级 | 能量与能量传递（Energy & Energy Transfer） | 谜题1 你的身体和汽车有什么相像？ | Mystery Science 4th Grade Energy & Energy Transfer 谜题1 · Mystery Science | [PNG](<海报/g4-en-m1-速度与能量.png>) · [PDF](<海报/g4-en-m1-速度与能量.pdf>) |
+| 过山车为何那么快？ | 四年级 | 能量与能量传递（Energy & Energy Transfer） | 谜题2 是什么让过山车跑得那么快？ | Mystery Science 4th Grade Energy & Energy Transfer 谜题2 · Mystery Science | [PNG](<海报/g4-en-m2-重力势能-速度与碰撞.png>) · [PDF](<海报/g4-en-m2-重力势能-速度与碰撞.pdf>) |
+| 弹珠怎样拯救世界？ | 四年级 | 能量与能量传递（Energy & Energy Transfer） | 谜题3 弹珠怎样拯救世界？ | Mystery Science 4th Grade Energy & Energy Transfer 谜题3 · Mystery Science | [PNG](<海报/g4-en-m3-碰撞与能量传递.png>) · [PDF](<海报/g4-en-m3-碰撞与能量传递.pdf>) |
+| 多米诺能推倒大楼吗？ | 四年级 | 能量与能量传递（Energy & Energy Transfer） | 谜题4 只用多米诺骨牌能推倒一栋楼吗？ | Mystery Science 4th Grade Energy & Energy Transfer 谜题4 · Mystery Science | [PNG](<海报/g4-en-m4-能量传递与工程.png>) · [PDF](<海报/g4-en-m4-能量传递与工程.pdf>) |
+| 能做连锁反应机吗？ | 四年级 | 能量与能量传递（Energy & Energy Transfer） | 谜题5 你能做一台连锁反应机吗？ | Mystery Science 4th Grade Energy & Energy Transfer 谜题5 · Mystery Science | [PNG](<海报/g4-en-m5-能量传递与工程.png>) · [PDF](<海报/g4-en-m5-能量传递与工程.pdf>) |
+| 怎样点亮城市最好？ | 四年级 | 电、光与热（Electricity, Light, & Heat） | 谜题1 点亮一座城市的最好方法是什么？ | Mystery Science 4th Grade Electricity, Light, & Heat 谜题1 · Mystery Science | [PNG](<海报/g4-el-m1-可再生能源与自然资源.png>) · [PDF](<海报/g4-el-m1-可再生能源与自然资源.pdf>) |
+| 如果没有电会怎样？ | 四年级 | 电、光与热（Electricity, Light, & Heat） | 谜题2 如果没有电会怎样？ | Mystery Science 4th Grade Electricity, Light, & Heat 谜题2 · Mystery Science | [PNG](<海报/g4-el-m2-电能.png>) · [PDF](<海报/g4-el-m2-电能.pdf>) |
+| 没车怎样横穿美国？ | 四年级 | 电、光与热（Electricity, Light, & Heat） | 谜题3 在有汽车和飞机之前，横穿美国要多久？ | Mystery Science 4th Grade Electricity, Light, & Heat 谜题3 · Mystery Science | [PNG](<海报/g4-el-m3-热能与能量传递.png>) · [PDF](<海报/g4-el-m3-热能与能量传递.pdf>) |
