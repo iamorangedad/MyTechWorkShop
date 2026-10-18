@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 25 个单元、80 个 Scope。Scope 数不超过 250，所以每个 Scope 一张海报，共 80 张。已完成 12 张（PNG + PDF），其中教材活动 0 张、示例探究 12 张。每张海报的 01/02/03 三行对应 5E 的 Engage（现象）、Explore（探究）、Explain（结论），小结框里的「拓展」对应 Elaborate，底部标注教材来源。「教材活动」表示第 02 行画的是官方公开的 Explore 活动（活动名写在海报上；有官方样课的按样课步骤，只有简介的注明步骤为示意）；「示例探究」表示官方没有公开这个 Scope 的活动，海报改用本项目设计的探究。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
+全套 25 个单元、80 个 Scope。Scope 数不超过 250，所以每个 Scope 一张海报，共 80 张。已完成 24 张（PNG + PDF），其中教材活动 1 张、示例探究 23 张。每张海报的 01/02/03 三行对应 5E 的 Engage（现象）、Explore（探究）、Explain（结论），小结框里的「拓展」对应 Elaborate，底部标注教材来源。「教材活动」表示第 02 行画的是官方公开的 Explore 活动（活动名写在海报上；有官方样课的按样课步骤，只有简介的注明步骤为示意）；「示例探究」表示官方没有公开这个 Scope 的活动，海报改用本项目设计的探究。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
 
 | 海报 | 年级 | 单元 | 章（Scope） | 官方 Explore 活动 | 活动类型 | 教材来源 | 文件 |
 |---|---|---|---|---|---|---|---|
@@ -23,3 +23,15 @@
 | 东西从哪里来？ | 幼儿园 | 单元3 生物与栖息地（Living Things and Their Habitats） | 第3章 利用自然资源（Uses of Natural Resources） | （未公开） | 示例探究 | STEMscopes Kindergarten Uses of Natural Resources · Accelerate Learning | [PNG](<海报/g0-b3-s3-利用自然资源.png>) · [PDF](<海报/g0-b3-s3-利用自然资源.pdf>) |
 | 推一推，拉一拉 | 幼儿园 | 单元4 用力改变运动（Using Force to Change Motion） | 第1章 推和拉（Pushes and Pulls） | （未公开） | 示例探究 | STEMscopes Kindergarten Pushes and Pulls · Accelerate Learning | [PNG](<海报/g0-b4-s1-推和拉.png>) · [PDF](<海报/g0-b4-s1-推和拉.pdf>) |
 | 怎样改变方向？ | 幼儿园 | 单元4 用力改变运动（Using Force to Change Motion） | 第2章 速度与方向（Speed and Direction） | （未公开） | 示例探究 | STEMscopes Kindergarten Speed and Direction · Accelerate Learning | [PNG](<海报/g0-b4-s2-速度与方向.png>) · [PDF](<海报/g0-b4-s2-速度与方向.pdf>) |
+| 动物身体有什么？ | 一年级 | 单元1 向自然学设计（Design from Nature） | 第1章 动物的身体部位（Parts of Animals） | （未公开） | 示例探究 | STEMscopes Grade 1 Parts of Animals · Accelerate Learning | [PNG](<海报/g1-b1-s1-动物的身体部位.png>) · [PDF](<海报/g1-b1-s1-动物的身体部位.pdf>) |
+| 身体怎样帮动物？ | 一年级 | 单元1 向自然学设计（Design from Nature） | 第2章 动物怎样生存（Animal Survival） | （未公开） | 示例探究 | STEMscopes Grade 1 Animal Survival · Accelerate Learning | [PNG](<海报/g1-b1-s2-动物怎样生存.png>) · [PDF](<海报/g1-b1-s2-动物怎样生存.pdf>) |
+| 植物有哪些部分？ | 一年级 | 单元1 向自然学设计（Design from Nature） | 第3章 植物的部位（Parts of Plants） | （未公开） | 示例探究 | STEMscopes Grade 1 Parts of Plants · Accelerate Learning | [PNG](<海报/g1-b1-s3-植物的部位.png>) · [PDF](<海报/g1-b1-s3-植物的部位.pdf>) |
+| 植物怎样保护自己？ | 一年级 | 单元1 向自然学设计（Design from Nature） | 第4章 植物怎样生存（Plant Survival） | （未公开） | 示例探究 | STEMscopes Grade 1 Plant Survival · Accelerate Learning | [PNG](<海报/g1-b1-s4-植物怎样生存.png>) · [PDF](<海报/g1-b1-s4-植物怎样生存.pdf>) |
+| 爸妈怎样护宝宝？ | 一年级 | 单元2 亲代与后代（Parents and Their Offspring） | 第1章 保护幼崽（Protecting the Young） | （未公开） | 示例探究 | STEMscopes Grade 1 Protecting the Young · Accelerate Learning | [PNG](<海报/g1-b2-s1-保护幼崽.png>) · [PDF](<海报/g1-b2-s1-保护幼崽.pdf>) |
+| 小猫像妈妈吗？ | 一年级 | 单元2 亲代与后代（Parents and Their Offspring） | 第2章 动物性状的遗传与差异（Animal Trait Inheritance and Variation） | （未公开） | 示例探究 | STEMscopes Grade 1 Animal Trait Inheritance and Variation · Accelerate Learning | [PNG](<海报/g1-b2-s2-动物性状的遗传与差异.png>) · [PDF](<海报/g1-b2-s2-动物性状的遗传与差异.pdf>) |
+| 小苗像母株吗？ | 一年级 | 单元2 亲代与后代（Parents and Their Offspring） | 第3章 植物性状的遗传与差异（Plant Trait Inheritance and Variation） | （未公开） | 示例探究 | STEMscopes Grade 1 Plant Trait Inheritance and Variation · Accelerate Learning | [PNG](<海报/g1-b2-s3-植物性状的遗传与差异.png>) · [PDF](<海报/g1-b2-s3-植物性状的遗传与差异.pdf>) |
+| 白天有多长？ | 一年级 | 单元3 天空的规律（Patterns in the Sky） | 第1章 季节的规律（Seasonal Patterns） | （未公开） | 示例探究 | STEMscopes Grade 1 Seasonal Patterns · Accelerate Learning | [PNG](<海报/g1-b3-s1-季节的规律.png>) · [PDF](<海报/g1-b3-s1-季节的规律.pdf>) |
+| 月亮怎样变？ | 一年级 | 单元3 天空的规律（Patterns in the Sky） | 第2章 太空中的规律（Patterns in Space） | （未公开） | 示例探究 | STEMscopes Grade 1 Patterns in Space · Accelerate Learning | [PNG](<海报/g1-b3-s2-太空中的规律.png>) · [PDF](<海报/g1-b3-s2-太空中的规律.pdf>) |
+| 声音从哪来？ | 一年级 | 单元4 用光和声音交流（Communicating with Light and Sound） | 第1章 声音（Sound） | （未公开） | 示例探究 | STEMscopes Grade 1 Sound · Accelerate Learning | [PNG](<海报/g1-b4-s1-声音.png>) · [PDF](<海报/g1-b4-s1-声音.pdf>) |
+| 光能穿过吗？ | 一年级 | 单元4 用光和声音交流（Communicating with Light and Sound） | 第2章 光的行为（Behavior of Light） | （未公开） | 示例探究 | STEMscopes Grade 1 Behavior of Light · Accelerate Learning | [PNG](<海报/g1-b4-s2-光的行为.png>) · [PDF](<海报/g1-b4-s2-光的行为.pdf>) |
+| 怎样远距离传话？ | 一年级 | 单元4 用光和声音交流（Communicating with Light and Sound） | 第3章 交流（Communication） | Talking with Lights、What Did We Hear? | 教材活动 | STEMscopes Grade 1 Communication · Accelerate Learning | [PNG](<海报/g1-b4-s3-交流.png>) · [PDF](<海报/g1-b4-s3-交流.pdf>) |
