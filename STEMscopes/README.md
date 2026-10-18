@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 25 个单元、80 个 Scope。Scope 数不超过 250，所以每个 Scope 一张海报，共 80 张。已完成 36 张（PNG + PDF），其中教材活动 2 张、示例探究 34 张。每张海报的 01/02/03 三行对应 5E 的 Engage（现象）、Explore（探究）、Explain（结论），小结框里的「拓展」对应 Elaborate，底部标注教材来源。「教材活动」表示第 02 行画的是官方公开的 Explore 活动（活动名写在海报上；有官方样课的按样课步骤，只有简介的注明步骤为示意）；「示例探究」表示官方没有公开这个 Scope 的活动，海报改用本项目设计的探究。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
+全套 25 个单元、80 个 Scope。Scope 数不超过 250，所以每个 Scope 一张海报，共 80 张。已完成 49 张（PNG + PDF），其中教材活动 5 张、示例探究 44 张。每张海报的 01/02/03 三行对应 5E 的 Engage（现象）、Explore（探究）、Explain（结论），小结框里的「拓展」对应 Elaborate，底部标注教材来源。「教材活动」表示第 02 行画的是官方公开的 Explore 活动（活动名写在海报上；有官方样课的按样课步骤，只有简介的注明步骤为示意）；「示例探究」表示官方没有公开这个 Scope 的活动，海报改用本项目设计的探究。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
 
 | 海报 | 年级 | 单元 | 章（Scope） | 官方 Explore 活动 | 活动类型 | 教材来源 | 文件 |
 |---|---|---|---|---|---|---|---|
@@ -47,3 +47,16 @@
 | 雨衣用什么做？ | 二年级 | 单元4 设计中选择和使用材料（Selecting and Using Materials in the Design Process） | 第2章 材料的性质（Properties of Materials） | （未公开） | 示例探究 | STEMscopes Grade 2 Properties of Materials · Accelerate Learning | [PNG](<海报/g2-b4-s2-材料的性质.png>) · [PDF](<海报/g2-b4-s2-材料的性质.pdf>) |
 | 小块能拼成什么？ | 二年级 | 单元4 设计中选择和使用材料（Selecting and Using Materials in the Design Process） | 第3章 物质的组成单元（Building Blocks of Matter） | （未公开） | 示例探究 | STEMscopes Grade 2 Building Blocks of Matter · Accelerate Learning | [PNG](<海报/g2-b4-s3-物质的组成单元.png>) · [PDF](<海报/g2-b4-s3-物质的组成单元.pdf>) |
 | 加热能变回来吗？ | 二年级 | 单元4 设计中选择和使用材料（Selecting and Using Materials in the Design Process） | 第4章 受热带来的变化（Changes from Heat） | （未公开） | 示例探究 | STEMscopes Grade 2 Changes from Heat · Accelerate Learning | [PNG](<海报/g2-b4-s4-受热带来的变化.png>) · [PDF](<海报/g2-b4-s4-受热带来的变化.pdf>) |
+| 一生有几个阶段？ | 三年级 | 单元1 动物的发育与生存（Animal Development and Survival） | 第1章 生命周期（Life Cycles） | （未公开） | 示例探究 | STEMscopes Grade 3 Life Cycles · Accelerate Learning | [PNG](<海报/g3-b1-s1-生命周期.png>) · [PDF](<海报/g3-b1-s1-生命周期.pdf>) |
+| 群居有什么好处？ | 三年级 | 单元1 动物的发育与生存（Animal Development and Survival） | 第2章 群体行为（Social and Group Behavior） | Collect and Conquer!、Strength in Numbers | 教材活动 | STEMscopes Grade 3 Social and Group Behavior · Accelerate Learning | [PNG](<海报/g3-b1-s2-群体行为.png>) · [PDF](<海报/g3-b1-s2-群体行为.pdf>) |
+| 为什么各不相同？ | 三年级 | 单元2 环境与生物性状（Environments and the Traits of Organisms） | 第1章 性状的遗传与差异（Inheritance and Variation of Traits） | （未公开） | 示例探究 | STEMscopes Grade 3 Inheritance and Variation of Traits · Accelerate Learning | [PNG](<海报/g3-b2-s1-性状的遗传与差异.png>) · [PDF](<海报/g3-b2-s1-性状的遗传与差异.pdf>) |
+| 环境能改变性状吗？ | 三年级 | 单元2 环境与生物性状（Environments and the Traits of Organisms） | 第2章 受环境影响的性状（Environmental Traits） | （未公开） | 示例探究 | STEMscopes Grade 3 Environmental Traits · Accelerate Learning | [PNG](<海报/g3-b2-s2-受环境影响的性状.png>) · [PDF](<海报/g3-b2-s2-受环境影响的性状.pdf>) |
+| 北极熊为何不怕冷？ | 三年级 | 单元2 环境与生物性状（Environments and the Traits of Organisms） | 第3章 适应（Adaptations） | （未公开） | 示例探究 | STEMscopes Grade 3 Adaptations · Accelerate Learning | [PNG](<海报/g3-b2-s3-适应.png>) · [PDF](<海报/g3-b2-s3-适应.pdf>) |
+| 环境变了怎么办？ | 三年级 | 单元2 环境与生物性状（Environments and the Traits of Organisms） | 第4章 环境变化及影响（Environmental Changes and Effects） | （未公开） | 示例探究 | STEMscopes Grade 3 Environmental Changes and Effects · Accelerate Learning | [PNG](<海报/g3-b2-s4-环境变化及影响.png>) · [PDF](<海报/g3-b2-s4-环境变化及影响.pdf>) |
+| 恐龙去哪儿了？ | 三年级 | 单元3 生物随时间变化（Organisms Change Over Time） | 第1章 动植物的灭绝（Plant and Animal Extinction） | （未公开） | 示例探究 | STEMscopes Grade 3 Plant and Animal Extinction · Accelerate Learning | [PNG](<海报/g3-b3-s1-动植物的灭绝.png>) · [PDF](<海报/g3-b3-s1-动植物的灭绝.pdf>) |
+| 化石怎样形成？ | 三年级 | 单元3 生物随时间变化（Organisms Change Over Time） | 第2章 化石（Fossils） | （未公开） | 示例探究 | STEMscopes Grade 3 Fossils · Accelerate Learning | [PNG](<海报/g3-b3-s2-化石.png>) · [PDF](<海报/g3-b3-s2-化石.pdf>) |
+| 谁更容易活下来？ | 三年级 | 单元3 生物随时间变化（Organisms Change Over Time） | 第3章 适者生存（Survival of the Fittest） | （未公开） | 示例探究 | STEMscopes Grade 3 Survival of the Fittest · Accelerate Learning | [PNG](<海报/g3-b3-s3-适者生存.png>) · [PDF](<海报/g3-b3-s3-适者生存.pdf>) |
+| 各地气候一样吗？ | 三年级 | 单元4 应对全球的恶劣天气（Dealing with Hazardous Weather Worldwide） | 第1章 天气与气候（Weather and Climate） | （未公开） | 示例探究 | STEMscopes Grade 3 Weather and Climate · Accelerate Learning | [PNG](<海报/g3-b4-s1-天气与气候.png>) · [PDF](<海报/g3-b4-s1-天气与气候.pdf>) |
+| 怎样防恶劣天气？ | 三年级 | 单元4 应对全球的恶劣天气（Dealing with Hazardous Weather Worldwide） | 第2章 自然灾害的过程与影响（Processes and Impacts of Natural Hazards） | （未公开） | 示例探究 | STEMscopes Grade 3 Processes and Impacts of Natural Hazards · Accelerate Learning | [PNG](<海报/g3-b4-s2-自然灾害的过程与影响.png>) · [PDF](<海报/g3-b4-s2-自然灾害的过程与影响.pdf>) |
+| 力怎样改变运动？ | 三年级 | 单元5 利用磁力（Using Magnetic Force） | 第1章 物体与运动（Objects and Motion） | Motion Stations、My Motion Investigation | 教材活动 | STEMscopes Grade 3 Objects and Motion · Accelerate Learning | [PNG](<海报/g3-b5-s1-物体与运动.png>) · [PDF](<海报/g3-b5-s1-物体与运动.pdf>) |
+| 磁铁怎样相互作用？ | 三年级 | 单元5 利用磁力（Using Magnetic Force） | 第2章 电力和磁力（Electric and Magnetic Forces） | Forces in Action、Magnetic Racetrack | 教材活动 | STEMscopes Grade 3 Electric and Magnetic Forces · Accelerate Learning | [PNG](<海报/g3-b5-s2-电力和磁力.png>) · [PDF](<海报/g3-b5-s2-电力和磁力.pdf>) |
