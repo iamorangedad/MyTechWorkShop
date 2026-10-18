@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 25 个单元、80 个 Scope。Scope 数不超过 250，所以每个 Scope 一张海报，共 80 张。已完成 49 张（PNG + PDF），其中教材活动 5 张、示例探究 44 张。每张海报的 01/02/03 三行对应 5E 的 Engage（现象）、Explore（探究）、Explain（结论），小结框里的「拓展」对应 Elaborate，底部标注教材来源。「教材活动」表示第 02 行画的是官方公开的 Explore 活动（活动名写在海报上；有官方样课的按样课步骤，只有简介的注明步骤为示意）；「示例探究」表示官方没有公开这个 Scope 的活动，海报改用本项目设计的探究。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
+全套 25 个单元、80 个 Scope。Scope 数不超过 250，所以每个 Scope 一张海报，共 80 张。已完成 64 张（PNG + PDF），其中教材活动 6 张、示例探究 58 张。每张海报的 01/02/03 三行对应 5E 的 Engage（现象）、Explore（探究）、Explain（结论），小结框里的「拓展」对应 Elaborate，底部标注教材来源。「教材活动」表示第 02 行画的是官方公开的 Explore 活动（活动名写在海报上；有官方样课的按样课步骤，只有简介的注明步骤为示意）；「示例探究」表示官方没有公开这个 Scope 的活动，海报改用本项目设计的探究。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
 
 | 海报 | 年级 | 单元 | 章（Scope） | 官方 Explore 活动 | 活动类型 | 教材来源 | 文件 |
 |---|---|---|---|---|---|---|---|
@@ -60,3 +60,18 @@
 | 怎样防恶劣天气？ | 三年级 | 单元4 应对全球的恶劣天气（Dealing with Hazardous Weather Worldwide） | 第2章 自然灾害的过程与影响（Processes and Impacts of Natural Hazards） | （未公开） | 示例探究 | STEMscopes Grade 3 Processes and Impacts of Natural Hazards · Accelerate Learning | [PNG](<海报/g3-b4-s2-自然灾害的过程与影响.png>) · [PDF](<海报/g3-b4-s2-自然灾害的过程与影响.pdf>) |
 | 力怎样改变运动？ | 三年级 | 单元5 利用磁力（Using Magnetic Force） | 第1章 物体与运动（Objects and Motion） | Motion Stations、My Motion Investigation | 教材活动 | STEMscopes Grade 3 Objects and Motion · Accelerate Learning | [PNG](<海报/g3-b5-s1-物体与运动.png>) · [PDF](<海报/g3-b5-s1-物体与运动.pdf>) |
 | 磁铁怎样相互作用？ | 三年级 | 单元5 利用磁力（Using Magnetic Force） | 第2章 电力和磁力（Electric and Magnetic Forces） | Forces in Action、Magnetic Racetrack | 教材活动 | STEMscopes Grade 3 Electric and Magnetic Forces · Accelerate Learning | [PNG](<海报/g3-b5-s2-电力和磁力.png>) · [PDF](<海报/g3-b5-s2-电力和磁力.pdf>) |
+| 玫瑰为何长刺？ | 四年级 | 单元1 生物的结构与行为（Organism Structures and Behavior） | 第1章 动植物的部位（Plant and Animal Parts） | （未公开） | 示例探究 | STEMscopes Grade 4 Plant and Animal Parts · Accelerate Learning | [PNG](<海报/g4-b1-s1-动植物的部位.png>) · [PDF](<海报/g4-b1-s1-动植物的部位.pdf>) |
+| 猫头鹰怎样捕鼠？ | 四年级 | 单元1 生物的结构与行为（Organism Structures and Behavior） | 第2章 感受器（Sense Receptors） | （未公开） | 示例探究 | STEMscopes Grade 4 Sense Receptors · Accelerate Learning | [PNG](<海报/g4-b1-s2-感受器.png>) · [PDF](<海报/g4-b1-s2-感受器.pdf>) |
+| 岩层告诉我们什么？ | 四年级 | 单元2 地表与资源的长期变化（Changes Over Time to Earth's Surface and Resources） | 第1章 岩石的规律（Rock Patterns） | Rock Layers、Earthquake! | 教材活动 | STEMscopes Grade 4 Rock Patterns · Accelerate Learning | [PNG](<海报/g4-b2-s1-岩石的规律.png>) · [PDF](<海报/g4-b2-s1-岩石的规律.pdf>) |
+| 河水能搬多远？ | 四年级 | 单元2 地表与资源的长期变化（Changes Over Time to Earth's Surface and Resources） | 第2章 变化的陆地（Changing Land） | （未公开） | 示例探究 | STEMscopes Grade 4 Changing Land · Accelerate Learning | [PNG](<海报/g4-b2-s2-变化的陆地.png>) · [PDF](<海报/g4-b2-s2-变化的陆地.pdf>) |
+| 地震火山在哪？ | 四年级 | 单元2 地表与资源的长期变化（Changes Over Time to Earth's Surface and Resources） | 第3章 板块构造（Plate Tectonics） | （未公开） | 示例探究 | STEMscopes Grade 4 Plate Tectonics · Accelerate Learning | [PNG](<海报/g4-b2-s3-板块构造.png>) · [PDF](<海报/g4-b2-s3-板块构造.pdf>) |
+| 煤会用完吗？ | 四年级 | 单元2 地表与资源的长期变化（Changes Over Time to Earth's Surface and Resources） | 第4章 可再生与不可再生资源（Renewable and Nonrenewable Resources） | （未公开） | 示例探究 | STEMscopes Grade 4 Renewable and Nonrenewable Resources · Accelerate Learning | [PNG](<海报/g4-b2-s4-可再生与不可再生资源.png>) · [PDF](<海报/g4-b2-s4-可再生与不可再生资源.pdf>) |
+| 楼房怎样抗震？ | 四年级 | 单元2 地表与资源的长期变化（Changes Over Time to Earth's Surface and Resources） | 第5章 自然过程（Natural Processes） | （未公开） | 示例探究 | STEMscopes Grade 4 Natural Processes · Accelerate Learning | [PNG](<海报/g4-b2-s5-自然过程.png>) · [PDF](<海报/g4-b2-s5-自然过程.pdf>) |
+| 电怎样点亮灯？ | 四年级 | 单元3 利用能量转化（Using Energy Transformations） | 第1章 能量转移与电流（Energy Transfer and Electric Currents） | （未公开） | 示例探究 | STEMscopes Grade 4 Energy Transfer and Electric Currents · Accelerate Learning | [PNG](<海报/g4-b3-s1-能量转移与电流.png>) · [PDF](<海报/g4-b3-s1-能量转移与电流.pdf>) |
+| 碰撞时能量去哪？ | 四年级 | 单元3 利用能量转化（Using Energy Transformations） | 第2章 碰撞中的能量转移（Transfer of Energy in Collision） | （未公开） | 示例探究 | STEMscopes Grade 4 Transfer of Energy in Collision · Accelerate Learning | [PNG](<海报/g4-b3-s2-碰撞中的能量转移.png>) · [PDF](<海报/g4-b3-s2-碰撞中的能量转移.pdf>) |
+| 越快能量越多吗？ | 四年级 | 单元3 利用能量转化（Using Energy Transformations） | 第3章 能量与速度（Energy and Speed） | （未公开） | 示例探究 | STEMscopes Grade 4 Energy and Speed · Accelerate Learning | [PNG](<海报/g4-b3-s3-能量与速度.png>) · [PDF](<海报/g4-b3-s3-能量与速度.pdf>) |
+| 皮筋能存能量吗？ | 四年级 | 单元3 利用能量转化（Using Energy Transformations） | 第4章 利用储存的能量（Using Stored Energy） | （未公开） | 示例探究 | STEMscopes Grade 4 Using Stored Energy · Accelerate Learning | [PNG](<海报/g4-b3-s4-利用储存的能量.png>) · [PDF](<海报/g4-b3-s4-利用储存的能量.pdf>) |
+| 波怎样传播？ | 四年级 | 单元4 用波的能量交流（Communicating Using Wave Energy） | 第1章 波的运动（Motion of Waves） | （未公开） | 示例探究 | STEMscopes Grade 4 Motion of Waves · Accelerate Learning | [PNG](<海报/g4-b4-s1-波的运动.png>) · [PDF](<海报/g4-b4-s1-波的运动.pdf>) |
+| 大浪小浪有何不同？ | 四年级 | 单元4 用波的能量交流（Communicating Using Wave Energy） | 第2章 波长与振幅（Wavelength and Amplitude） | （未公开） | 示例探究 | STEMscopes Grade 4 Wavelength and Amplitude · Accelerate Learning | [PNG](<海报/g4-b4-s2-波长与振幅.png>) · [PDF](<海报/g4-b4-s2-波长与振幅.pdf>) |
+| 我们怎样看见？ | 四年级 | 单元4 用波的能量交流（Communicating Using Wave Energy） | 第3章 光的反射（Light Reflection） | （未公开） | 示例探究 | STEMscopes Grade 4 Light Reflection · Accelerate Learning | [PNG](<海报/g4-b4-s3-光的反射.png>) · [PDF](<海报/g4-b4-s3-光的反射.pdf>) |
+| 图片怎样传出去？ | 四年级 | 单元4 用波的能量交流（Communicating Using Wave Energy） | 第4章 信息技术（Information Technologies） | （未公开） | 示例探究 | STEMscopes Grade 4 Information Technologies · Accelerate Learning | [PNG](<海报/g4-b4-s4-信息技术.png>) · [PDF](<海报/g4-b4-s4-信息技术.pdf>) |
