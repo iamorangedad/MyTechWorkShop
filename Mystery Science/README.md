@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 32 个单元、137 个谜题。谜题数不超过 250，所以每个谜题一张海报，共 137 张。已完成 112 张（PNG + PDF）。每张海报用 01/02/03 三步画出谜题的问题和动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
+全套 32 个单元、137 个谜题。谜题数不超过 250，所以每个谜题一张海报，共 137 张。已完成 137 张（PNG + PDF）。每张海报用 01/02/03 三步画出谜题的问题和动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 单元 | 谜题 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -123,3 +123,28 @@
 | 怎样点亮城市最好？ | 四年级 | 电、光与热（Electricity, Light, & Heat） | 谜题1 点亮一座城市的最好方法是什么？ | Mystery Science 4th Grade Electricity, Light, & Heat 谜题1 · Mystery Science | [PNG](<海报/g4-el-m1-可再生能源与自然资源.png>) · [PDF](<海报/g4-el-m1-可再生能源与自然资源.pdf>) |
 | 如果没有电会怎样？ | 四年级 | 电、光与热（Electricity, Light, & Heat） | 谜题2 如果没有电会怎样？ | Mystery Science 4th Grade Electricity, Light, & Heat 谜题2 · Mystery Science | [PNG](<海报/g4-el-m2-电能.png>) · [PDF](<海报/g4-el-m2-电能.pdf>) |
 | 没车怎样横穿美国？ | 四年级 | 电、光与热（Electricity, Light, & Heat） | 谜题3 在有汽车和飞机之前，横穿美国要多久？ | Mystery Science 4th Grade Electricity, Light, & Heat 谜题3 · Mystery Science | [PNG](<海报/g4-el-m3-热能与能量传递.png>) · [PDF](<海报/g4-el-m3-热能与能量传递.pdf>) |
+| 蚂蚁都消失会怎样？ | 五年级 | 生态系统与食物网（Ecosystems & The Food Web） | 谜题1 如果所有蚂蚁都消失了会怎样？ | Mystery Science 5th Grade Ecosystems & The Food Web 谜题1 · Mystery Science | [PNG](<海报/g5-ec-m1-食物链与物质流动.png>) · [PDF](<海报/g5-ec-m1-食物链与物质流动.pdf>) |
+| 小种子怎成最重的树？ | 五年级 | 生态系统与食物网（Ecosystems & The Food Web） | 谜题2 一粒小种子怎样长成地球上最重的树之一？ | Mystery Science 5th Grade Ecosystems & The Food Web 谜题2 · Mystery Science | [PNG](<海报/g5-ec-m2-植物生长与物质.png>) · [PDF](<海报/g5-ec-m2-植物生长与物质.pdf>) |
+| 落叶到哪里去了？ | 五年级 | 生态系统与食物网（Ecosystems & The Food Web） | 谜题3 落叶都到哪里去了？ | Mystery Science 5th Grade Ecosystems & The Food Web 谜题3 · Mystery Science | [PNG](<海报/g5-ec-m3-分解者与物质流动.png>) · [PDF](<海报/g5-ec-m3-分解者与物质流动.pdf>) |
+| 蚯蚓真的吃土吗？ | 五年级 | 生态系统与食物网（Ecosystems & The Food Web） | 谜题4 蚯蚓真的吃土吗？ | Mystery Science 5th Grade Ecosystems & The Food Web 谜题4 · Mystery Science | [PNG](<海报/g5-ec-m4-分解者与土壤养分.png>) · [PDF](<海报/g5-ec-m4-分解者与土壤养分.pdf>) |
+| 鱼怎样养活森林？ | 五年级 | 生态系统与食物网（Ecosystems & The Food Web） | 谜题5 一条鱼怎样养活一片森林？ | Mystery Science 5th Grade Ecosystems & The Food Web 谜题5 · Mystery Science | [PNG](<海报/g5-ec-m5-生态系统与物质循环.png>) · [PDF](<海报/g5-ec-m5-生态系统与物质循环.pdf>) |
+| 怎样保护地球环境？ | 五年级 | 生态系统与食物网（Ecosystems & The Food Web） | 谜题6 我们怎样保护地球的环境？ | Mystery Science 5th Grade Ecosystems & The Food Web 谜题6 · Mystery Science | [PNG](<海报/g5-ec-m6-保护环境.png>) · [PDF](<海报/g5-ec-m6-保护环境.pdf>) |
+| 恐龙为什么灭绝？ | 五年级 | 生态系统与食物网（Ecosystems & The Food Web） | 谜题7 恐龙为什么灭绝了？ | Mystery Science 5th Grade Ecosystems & The Food Web 谜题7 · Mystery Science | [PNG](<海报/g5-ec-m7-食物网与能量流动.png>) · [PDF](<海报/g5-ec-m7-食物网与能量流动.pdf>) |
+| 世界上有多少水？ | 五年级 | 水循环与地球系统（Water Cycle & Earth's Systems） | 谜题1 世界上有多少水？ | Mystery Science 5th Grade Water Cycle & Earth's Systems 谜题1 · Mystery Science | [PNG](<海报/g5-wa-m1-水圈与水的分布.png>) · [PDF](<海报/g5-wa-m1-水圈与水的分布.pdf>) |
+| 海里有多少盐？ | 五年级 | 水循环与地球系统（Water Cycle & Earth's Systems） | 谜题2 海里有多少盐？ | Mystery Science 5th Grade Water Cycle & Earth's Systems 谜题2 · Mystery Science | [PNG](<海报/g5-wa-m2-混合物与溶液.png>) · [PDF](<海报/g5-wa-m2-混合物与溶液.pdf>) |
+| 自来水从哪里来？ | 五年级 | 水循环与地球系统（Water Cycle & Earth's Systems） | 谜题3 拧开水龙头，水是从哪里来的？ | Mystery Science 5th Grade Water Cycle & Earth's Systems 谜题3 · Mystery Science | [PNG](<海报/g5-wa-m3-地下水是自然资源.png>) · [PDF](<海报/g5-wa-m3-地下水是自然资源.pdf>) |
+| 我们能造雨吗？ | 五年级 | 水循环与地球系统（Water Cycle & Earth's Systems） | 谜题4 我们能造出雨来吗？ | Mystery Science 5th Grade Water Cycle & Earth's Systems 谜题4 · Mystery Science | [PNG](<海报/g5-wa-m4-水循环.png>) · [PDF](<海报/g5-wa-m4-水循环.pdf>) |
+| 怎样让小镇躲过飓风？ | 五年级 | 水循环与地球系统（Water Cycle & Earth's Systems） | 谜题5 怎样从飓风中拯救一座小镇？ | Mystery Science 5th Grade Water Cycle & Earth's Systems 谜题5 · Mystery Science | [PNG](<海报/g5-wa-m5-自然灾害与工程.png>) · [PDF](<海报/g5-wa-m5-自然灾害与工程.pdf>) |
+| 地球转得多快？ | 五年级 | 地球与太空的规律（Earth & Space Patterns） | 谜题1 地球转得有多快？ | Mystery Science 5th Grade Earth & Space Patterns 谜题1 · Mystery Science | [PNG](<海报/g5-sp-m1-昼夜与地球自转.png>) · [PDF](<海报/g5-sp-m1-昼夜与地球自转.pdf>) |
+| 谁做了第一只钟？ | 五年级 | 地球与太空的规律（Earth & Space Patterns） | 谜题2 谁做了第一只钟？ | Mystery Science 5th Grade Earth & Space Patterns 谜题2 · Mystery Science | [PNG](<海报/g5-sp-m2-地球自转与每日影子规律.png>) · [PDF](<海报/g5-sp-m2-地球自转与每日影子规律.pdf>) |
+| 太阳怎样告诉你季节？ | 五年级 | 地球与太空的规律（Earth & Space Patterns） | 谜题3 太阳怎样告诉你现在是什么季节？ | Mystery Science 5th Grade Earth & Space Patterns 谜题3 · Mystery Science | [PNG](<海报/g5-sp-m3-季节变化与影子长度.png>) · [PDF](<海报/g5-sp-m3-季节变化与影子长度.pdf>) |
+| 星座为何随季节变？ | 五年级 | 地球与太空的规律（Earth & Space Patterns） | 谜题4 为什么星座随季节变化？ | Mystery Science 5th Grade Earth & Space Patterns 谜题4 · Mystery Science | [PNG](<海报/g5-sp-m4-季节规律与地球公转.png>) · [PDF](<海报/g5-sp-m4-季节规律与地球公转.pdf>) |
+| 月亮为什么变形状？ | 五年级 | 地球与太空的规律（Earth & Space Patterns） | 谜题5 月亮为什么会改变形状？ | Mystery Science 5th Grade Earth & Space Patterns 谜题5 · Mystery Science | [PNG](<海报/g5-sp-m5-月相与月相周期.png>) · [PDF](<海报/g5-sp-m5-月相与月相周期.pdf>) |
+| 太阳怎样助探索行星？ | 五年级 | 恒星与行星（Stars & Planets） | 谜题1 太阳怎样帮我们探索其他行星？ | Mystery Science 5th Grade Stars & Planets 谜题1 · Mystery Science | [PNG](<海报/g5-st-m1-太阳系与太阳亮度.png>) · [PDF](<海报/g5-st-m1-太阳系与太阳亮度.pdf>) |
+| 行星重力为何不同？ | 五年级 | 恒星与行星（Stars & Planets） | 谜题2 为什么其他行星上的重力不一样？ | Mystery Science 5th Grade Stars & Planets 谜题2 · Mystery Science | [PNG](<海报/g5-st-m2-重力.png>) · [PDF](<海报/g5-st-m2-重力.pdf>) |
+| 其他行星上有生命吗？ | 五年级 | 恒星与行星（Stars & Planets） | 谜题3 其他行星上可能有生命吗？ | Mystery Science 5th Grade Stars & Planets 谜题3 · Mystery Science | [PNG](<海报/g5-st-m3-恒星亮度与宜居行星.png>) · [PDF](<海报/g5-st-m3-恒星亮度与宜居行星.pdf>) |
+| 能认出神秘配料吗？ | 五年级 | 化学反应与物质的性质（Chemical Reactions & Properties Of Matter） | 谜题1 你能认出神秘的配料吗？ | Mystery Science 5th Grade Chemical Reactions & Properties Of Matter 谜题1 · Mystery Science | [PNG](<海报/g5-ch-m1-物质的性质.png>) · [PDF](<海报/g5-ch-m1-物质的性质.pdf>) |
+| 看不见为何能闻到？ | 五年级 | 化学反应与物质的性质（Chemical Reactions & Properties Of Matter） | 谜题2 为什么看不见的东西你也能闻到？ | Mystery Science 5th Grade Chemical Reactions & Properties Of Matter 谜题2 · Mystery Science | [PNG](<海报/g5-ch-m2-粒子模型.png>) · [PDF](<海报/g5-ch-m2-粒子模型.pdf>) |
+| 冰箱里藏着酸吗？ | 五年级 | 化学反应与物质的性质（Chemical Reactions & Properties Of Matter） | 谜题3 怎样知道冰箱里藏着酸？ | Mystery Science 5th Grade Chemical Reactions & Properties Of Matter 谜题3 · Mystery Science | [PNG](<海报/g5-ch-m3-物质的性质-酸.png>) · [PDF](<海报/g5-ch-m3-物质的性质-酸.pdf>) |
+| 有些东西为何会爆炸？ | 五年级 | 化学反应与物质的性质（Chemical Reactions & Properties Of Matter） | 谜题4 为什么有些东西会爆炸？ | Mystery Science 5th Grade Chemical Reactions & Properties Of Matter 谜题4 · Mystery Science | [PNG](<海报/g5-ch-m4-化学反应与公平测试.png>) · [PDF](<海报/g5-ch-m4-化学反应与公平测试.pdf>) |
+| 烟花、橡胶和弹力泥？ | 五年级 | 化学反应与物质的性质（Chemical Reactions & Properties Of Matter） | 谜题5 烟花、橡胶和弹力橡皮泥有什么共同点？ | Mystery Science 5th Grade Chemical Reactions & Properties Of Matter 谜题5 · Mystery Science | [PNG](<海报/g5-ch-m5-化学反应.png>) · [PDF](<海报/g5-ch-m5-化学反应.pdf>) |
