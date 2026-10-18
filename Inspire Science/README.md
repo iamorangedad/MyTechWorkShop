@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 24 个单元、39 个模块、108 课。课数不超过 250，所以每课一张海报，共 108 张。已完成 18 张（PNG + PDF）。每张海报用 01/02/03 三步画出本课的现象问题、探究步骤和结论，底部标注教材来源。课内的现象和活动大多没有公开：能在官方样章里核实的，副标题写“教材活动”；其余是按官方课名、模块 NGSS 表现期望和官方配套器材设计的示例，副标题写“示例探究”。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
+全套 24 个单元、39 个模块、108 课。课数不超过 250，所以每课一张海报，共 108 张。已完成 34 张（PNG + PDF）。每张海报用 01/02/03 三步画出本课的现象问题、探究步骤和结论，底部标注教材来源。课内的现象和活动大多没有公开：能在官方样章里核实的，副标题写“教材活动”；其余是按官方课名、模块 NGSS 表现期望和官方配套器材设计的示例，副标题写“示例探究”。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
 
 | 海报 | 年级 | 单元 | 模块 | 课 | 活动类型 | 教材来源 | 文件 |
 |---|---|---|---|---|---|---|---|
@@ -29,3 +29,19 @@
 | 怎样让东西动起来？ | 幼儿园 | 单元4 让东西动起来（Make Things Move） | 力和运动（Forces and Motion） | 第1课 推和拉（Pushes and Pulls） | 示例探究 | Inspire Science Grade K Unit 4 Forces and Motion 第1课 · McGraw Hill | [PNG](<海报/g0-u4m1-l1-推和拉.png>) · [PDF](<海报/g0-u4m1-l1-推和拉.pdf>) |
 | 怎样改变快慢方向？ | 幼儿园 | 单元4 让东西动起来（Make Things Move） | 力和运动（Forces and Motion） | 第2课 方向和速度（Direction and Speed） | 示例探究 | Inspire Science Grade K Unit 4 Forces and Motion 第2课 · McGraw Hill | [PNG](<海报/g0-u4m1-l2-方向和速度.png>) · [PDF](<海报/g0-u4m1-l2-方向和速度.pdf>) |
 | 东西相撞会怎样？ | 幼儿园 | 单元4 让东西动起来（Make Things Move） | 力和运动（Forces and Motion） | 第3课 物体相撞（When Objects Collide） | 示例探究 | Inspire Science Grade K Unit 4 Forces and Motion 第3课 · McGraw Hill | [PNG](<海报/g0-u4m1-l3-物体相撞.png>) · [PDF](<海报/g0-u4m1-l3-物体相撞.pdf>) |
+| 植物有哪些部分？ | 一年级 | 单元1 认识植物（All About Plants） | 植物的结构与功能（Plant Structures and Functions） | 第1课 植物的各部分（Plant Parts） | 教材活动 | Inspire Science Grade 1 Unit 1 Plant Structures and Functions 第1课 · McGraw Hill | [PNG](<海报/g1-u1m1-l1-植物的各部分.png>) · [PDF](<海报/g1-u1m1-l1-植物的各部分.pdf>) |
+| 根茎叶各做什么？ | 一年级 | 单元1 认识植物（All About Plants） | 植物的结构与功能（Plant Structures and Functions） | 第2课 植物各部分的功能（Functions of Plant Parts） | 示例探究 | Inspire Science Grade 1 Unit 1 Plant Structures and Functions 第2课 · McGraw Hill | [PNG](<海报/g1-u1m1-l2-植物各部分的功能.png>) · [PDF](<海报/g1-u1m1-l2-植物各部分的功能.pdf>) |
+| 小苗像父母吗？ | 一年级 | 单元1 认识植物（All About Plants） | 植物亲代与子代（Plant Parents and Their Offspring） | 第1课 植物与亲代（Plants and Their Parents） | 示例探究 | Inspire Science Grade 1 Unit 1 Plant Parents and Their Offspring 第1课 · McGraw Hill | [PNG](<海报/g1-u1m2-l1-植物与亲代.png>) · [PDF](<海报/g1-u1m2-l1-植物与亲代.pdf>) |
+| 植物怎样保护自己？ | 一年级 | 单元1 认识植物（All About Plants） | 植物亲代与子代（Plant Parents and Their Offspring） | 第2课 植物的生存（Plant Survival） | 示例探究 | Inspire Science Grade 1 Unit 1 Plant Parents and Their Offspring 第2课 · McGraw Hill | [PNG](<海报/g1-u1m2-l2-植物的生存.png>) · [PDF](<海报/g1-u1m2-l2-植物的生存.pdf>) |
+| 动物身上有什么？ | 一年级 | 单元2 动物与交流（Animals and How They Communicate） | 动物亲代与子代（Animal Parents and Their Offspring） | 第1课 动物的结构（Animal Structures） | 示例探究 | Inspire Science Grade 1 Unit 2 Animal Parents and Their Offspring 第1课 · McGraw Hill | [PNG](<海报/g1-u2m1-l1-动物的结构.png>) · [PDF](<海报/g1-u2m1-l1-动物的结构.pdf>) |
+| 身体部位有何用？ | 一年级 | 单元2 动物与交流（Animals and How They Communicate） | 动物亲代与子代（Animal Parents and Their Offspring） | 第2课 动物结构的功能（Functions of Animal Structures） | 示例探究 | Inspire Science Grade 1 Unit 2 Animal Parents and Their Offspring 第2课 · McGraw Hill | [PNG](<海报/g1-u2m1-l2-动物结构的功能.png>) · [PDF](<海报/g1-u2m1-l2-动物结构的功能.pdf>) |
+| 小动物像父母吗？ | 一年级 | 单元2 动物与交流（Animals and How They Communicate） | 动物亲代与子代（Animal Parents and Their Offspring） | 第3课 动物与亲代（Animals and Their Parents） | 示例探究 | Inspire Science Grade 1 Unit 2 Animal Parents and Their Offspring 第3课 · McGraw Hill | [PNG](<海报/g1-u2m1-l3-动物与亲代.png>) · [PDF](<海报/g1-u2m1-l3-动物与亲代.pdf>) |
+| 动物怎样照顾宝宝？ | 一年级 | 单元2 动物与交流（Animals and How They Communicate） | 动物亲代与子代（Animal Parents and Their Offspring） | 第4课 动物的行为（Animal Behaviors） | 示例探究 | Inspire Science Grade 1 Unit 2 Animal Parents and Their Offspring 第4课 · McGraw Hill | [PNG](<海报/g1-u2m1-l4-动物的行为.png>) · [PDF](<海报/g1-u2m1-l4-动物的行为.pdf>) |
+| 动物怎样交流？ | 一年级 | 单元2 动物与交流（Animals and How They Communicate） | 交流（Communication） | 第1课 动物的交流（Animal Communication） | 示例探究 | Inspire Science Grade 1 Unit 2 Communication 第1课 · McGraw Hill | [PNG](<海报/g1-u2m2-l1-动物的交流.png>) · [PDF](<海报/g1-u2m2-l1-动物的交流.pdf>) |
+| 声音从哪里来？ | 一年级 | 单元2 动物与交流（Animals and How They Communicate） | 交流（Communication） | 第2课 声音（Sound） | 示例探究 | Inspire Science Grade 1 Unit 2 Communication 第2课 · McGraw Hill | [PNG](<海报/g1-u2m2-l2-声音.png>) · [PDF](<海报/g1-u2m2-l2-声音.pdf>) |
+| 黑暗中能看见吗？ | 一年级 | 单元3 光和影（Light and Shadows） | 看见物体（See Objects） | 第1课 光（Light） | 示例探究 | Inspire Science Grade 1 Unit 3 See Objects 第1课 · McGraw Hill | [PNG](<海报/g1-u3m1-l1-光.png>) · [PDF](<海报/g1-u3m1-l1-光.pdf>) |
+| 光能穿过什么？ | 一年级 | 单元3 光和影（Light and Shadows） | 看见物体（See Objects） | 第2课 光与材料（Light and Materials） | 示例探究 | Inspire Science Grade 1 Unit 3 See Objects 第2课 · McGraw Hill | [PNG](<海报/g1-u3m1-l2-光与材料.png>) · [PDF](<海报/g1-u3m1-l2-光与材料.pdf>) |
+| 怎样用光传信息？ | 一年级 | 单元3 光和影（Light and Shadows） | 看见物体（See Objects） | 第3课 光的用途（Light Uses） | 示例探究 | Inspire Science Grade 1 Unit 3 See Objects 第3课 · McGraw Hill | [PNG](<海报/g1-u3m1-l3-光的用途.png>) · [PDF](<海报/g1-u3m1-l3-光的用途.pdf>) |
+| 天上有什么？ | 一年级 | 单元4 天空的规律（Sky Patterns） | 观察天空（Observe the Sky） | 第1课 天空中的物体（Objects in the Sky） | 示例探究 | Inspire Science Grade 1 Unit 4 Observe the Sky 第1课 · McGraw Hill | [PNG](<海报/g1-u4m1-l1-天空中的物体.png>) · [PDF](<海报/g1-u4m1-l1-天空中的物体.pdf>) |
+| 影子为什么会移动？ | 一年级 | 单元4 天空的规律（Sky Patterns） | 观察天空（Observe the Sky） | 第2课 昼夜规律（Day and Night Patterns） | 示例探究 | Inspire Science Grade 1 Unit 4 Observe the Sky 第2课 · McGraw Hill | [PNG](<海报/g1-u4m1-l2-昼夜规律.png>) · [PDF](<海报/g1-u4m1-l2-昼夜规律.pdf>) |
+| 白天为何有长短？ | 一年级 | 单元4 天空的规律（Sky Patterns） | 观察天空（Observe the Sky） | 第3课 一年中的规律（Patterns During the Year） | 示例探究 | Inspire Science Grade 1 Unit 4 Observe the Sky 第3课 · McGraw Hill | [PNG](<海报/g1-u4m1-l3-一年中的规律.png>) · [PDF](<海报/g1-u4m1-l3-一年中的规律.pdf>) |
