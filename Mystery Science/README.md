@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 32 个单元、137 个谜题。谜题数不超过 250，所以每个谜题一张海报，共 137 张。已完成 65 张（PNG + PDF）。每张海报用 01/02/03 三步画出谜题的问题和动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
+全套 32 个单元、137 个谜题。谜题数不超过 250，所以每个谜题一张海报，共 137 张。已完成 88 张（PNG + PDF）。每张海报用 01/02/03 三步画出谜题的问题和动手活动，底部标注教材来源。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 单元 | 谜题 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -76,3 +76,26 @@
 | 动物到哪里找水？ | 二年级 | 物质的状态（States Of Matter） | 谜题1 动物到哪里找到需要的水？ | Mystery Science 2nd Grade States Of Matter 谜题1 · Mystery Science | [PNG](<海报/g2-sm-m1-液态水与固态冰.png>) · [PDF](<海报/g2-sm-m1-液态水与固态冰.pdf>) |
 | 冰块和蜡笔哪里像？ | 二年级 | 物质的状态（States Of Matter） | 谜题2 冰块和蜡笔有什么相像的地方？ | Mystery Science 2nd Grade States Of Matter 谜题2 · Mystery Science | [PNG](<海报/g2-sm-m2-可逆与不可逆的变化.png>) · [PDF](<海报/g2-sm-m2-可逆与不可逆的变化.pdf>) |
 | 玩具为何多用塑料？ | 二年级 | 物质的状态（States Of Matter） | 谜题3 为什么那么多玩具是用塑料做的？ | Mystery Science 2nd Grade States Of Matter 谜题3 · Mystery Science | [PNG](<海报/g2-sm-m3-加热-冷却与物态.png>) · [PDF](<海报/g2-sm-m3-加热-冷却与物态.pdf>) |
+| 沙漠里怎么有鲸鱼？ | 三年级 | 化石与变化的环境（Fossils & Changing Environments） | 谜题1 在沙漠里哪里能找到鲸鱼？ | Mystery Science 3rd Grade Fossils & Changing Environments 谜题1 · Mystery Science | [PNG](<海报/g3-fo-m1-栖息地-化石与环境变化.png>) · [PDF](<海报/g3-fo-m1-栖息地-化石与环境变化.pdf>) |
+| 怎知恐龙长什么样？ | 三年级 | 化石与变化的环境（Fossils & Changing Environments） | 谜题2 我们怎么知道恐龙长什么样？ | Mystery Science 3rd Grade Fossils & Changing Environments 谜题2 · Mystery Science | [PNG](<海报/g3-fo-m2-化石证据与恐龙.png>) · [PDF](<海报/g3-fo-m2-化石证据与恐龙.pdf>) |
+| 你能跑赢恐龙吗？ | 三年级 | 化石与变化的环境（Fossils & Changing Environments） | 谜题3 你能跑得过恐龙吗？ | Mystery Science 3rd Grade Fossils & Changing Environments 谜题3 · Mystery Science | [PNG](<海报/g3-fo-m3-足迹化石与动物行为.png>) · [PDF](<海报/g3-fo-m3-足迹化石与动物行为.pdf>) |
+| 你和短吻鳄哪里像？ | 三年级 | 生命周期（Life Cycles） | 谜题1 你的一生和短吻鳄的一生有什么相像？ | Mystery Science 3rd Grade Life Cycles 谜题1 · Mystery Science | [PNG](<海报/g3-lc-m1-动物的生命周期.png>) · [PDF](<海报/g3-lc-m1-动物的生命周期.pdf>) |
+| 怎样赶走蚊子最好？ | 三年级 | 生命周期（Life Cycles） | 谜题2 赶走蚊子的最好办法是什么？ | Mystery Science 3rd Grade Life Cycles 谜题2 · Mystery Science | [PNG](<海报/g3-lc-m2-环境变化与工程.png>) · [PDF](<海报/g3-lc-m2-环境变化与工程.pdf>) |
+| 植物为什么开花？ | 三年级 | 生命周期（Life Cycles） | 谜题3 植物为什么要开花？ | Mystery Science 3rd Grade Life Cycles 谜题3 · Mystery Science | [PNG](<海报/g3-lc-m3-传粉与植物繁殖.png>) · [PDF](<海报/g3-lc-m3-传粉与植物繁殖.pdf>) |
+| 植物为什么结果实？ | 三年级 | 生命周期（Life Cycles） | 谜题4 植物为什么会结出果实？ | Mystery Science 3rd Grade Life Cycles 谜题4 · Mystery Science | [PNG](<海报/g3-lc-m4-果实-种子与植物繁殖.png>) · [PDF](<海报/g3-lc-m4-果实-种子与植物繁殖.pdf>) |
+| 花为何有那么多种？ | 三年级 | 生命周期（Life Cycles） | 谜题5 为什么花有那么多种？ | Mystery Science 3rd Grade Life Cycles 谜题5 · Mystery Science | [PNG](<海报/g3-lc-m5-植物的生命周期.png>) · [PDF](<海报/g3-lc-m5-植物的生命周期.pdf>) |
+| 怎样认出神秘水果？ | 三年级 | 遗传、生存与选择（Heredity, Survival, & Selection） | 谜题1 怎样认出一种神秘的水果？ | Mystery Science 3rd Grade Heredity, Survival, & Selection 谜题1 · Mystery Science | [PNG](<海报/g3-hs-m1-性状与遗传.png>) · [PDF](<海报/g3-hs-m1-性状与遗传.pdf>) |
+| 狗和鸽子有何共同点？ | 三年级 | 遗传、生存与选择（Heredity, Survival, & Selection） | 谜题2 狗和鸽子有什么共同点？ | Mystery Science 3rd Grade Heredity, Survival, & Selection 谜题2 · Mystery Science | [PNG](<海报/g3-hs-m2-性状差异-遗传与人工选择.png>) · [PDF](<海报/g3-hs-m2-性状差异-遗传与人工选择.pdf>) |
+| 蜥蜴脚趾怎样助生存？ | 三年级 | 遗传、生存与选择（Heredity, Survival, & Selection） | 谜题3 蜥蜴的脚趾怎样帮它活下来？ | Mystery Science 3rd Grade Heredity, Survival, & Selection 谜题3 · Mystery Science | [PNG](<海报/g3-hs-m3-性状差异-生存与自然选择.png>) · [PDF](<海报/g3-hs-m3-性状差异-生存与自然选择.pdf>) |
+| 有些动物为何群居？ | 三年级 | 遗传、生存与选择（Heredity, Survival, & Selection） | 谜题4 为什么有些动物成群生活？ | Mystery Science 3rd Grade Heredity, Survival, & Selection 谜题4 · Mystery Science | [PNG](<海报/g3-hs-m4-动物群体与生存.png>) · [PDF](<海报/g3-hs-m4-动物群体与生存.pdf>) |
+| 人在太空能待多久？ | 三年级 | 遗传、生存与选择（Heredity, Survival, & Selection） | 谜题5 人（和动物）在太空中能生活多久？ | Mystery Science 3rd Grade Heredity, Survival, & Selection 谜题5 · Mystery Science | [PNG](<海报/g3-hs-m5-性状与环境的影响.png>) · [PDF](<海报/g3-hs-m5-性状与环境的影响.pdf>) |
+| 云从哪里来？ | 三年级 | 天气与气候（Weather & Climate） | 谜题1 云是从哪里来的？ | Mystery Science 3rd Grade Weather & Climate 谜题1 · Mystery Science | [PNG](<海报/g3-wc-m1-水循环与物态.png>) · [PDF](<海报/g3-wc-m1-水循环与物态.pdf>) |
+| 怎样预测暴风雨？ | 三年级 | 天气与气候（Weather & Climate） | 谜题2 怎样预测什么时候会有暴风雨？ | Mystery Science 3rd Grade Weather & Climate 谜题2 · Mystery Science | [PNG](<海报/g3-wc-m2-当地天气规律与预报.png>) · [PDF](<海报/g3-wc-m2-当地天气规律与预报.pdf>) |
+| 雪堡建在哪里最好？ | 三年级 | 天气与气候（Weather & Climate） | 谜题3 在哪里建雪堡最好？ | Mystery Science 3rd Grade Weather & Climate 谜题3 · Mystery Science | [PNG](<海报/g3-wc-m3-季节天气规律.png>) · [PDF](<海报/g3-wc-m3-季节天气规律.pdf>) |
+| 有些地方为何总很热？ | 三年级 | 天气与气候（Weather & Climate） | 谜题4 为什么有些地方总是很热？ | Mystery Science 3rd Grade Weather & Climate 谜题4 · Mystery Science | [PNG](<海报/g3-wc-m4-气候与全球天气规律.png>) · [PDF](<海报/g3-wc-m4-气候与全球天气规律.pdf>) |
+| 怎样让房子不被吹走？ | 三年级 | 天气与气候（Weather & Climate） | 谜题5 怎样让房子在暴风中不被吹走？ | Mystery Science 3rd Grade Weather & Climate 谜题5 · Mystery Science | [PNG](<海报/g3-wc-m5-自然灾害与工程.png>) · [PDF](<海报/g3-wc-m5-自然灾害与工程.pdf>) |
+| 拔河怎样赢过大人？ | 三年级 | 力、运动与磁铁（Forces, Motion, & Magnets） | 谜题1 怎样在拔河比赛中赢过一群大人？ | Mystery Science 3rd Grade Forces, Motion, & Magnets 谜题1 · Mystery Science | [PNG](<海报/g3-fm-m1-平衡力与不平衡力.png>) · [PDF](<海报/g3-fm-m1-平衡力与不平衡力.pdf>) |
+| 桥为什么这么结实？ | 三年级 | 力、运动与磁铁（Forces, Motion, & Magnets） | 谜题2 桥为什么这么结实？ | Mystery Science 3rd Grade Forces, Motion, & Magnets 谜题2 · Mystery Science | [PNG](<海报/g3-fm-m2-平衡力与工程.png>) · [PDF](<海报/g3-fm-m2-平衡力与工程.pdf>) |
+| 空中飞人能荡多高？ | 三年级 | 力、运动与磁铁（Forces, Motion, & Magnets） | 谜题3 荡空中飞人秋千能荡多高？ | Mystery Science 3rd Grade Forces, Motion, & Magnets 谜题3 · Mystery Science | [PNG](<海报/g3-fm-m3-运动规律-重力与摩擦力.png>) · [PDF](<海报/g3-fm-m3-运动规律-重力与摩擦力.pdf>) |
+| 磁铁能做什么？ | 三年级 | 力、运动与磁铁（Forces, Motion, & Magnets） | 谜题4 磁铁能做什么？ | Mystery Science 3rd Grade Forces, Motion, & Magnets 谜题4 · Mystery Science | [PNG](<海报/g3-fm-m4-磁铁与力.png>) · [PDF](<海报/g3-fm-m4-磁铁与力.pdf>) |
+| 怎样用磁铁开门锁？ | 三年级 | 力、运动与磁铁（Forces, Motion, & Magnets） | 谜题5 怎样用磁铁打开一扇门？ | Mystery Science 3rd Grade Forces, Motion, & Magnets 谜题5 · Mystery Science | [PNG](<海报/g3-fm-m5-磁铁与工程.png>) · [PDF](<海报/g3-fm-m5-磁铁与工程.pdf>) |
