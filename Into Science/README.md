@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 31 个单元、79 课。课数不超过 250，所以每课一张海报，共 79 张。已完成 11 张（PNG + PDF），其中教材活动 11 张、示例探究 0 张。每张海报用 01/02/03 三步画出本课的现象问题、探究步骤和结论，底部标注教材来源。「教材活动」表示第 02 行画的是官方范围与顺序里列出的 Hands-On 活动（活动名写在海报上；官方步骤未公开，海报步骤为示意）；「示例探究」表示官方活动名看不出具体做法或没有官方来源，海报改用本项目设计的探究。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
+全套 31 个单元、79 课。课数不超过 250，所以每课一张海报，共 79 张。已完成 22 张（PNG + PDF），其中教材活动 22 张、示例探究 0 张。每张海报用 01/02/03 三步画出本课的现象问题、探究步骤和结论，底部标注教材来源。「教材活动」表示第 02 行画的是官方范围与顺序里列出的 Hands-On 活动（活动名写在海报上；官方步骤未公开，海报步骤为示意）；「示例探究」表示官方活动名看不出具体做法或没有官方来源，海报改用本项目设计的探究。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
 
 | 海报 | 年级 | 单元 | 课 | 官方 Hands-On 活动 | 活动类型 | 教材来源 | 文件 |
 |---|---|---|---|---|---|---|---|
@@ -22,3 +22,14 @@
 | 坏天气怎么准备？ | 幼儿园 | 单元4 天气（Weather） | 第3课 为天气做准备（Prepare for Weather） | Weather Reports、Prepare for Severe Weather | 教材活动 | HMH Into Science Grade K Unit 4 Weather 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/g0-u4-l3-为天气做准备.png>) · [PDF](<海报/g0-u4-l3-为天气做准备.pdf>) |
 | 推还是拉？ | 幼儿园 | 单元5 推和拉（Pushes and Pulls） | 第1课 认识运动（All About Motion） | Push or Pull、Change Motion | 教材活动 | HMH Into Science Grade K Unit 5 Pushes and Pulls 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/g0-u5-l1-认识运动.png>) · [PDF](<海报/g0-u5-l1-认识运动.pdf>) |
 | 怎样改变运动？ | 幼儿园 | 单元5 推和拉（Pushes and Pulls） | 第2课 改变物体的运动（Change the Way Things Move） | Roll a Ball、Design a Track | 教材活动 | HMH Into Science Grade K Unit 5 Pushes and Pulls 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/g0-u5-l2-改变物体的运动.png>) · [PDF](<海报/g0-u5-l2-改变物体的运动.pdf>) |
+| 怎样设计解决办法？ | 一年级 | 单元1 工程设计过程（Engineering Design Process） | 第1课 设计过程（A Design Process） | Explore a Problem、Solve a Problem | 教材活动 | HMH Into Science Grade 1 Unit 1 Engineering Design Process 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/g1-u1-l1-设计过程.png>) · [PDF](<海报/g1-u1-l1-设计过程.pdf>) |
+| 没有光能看见吗？ | 一年级 | 单元2 光和声（Light and Sound） | 第1课 认识光（All About Light） | Watch it Glow、Make Observations in Different Light | 教材活动 | HMH Into Science Grade 1 Unit 2 Light and Sound 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/g1-u2-l1-认识光.png>) · [PDF](<海报/g1-u2-l1-认识光.pdf>) |
+| 光能穿过什么？ | 一年级 | 单元2 光和声（Light and Sound） | 第2课 光和材料（Light and Materials） | Reflect Light、Test What Happens to Light | 教材活动 | HMH Into Science Grade 1 Unit 2 Light and Sound 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/g1-u2-l2-光和材料.png>) · [PDF](<海报/g1-u2-l2-光和材料.pdf>) |
+| 声音怎样产生？ | 一年级 | 单元2 光和声（Light and Sound） | 第3课 认识声音（All About Sound） | Send a Message、Make Something Move with Sound | 教材活动 | HMH Into Science Grade 1 Unit 2 Light and Sound 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/g1-u2-l3-认识声音.png>) · [PDF](<海报/g1-u2-l3-认识声音.pdf>) |
+| 植物各部分有何用？ | 一年级 | 单元3 植物的部分（Plant Parts） | 第1课 各部分帮植物生存（Parts Help Plants Live） | Observe Roots and Leaves、Observe Stems、Ideas from Plants | 教材活动 | HMH Into Science Grade 1 Unit 3 Plant Parts 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/g1-u3-l1-各部分帮植物生存.png>) · [PDF](<海报/g1-u3-l1-各部分帮植物生存.pdf>) |
+| 小苗像父母吗？ | 一年级 | 单元3 植物的部分（Plant Parts） | 第2课 植物和亲代（Plants and Their Parents） | Grow Carrot Tops、Compare Parts | 教材活动 | HMH Into Science Grade 1 Unit 3 Plant Parts 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/g1-u3-l2-植物和亲代.png>) · [PDF](<海报/g1-u3-l2-植物和亲代.pdf>) |
+| 动物身体有何用？ | 一年级 | 单元4 动物的部分（Animal Parts） | 第1课 各部分帮动物生存（Parts Help Animals Live） | Observe Animal Parts、Ideas from Animals | 教材活动 | HMH Into Science Grade 1 Unit 4 Animal Parts 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/g1-u4-l1-各部分帮动物生存.png>) · [PDF](<海报/g1-u4-l1-各部分帮动物生存.pdf>) |
+| 小动物像父母吗？ | 一年级 | 单元4 动物的部分（Animal Parts） | 第2课 动物和亲代（Animals and Their Parents） | Explore Animal Families、Match the Animals | 教材活动 | HMH Into Science Grade 1 Unit 4 Animal Parts 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/g1-u4-l2-动物和亲代.png>) · [PDF](<海报/g1-u4-l2-动物和亲代.pdf>) |
+| 动物怎样照顾孩子？ | 一年级 | 单元4 动物的部分（Animal Parts） | 第3课 动物照顾幼崽（Animals Take Care of Their Young） | Describe How Animals Help Young、Compare Animal Parents | 教材活动 | HMH Into Science Grade 1 Unit 4 Animal Parts 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/g1-u4-l3-动物照顾幼崽.png>) · [PDF](<海报/g1-u4-l3-动物照顾幼崽.pdf>) |
+| 天空有规律吗？ | 一年级 | 单元5 天空中的物体和规律（Objects and Patterns in the Sky） | 第1课 天空的规律（Patterns in the Sky） | Observe the Daytime and Nighttime Sky、Trace a Shadow | 教材活动 | HMH Into Science Grade 1 Unit 5 Objects and Patterns in the Sky 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/g1-u5-l1-天空的规律.png>) · [PDF](<海报/g1-u5-l1-天空的规律.pdf>) |
+| 白天有多长？ | 一年级 | 单元5 天空中的物体和规律（Objects and Patterns in the Sky） | 第2课 白昼的规律（Patterns of Daylight） | Measure Daylight、Observe Patterns of Sunrise and Sunset | 教材活动 | HMH Into Science Grade 1 Unit 5 Objects and Patterns in the Sky 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/g1-u5-l2-白昼的规律.png>) · [PDF](<海报/g1-u5-l2-白昼的规律.pdf>) |
