@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 24 个单元、39 个模块、108 课。课数不超过 250，所以每课一张海报，共 108 张。已完成 49 张（PNG + PDF）。每张海报用 01/02/03 三步画出本课的现象问题、探究步骤和结论，底部标注教材来源。课内的现象和活动大多没有公开：能在官方样章里核实的，副标题写“教材活动”；其余是按官方课名、模块 NGSS 表现期望和官方配套器材设计的示例，副标题写“示例探究”。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
+全套 24 个单元、39 个模块、108 课。课数不超过 250，所以每课一张海报，共 108 张。已完成 66 张（PNG + PDF）。每张海报用 01/02/03 三步画出本课的现象问题、探究步骤和结论，底部标注教材来源。课内的现象和活动大多没有公开：能在官方样章里核实的，副标题写“教材活动”；其余是按官方课名、模块 NGSS 表现期望和官方配套器材设计的示例，副标题写“示例探究”。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
 
 | 海报 | 年级 | 单元 | 模块 | 课 | 活动类型 | 教材来源 | 文件 |
 |---|---|---|---|---|---|---|---|
@@ -60,3 +60,20 @@
 | 身边住着哪些生物？ | 二年级 | 单元4 生物与栖息地（Living Things and Habitats） | 栖息地中的生物（Living Things in Habitats） | 第1课 身边的栖息地（Local Habitats） | 示例探究 | Inspire Science Grade 2 Unit 4 Living Things in Habitats 第1课 · McGraw Hill | [PNG](<海报/g2-u4m2-l1-身边的栖息地.png>) · [PDF](<海报/g2-u4m2-l1-身边的栖息地.pdf>) |
 | 鼠妇喜欢哪里？ | 二年级 | 单元4 生物与栖息地（Living Things and Habitats） | 栖息地中的生物（Living Things in Habitats） | 第2课 陆地栖息地（Land Habitats） | 示例探究 | Inspire Science Grade 2 Unit 4 Living Things in Habitats 第2课 · McGraw Hill | [PNG](<海报/g2-u4m2-l2-陆地栖息地.png>) · [PDF](<海报/g2-u4m2-l2-陆地栖息地.pdf>) |
 | 淡水海水有何不同？ | 二年级 | 单元4 生物与栖息地（Living Things and Habitats） | 栖息地中的生物（Living Things in Habitats） | 第3课 水中栖息地（Water Habitats） | 示例探究 | Inspire Science Grade 2 Unit 4 Living Things in Habitats 第3课 · McGraw Hill | [PNG](<海报/g2-u4m2-l3-水中栖息地.png>) · [PDF](<海报/g2-u4m2-l3-水中栖息地.pdf>) |
+| 游乐设施怎样动？ | 三年级 | 单元1 身边的力（Forces Around Us） | 力和运动（Forces and Motion） | 第1课 运动（Motion） | 教材活动 | Inspire Science Grade 3 Unit 1 Forces and Motion 第1课 · McGraw Hill | [PNG](<海报/g3-u1m1-l1-运动.png>) · [PDF](<海报/g3-u1m1-l1-运动.pdf>) |
+| 滑梯为何滑这么快？ | 三年级 | 单元1 身边的力（Forces Around Us） | 力和运动（Forces and Motion） | 第2课 力改变运动（Forces Can Change Motion） | 教材活动 | Inspire Science Grade 3 Unit 1 Forces and Motion 第2课 · McGraw Hill | [PNG](<海报/g3-u1m1-l2-力改变运动.png>) · [PDF](<海报/g3-u1m1-l2-力改变运动.pdf>) |
+| 气球为何吸纸屑？ | 三年级 | 单元1 身边的力（Forces Around Us） | 电和磁（Electricity and Magnetism） | 第1课 静电与设计（Electricity and Designing Solutions） | 示例探究 | Inspire Science Grade 3 Unit 1 Electricity and Magnetism 第1课 · McGraw Hill | [PNG](<海报/g3-u1m2-l1-静电与设计.png>) · [PDF](<海报/g3-u1m2-l1-静电与设计.pdf>) |
+| 磁铁能隔着吸吗？ | 三年级 | 单元1 身边的力（Forces Around Us） | 电和磁（Electricity and Magnetism） | 第2课 磁与设计（Magnetism and Designing Solutions） | 示例探究 | Inspire Science Grade 3 Unit 1 Electricity and Magnetism 第2课 · McGraw Hill | [PNG](<海报/g3-u1m2-l2-磁与设计.png>) · [PDF](<海报/g3-u1m2-l2-磁与设计.pdf>) |
+| 种子怎样变成植物？ | 三年级 | 单元2 生命周期与性状（Life Cycles and Traits） | 植物（Plants） | 第1课 植物的生命周期（Plant Life Cycles） | 示例探究 | Inspire Science Grade 3 Unit 2 Plants 第1课 · McGraw Hill | [PNG](<海报/g3-u2m1-l1-植物的生命周期.png>) · [PDF](<海报/g3-u2m1-l1-植物的生命周期.pdf>) |
+| 萝卜苗为何不一样？ | 三年级 | 单元2 生命周期与性状（Life Cycles and Traits） | 植物（Plants） | 第2课 植物的性状（Plant Traits） | 示例探究 | Inspire Science Grade 3 Unit 2 Plants 第2课 · McGraw Hill | [PNG](<海报/g3-u2m1-l2-植物的性状.png>) · [PDF](<海报/g3-u2m1-l2-植物的性状.pdf>) |
+| 黄粉虫怎样长大？ | 三年级 | 单元2 生命周期与性状（Life Cycles and Traits） | 动物（Animals） | 第1课 动物的生命周期（Animal Life Cycles） | 示例探究 | Inspire Science Grade 3 Unit 2 Animals 第1课 · McGraw Hill | [PNG](<海报/g3-u2m2-l1-动物的生命周期.png>) · [PDF](<海报/g3-u2m2-l1-动物的生命周期.pdf>) |
+| 斑马鱼都一样吗？ | 三年级 | 单元2 生命周期与性状（Life Cycles and Traits） | 动物（Animals） | 第2课 动物的性状（Animal Traits） | 示例探究 | Inspire Science Grade 3 Unit 2 Animals 第2课 · McGraw Hill | [PNG](<海报/g3-u2m2-l2-动物的性状.png>) · [PDF](<海报/g3-u2m2-l2-动物的性状.pdf>) |
+| 动物为何成群？ | 三年级 | 单元2 生命周期与性状（Life Cycles and Traits） | 动物（Animals） | 第3课 动物的群体生存（Animal Group Survival） | 示例探究 | Inspire Science Grade 3 Unit 2 Animals 第3课 · McGraw Hill | [PNG](<海报/g3-u2m2-l3-动物的群体生存.png>) · [PDF](<海报/g3-u2m2-l3-动物的群体生存.pdf>) |
+| 生物能在哪里生存？ | 三年级 | 单元3 不同的环境（Different Environments） | 在环境中生存（Survive the Environment） | 第1课 生物的生存（Survival of Organisms） | 示例探究 | Inspire Science Grade 3 Unit 3 Survive the Environment 第1课 · McGraw Hill | [PNG](<海报/g3-u3m1-l1-生物的生存.png>) · [PDF](<海报/g3-u3m1-l1-生物的生存.pdf>) |
+| 个体差异有何用？ | 三年级 | 单元3 不同的环境（Different Environments） | 在环境中生存（Survive the Environment） | 第2课 适应与变异（Adaptations and Variations） | 示例探究 | Inspire Science Grade 3 Unit 3 Survive the Environment 第2课 · McGraw Hill | [PNG](<海报/g3-u3m1-l2-适应与变异.png>) · [PDF](<海报/g3-u3m1-l2-适应与变异.pdf>) |
+| 化石告诉我们什么？ | 三年级 | 单元3 不同的环境（Different Environments） | 环境改变（Change the Environment） | 第1课 化石（Fossils） | 示例探究 | Inspire Science Grade 3 Unit 3 Change the Environment 第1课 · McGraw Hill | [PNG](<海报/g3-u3m2-l1-化石.png>) · [PDF](<海报/g3-u3m2-l1-化石.pdf>) |
+| 环境变了怎么办？ | 三年级 | 单元3 不同的环境（Different Environments） | 环境改变（Change the Environment） | 第2课 环境变化影响生物（Changes Affect Organisms） | 示例探究 | Inspire Science Grade 3 Unit 3 Change the Environment 第2课 · McGraw Hill | [PNG](<海报/g3-u3m2-l2-环境变化影响生物.png>) · [PDF](<海报/g3-u3m2-l2-环境变化影响生物.pdf>) |
+| 天气有什么规律？ | 三年级 | 单元4 观察天气（Observing Weather） | 天气的影响（Weather Impacts） | 第1课 天气规律（Weather Patterns） | 示例探究 | Inspire Science Grade 3 Unit 4 Weather Impacts 第1课 · McGraw Hill | [PNG](<海报/g3-u4m1-l1-天气规律.png>) · [PDF](<海报/g3-u4m1-l1-天气规律.pdf>) |
+| 各地气候一样吗？ | 三年级 | 单元4 观察天气（Observing Weather） | 天气的影响（Weather Impacts） | 第2课 天气与季节（Weather and Seasons） | 示例探究 | Inspire Science Grade 3 Unit 4 Weather Impacts 第2课 · McGraw Hill | [PNG](<海报/g3-u4m1-l2-天气与季节.png>) · [PDF](<海报/g3-u4m1-l2-天气与季节.pdf>) |
+| 自然灾害有哪些？ | 三年级 | 单元4 观察天气（Observing Weather） | 天气的影响（Weather Impacts） | 第3课 自然灾害（Natural Hazards and the Environment） | 示例探究 | Inspire Science Grade 3 Unit 4 Weather Impacts 第3课 · McGraw Hill | [PNG](<海报/g3-u4m1-l3-自然灾害.png>) · [PDF](<海报/g3-u4m1-l3-自然灾害.pdf>) |
+| 怎样减少灾害损失？ | 三年级 | 单元4 观察天气（Observing Weather） | 天气的影响（Weather Impacts） | 第4课 防灾准备（Prepare for Natural Hazards） | 示例探究 | Inspire Science Grade 3 Unit 4 Weather Impacts 第4课 · McGraw Hill | [PNG](<海报/g3-u4m1-l4-防灾准备.png>) · [PDF](<海报/g3-u4m1-l4-防灾准备.pdf>) |
