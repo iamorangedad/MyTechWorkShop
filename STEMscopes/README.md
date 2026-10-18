@@ -7,7 +7,7 @@
 
 ## 海报
 
-全套 25 个单元、80 个 Scope。Scope 数不超过 250，所以每个 Scope 一张海报，共 80 张。已完成 24 张（PNG + PDF），其中教材活动 1 张、示例探究 23 张。每张海报的 01/02/03 三行对应 5E 的 Engage（现象）、Explore（探究）、Explain（结论），小结框里的「拓展」对应 Elaborate，底部标注教材来源。「教材活动」表示第 02 行画的是官方公开的 Explore 活动（活动名写在海报上；有官方样课的按样课步骤，只有简介的注明步骤为示意）；「示例探究」表示官方没有公开这个 Scope 的活动，海报改用本项目设计的探究。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
+全套 25 个单元、80 个 Scope。Scope 数不超过 250，所以每个 Scope 一张海报，共 80 张。已完成 36 张（PNG + PDF），其中教材活动 2 张、示例探究 34 张。每张海报的 01/02/03 三行对应 5E 的 Engage（现象）、Explore（探究）、Explain（结论），小结框里的「拓展」对应 Elaborate，底部标注教材来源。「教材活动」表示第 02 行画的是官方公开的 Explore 活动（活动名写在海报上；有官方样课的按样课步骤，只有简介的注明步骤为示意）；「示例探究」表示官方没有公开这个 Scope 的活动，海报改用本项目设计的探究。海报只用公制单位和人民币，自己举的数量标「示例」，器材画成示意，安全提示写在小结框里。
 
 | 海报 | 年级 | 单元 | 章（Scope） | 官方 Explore 活动 | 活动类型 | 教材来源 | 文件 |
 |---|---|---|---|---|---|---|---|
@@ -35,3 +35,15 @@
 | 声音从哪来？ | 一年级 | 单元4 用光和声音交流（Communicating with Light and Sound） | 第1章 声音（Sound） | （未公开） | 示例探究 | STEMscopes Grade 1 Sound · Accelerate Learning | [PNG](<海报/g1-b4-s1-声音.png>) · [PDF](<海报/g1-b4-s1-声音.pdf>) |
 | 光能穿过吗？ | 一年级 | 单元4 用光和声音交流（Communicating with Light and Sound） | 第2章 光的行为（Behavior of Light） | （未公开） | 示例探究 | STEMscopes Grade 1 Behavior of Light · Accelerate Learning | [PNG](<海报/g1-b4-s2-光的行为.png>) · [PDF](<海报/g1-b4-s2-光的行为.pdf>) |
 | 怎样远距离传话？ | 一年级 | 单元4 用光和声音交流（Communicating with Light and Sound） | 第3章 交流（Communication） | Talking with Lights、What Did We Hear? | 教材活动 | STEMscopes Grade 1 Communication · Accelerate Learning | [PNG](<海报/g1-b4-s3-交流.png>) · [PDF](<海报/g1-b4-s3-交流.pdf>) |
+| 植物需要什么？ | 二年级 | 单元1 生物的需要与相互作用（Organisms—Needs and Interactions） | 第1章 植物需要什么（What Plants Need） | （未公开） | 示例探究 | STEMscopes Grade 2 What Plants Need · Accelerate Learning | [PNG](<海报/g2-b1-s1-植物需要什么.png>) · [PDF](<海报/g2-b1-s1-植物需要什么.pdf>) |
+| 动植物怎样互助？ | 二年级 | 单元1 生物的需要与相互作用（Organisms—Needs and Interactions） | 第2章 动植物的相互依存（Animal and Plant Dependence） | （未公开） | 示例探究 | STEMscopes Grade 2 Animal and Plant Dependence · Accelerate Learning | [PNG](<海报/g2-b1-s2-动植物的相互依存.png>) · [PDF](<海报/g2-b1-s2-动植物的相互依存.pdf>) |
+| 哪里生物多？ | 二年级 | 单元1 生物的需要与相互作用（Organisms—Needs and Interactions） | 第3章 生物的多样性（Diversity of Living Things） | （未公开） | 示例探究 | STEMscopes Grade 2 Diversity of Living Things · Accelerate Learning | [PNG](<海报/g2-b1-s3-生物的多样性.png>) · [PDF](<海报/g2-b1-s3-生物的多样性.pdf>) |
+| 哪些变化很快？ | 二年级 | 单元2 应对地球的变化（Dealing with Changes to the Earth） | 第1章 陆地的快速变化（Quick Changes to Land） | （未公开） | 示例探究 | STEMscopes Grade 2 Quick Changes to Land · Accelerate Learning | [PNG](<海报/g2-b2-s1-陆地的快速变化.png>) · [PDF](<海报/g2-b2-s1-陆地的快速变化.pdf>) |
+| 峡谷怎样形成？ | 二年级 | 单元2 应对地球的变化（Dealing with Changes to the Earth） | 第2章 陆地的缓慢变化（Slow Changes to Land） | （未公开） | 示例探究 | STEMscopes Grade 2 Slow Changes to Land · Accelerate Learning | [PNG](<海报/g2-b2-s2-陆地的缓慢变化.png>) · [PDF](<海报/g2-b2-s2-陆地的缓慢变化.pdf>) |
+| 怎样挡住风和水？ | 二年级 | 单元2 应对地球的变化（Dealing with Changes to the Earth） | 第3章 风和水的作用（Effects of Wind and Water） | Stop the Erosion!、Save the Beach House | 教材活动 | STEMscopes Grade 2 Effects of Wind and Water · Accelerate Learning | [PNG](<海报/g2-b2-s3-风和水的作用.png>) · [PDF](<海报/g2-b2-s3-风和水的作用.pdf>) |
+| 怎样画地图？ | 二年级 | 单元3 绘制陆地与水（Mapping Land and Water） | 第1章 绘制我们的世界（Mapping Our World） | （未公开） | 示例探究 | STEMscopes Grade 2 Mapping Our World · Accelerate Learning | [PNG](<海报/g2-b3-s1-绘制我们的世界.png>) · [PDF](<海报/g2-b3-s1-绘制我们的世界.pdf>) |
+| 地球上哪有水？ | 二年级 | 单元3 绘制陆地与水（Mapping Land and Water） | 第2章 地球上水的形态（Forms of Water on Earth） | （未公开） | 示例探究 | STEMscopes Grade 2 Forms of Water on Earth · Accelerate Learning | [PNG](<海报/g2-b3-s2-地球上水的形态.png>) · [PDF](<海报/g2-b3-s2-地球上水的形态.pdf>) |
+| 怎样描述物质？ | 二年级 | 单元4 设计中选择和使用材料（Selecting and Using Materials in the Design Process） | 第1章 物质的性质和状态（Properties and States of Matter） | （未公开） | 示例探究 | STEMscopes Grade 2 Properties and States of Matter · Accelerate Learning | [PNG](<海报/g2-b4-s1-物质的性质和状态.png>) · [PDF](<海报/g2-b4-s1-物质的性质和状态.pdf>) |
+| 雨衣用什么做？ | 二年级 | 单元4 设计中选择和使用材料（Selecting and Using Materials in the Design Process） | 第2章 材料的性质（Properties of Materials） | （未公开） | 示例探究 | STEMscopes Grade 2 Properties of Materials · Accelerate Learning | [PNG](<海报/g2-b4-s2-材料的性质.png>) · [PDF](<海报/g2-b4-s2-材料的性质.pdf>) |
+| 小块能拼成什么？ | 二年级 | 单元4 设计中选择和使用材料（Selecting and Using Materials in the Design Process） | 第3章 物质的组成单元（Building Blocks of Matter） | （未公开） | 示例探究 | STEMscopes Grade 2 Building Blocks of Matter · Accelerate Learning | [PNG](<海报/g2-b4-s3-物质的组成单元.png>) · [PDF](<海报/g2-b4-s3-物质的组成单元.pdf>) |
+| 加热能变回来吗？ | 二年级 | 单元4 设计中选择和使用材料（Selecting and Using Materials in the Design Process） | 第4章 受热带来的变化（Changes from Heat） | （未公开） | 示例探究 | STEMscopes Grade 2 Changes from Heat · Accelerate Learning | [PNG](<海报/g2-b4-s4-受热带来的变化.png>) · [PDF](<海报/g2-b4-s4-受热带来的变化.pdf>) |
