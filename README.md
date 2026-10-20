@@ -26,3 +26,13 @@
 进门效果用来看气氛：浅色墙面，暖光来自真实的灯泡。
 
 ![点亮工坊进门效果](点亮工坊进门效果.jpg)
+
+## 教材海报
+
+按「教育阶段 / 学科 / 教材」整理：
+
+- [小学](小学/)
+  - [数学](小学/数学/)：Singapore Math、Beast Academy、Bridges in Mathematics、Illustrative Mathematics、Eureka Math、Saxon Math
+  - [科学](小学/科学/)：Scott Foresman Science、Elevate Science、FOSS、Amplify Science、Mystery Science、Inspire Science、Into Science、STEMscopes
+- [初中](初中/)：数学、科学（待添加）
+- [高中](高中/)：数学、科学（待添加）
