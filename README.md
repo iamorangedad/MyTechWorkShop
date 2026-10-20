@@ -36,3 +36,5 @@
   - [科学](小学/科学/)：Scott Foresman Science、Elevate Science、FOSS、Amplify Science、Mystery Science、Inspire Science、Into Science、STEMscopes
 - [初中](初中/)：数学、科学（待添加）
 - [高中](高中/)：数学、科学（待添加）
+
+完整的知名教材清单见 [教材清单](教材清单.md)。
