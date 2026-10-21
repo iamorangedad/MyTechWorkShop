@@ -2,4 +2,4 @@
 
 | 教材 | 出版方 | 海报数 |
 |---|---|---|
-| [Illustrative Mathematics](Illustrative%20Mathematics/) | Illustrative Mathematics | 79 |
+| [Illustrative Mathematics](Illustrative%20Mathematics/) | Illustrative Mathematics | 119 |

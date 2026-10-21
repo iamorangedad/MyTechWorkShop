@@ -7,7 +7,7 @@
 
 ## 海报
 
-和 K–5 一样每个 Section 一张，全套 119 张（六年级 43、七年级 36、八年级 40）。已完成 79 张（PNG + PDF）：六年级 43、七年级 36。海报只用公制单位和人民币；为说明而举的数字标「示例」；动手活动加了安全提示；每张海报底部都标注了教材来源。
+和 K–5 一样每个 Section 一张，全套 119 张（六年级 43、七年级 36、八年级 40）。已完成 119 张（PNG + PDF）：六年级 43、七年级 36、八年级 40。海报只用公制单位和人民币；为说明而举的数字标「示例」；动手活动加了安全提示；每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 部分 | 部分名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -90,3 +90,43 @@
 | 经营餐馆 | 七年级 | 第9单元 A部分 | 经营餐馆（Running a Restaurant） | IM 6–8 Math v.360 七年级 第9单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u9a-经营餐馆.png>) · [PDF](<海报/g7-u9a-经营餐馆.pdf>) |
 | 数学建模联系 | 七年级 | 第9单元 B部分 | 建立联系（Making Connections） | IM 6–8 Math v.360 七年级 第9单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u9b-建立联系.png>) · [PDF](<海报/g7-u9b-建立联系.pdf>) |
 | 设计 5 千米路线 | 七年级 | 第9单元 C部分 | 设计 5 千米路线（Designing a Course） | IM 6–8 Math v.360 七年级 第9单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u9c-设计5千米路线.png>) · [PDF](<海报/g7-u9c-设计5千米路线.pdf>) |
+| 刚体变换 | 八年级 | 第1单元 A部分 | 刚体变换（Rigid Transformations） | IM 6–8 Math v.360 八年级 第1单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u1a-刚体变换.png>) · [PDF](<海报/g8-u1a-刚体变换.pdf>) |
+| 刚体变换的性质 | 八年级 | 第1单元 B部分 | 刚体变换的性质（Properties of Rigid Transformations） | IM 6–8 Math v.360 八年级 第1单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u1b-刚体变换的性质.png>) · [PDF](<海报/g8-u1b-刚体变换的性质.pdf>) |
+| 全等 | 八年级 | 第1单元 C部分 | 全等（Congruence） | IM 6–8 Math v.360 八年级 第1单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u1c-全等.png>) · [PDF](<海报/g8-u1c-全等.pdf>) |
+| 三角形内角和 | 八年级 | 第1单元 D部分 | 三角形的内角（Angles in a Triangle） | IM 6–8 Math v.360 八年级 第1单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u1d-三角形的内角.png>) · [PDF](<海报/g8-u1d-三角形的内角.pdf>) |
+| 旋转与密铺 | 八年级 | 第1单元 E部分 | 综合运用：旋转与密铺（Let's Put It to Work） | IM 6–8 Math v.360 八年级 第1单元 E部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u1e-综合运用旋转与密铺.png>) · [PDF](<海报/g8-u1e-综合运用旋转与密铺.pdf>) |
+| 位似 | 八年级 | 第2单元 A部分 | 位似（Dilations） | IM 6–8 Math v.360 八年级 第2单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u2a-位似.png>) · [PDF](<海报/g8-u2a-位似.pdf>) |
+| 相似 | 八年级 | 第2单元 B部分 | 相似（Similarity） | IM 6–8 Math v.360 八年级 第2单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u2b-相似.png>) · [PDF](<海报/g8-u2b-相似.pdf>) |
+| 斜率 | 八年级 | 第2单元 C部分 | 斜率（Slope） | IM 6–8 Math v.360 八年级 第2单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u2c-斜率.png>) · [PDF](<海报/g8-u2c-斜率.pdf>) |
+| 影子测高 | 八年级 | 第2单元 D部分 | 综合运用：影子测高（Let's Put It to Work） | IM 6–8 Math v.360 八年级 第2单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u2d-综合运用影子测高.png>) · [PDF](<海报/g8-u2d-综合运用影子测高.pdf>) |
+| 正比例关系 | 八年级 | 第3单元 A部分 | 正比例关系（Proportional Relationships） | IM 6–8 Math v.360 八年级 第3单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u3a-正比例关系.png>) · [PDF](<海报/g8-u3a-正比例关系.pdf>) |
+| 线性关系 | 八年级 | 第3单元 B部分 | 表示线性关系（Representing Linear Relationships） | IM 6–8 Math v.360 八年级 第3单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u3b-表示线性关系.png>) · [PDF](<海报/g8-u3b-表示线性关系.pdf>) |
+| 求斜率 | 八年级 | 第3单元 C部分 | 求斜率（Finding Slopes） | IM 6–8 Math v.360 八年级 第3单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u3c-求斜率.png>) · [PDF](<海报/g8-u3c-求斜率.pdf>) |
+| 线性方程 | 八年级 | 第3单元 D部分 | 线性方程（Linear Equations） | IM 6–8 Math v.360 八年级 第3单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u3d-线性方程.png>) · [PDF](<海报/g8-u3d-线性方程.pdf>) |
+| 用线性关系 | 八年级 | 第3单元 E部分 | 综合运用（Let's Put It to Work） | IM 6–8 Math v.360 八年级 第3单元 E部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u3e-综合运用.png>) · [PDF](<海报/g8-u3e-综合运用.pdf>) |
+| 解线性方程 | 八年级 | 第4单元 A部分 | 等价方程（Equivalent Equations） | IM 6–8 Math v.360 八年级 第4单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u4a-等价方程.png>) · [PDF](<海报/g8-u4a-等价方程.pdf>) |
+| 解的个数 | 八年级 | 第4单元 B部分 | 一元一次方程的解（Linear Equations in One Variable） | IM 6–8 Math v.360 八年级 第4单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u4b-一元一次方程的解.png>) · [PDF](<海报/g8-u4b-一元一次方程的解.pdf>) |
+| 方程组 | 八年级 | 第4单元 C部分 | 二元一次方程组（Systems of Linear Equations） | IM 6–8 Math v.360 八年级 第4单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u4c-二元一次方程组.png>) · [PDF](<海报/g8-u4c-二元一次方程组.pdf>) |
+| 用方程解决问题 | 八年级 | 第4单元 D部分 | 综合运用（Let’s Put It to Work） | IM 6–8 Math v.360 八年级 第4单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u4d-综合运用.png>) · [PDF](<海报/g8-u4d-综合运用.pdf>) |
+| 输入和输出 | 八年级 | 第5单元 A部分 | 输入和输出（Inputs and Outputs） | IM 6–8 Math v.360 八年级 第5单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u5a-输入和输出.png>) · [PDF](<海报/g8-u5a-输入和输出.pdf>) |
+| 表示和解读函数 | 八年级 | 第5单元 B部分 | 表示和解读函数（Representing and Interpreting Functions） | IM 6–8 Math v.360 八年级 第5单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u5b-表示和解读函数.png>) · [PDF](<海报/g8-u5b-表示和解读函数.pdf>) |
+| 线性函数 | 八年级 | 第5单元 C部分 | 线性函数和变化率（Linear Functions and Rates of Change） | IM 6–8 Math v.360 八年级 第5单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u5c-线性函数和变化率.png>) · [PDF](<海报/g8-u5c-线性函数和变化率.pdf>) |
+| 圆柱和圆锥 | 八年级 | 第5单元 D部分 | 圆柱和圆锥（Cylinders and Cones） | IM 6–8 Math v.360 八年级 第5单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u5d-圆柱和圆锥.png>) · [PDF](<海报/g8-u5d-圆柱和圆锥.pdf>) |
+| 尺寸变化与球 | 八年级 | 第5单元 E部分 | 尺寸变化与球（Dimensions and Spheres） | IM 6–8 Math v.360 八年级 第5单元 E部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u5e-尺寸变化与球.png>) · [PDF](<海报/g8-u5e-尺寸变化与球.pdf>) |
+| 体积的函数 | 八年级 | 第5单元 F部分 | 综合运用（Let's Put It to Work） | IM 6–8 Math v.360 八年级 第5单元 F部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u5f-综合运用.png>) · [PDF](<海报/g8-u5f-综合运用.pdf>) |
+| 散点图 | 八年级 | 第6单元 A部分 | 散点图（Does This Predict That?） | IM 6–8 Math v.360 八年级 第6单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u6a-散点图.png>) · [PDF](<海报/g8-u6a-散点图.pdf>) |
+| 数值数据的关联 | 八年级 | 第6单元 B部分 | 数值数据的关联（Associations in Numerical Data） | IM 6–8 Math v.360 八年级 第6单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u6b-数值数据的关联.png>) · [PDF](<海报/g8-u6b-数值数据的关联.pdf>) |
+| 分类数据的关联 | 八年级 | 第6单元 C部分 | 分类数据的关联（Associations in Categorical Data） | IM 6–8 Math v.360 八年级 第6单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u6c-分类数据的关联.png>) · [PDF](<海报/g8-u6c-分类数据的关联.pdf>) |
+| 30 秒挑战 | 八年级 | 第6单元 D部分 | 综合运用：30 秒挑战（Let's Put It to Work） | IM 6–8 Math v.360 八年级 第6单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u6d-综合运用30秒挑战.png>) · [PDF](<海报/g8-u6d-综合运用30秒挑战.pdf>) |
+| 指数法则 | 八年级 | 第7单元 A部分 | 指数法则（Exponent Rules） | IM 6–8 Math v.360 八年级 第7单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u7a-指数法则.png>) · [PDF](<海报/g8-u7a-指数法则.pdf>) |
+| 更多指数法则 | 八年级 | 第7单元 B部分 | 更多指数法则（More Exponent Rules） | IM 6–8 Math v.360 八年级 第7单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u7b-更多指数法则.png>) · [PDF](<海报/g8-u7b-更多指数法则.pdf>) |
+| 很大和很小的数 | 八年级 | 第7单元 C部分 | 很大和很小的数（Large and Small Numbers） | IM 6–8 Math v.360 八年级 第7单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u7c-很大和很小的数.png>) · [PDF](<海报/g8-u7c-很大和很小的数.pdf>) |
+| 科学记数法 | 八年级 | 第7单元 D部分 | 科学记数法（Scientific Notation） | IM 6–8 Math v.360 八年级 第7单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u7d-科学记数法.png>) · [PDF](<海报/g8-u7d-科学记数法.pdf>) |
+| 手机与登月 | 八年级 | 第7单元 E部分 | 综合运用：手机与登月（Let's Put It to Work） | IM 6–8 Math v.360 八年级 第7单元 E部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u7e-综合运用手机与登月.png>) · [PDF](<海报/g8-u7e-综合运用手机与登月.pdf>) |
+| 平方根 | 八年级 | 第8单元 A部分 | 正方形的边长和面积（Side Lengths and Areas of Squares） | IM 6–8 Math v.360 八年级 第8单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u8a-正方形的边长和面积.png>) · [PDF](<海报/g8-u8a-正方形的边长和面积.pdf>) |
+| 勾股定理 | 八年级 | 第8单元 B部分 | 勾股定理（The Pythagorean Theorem） | IM 6–8 Math v.360 八年级 第8单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u8b-勾股定理.png>) · [PDF](<海报/g8-u8b-勾股定理.pdf>) |
+| 立方根 | 八年级 | 第8单元 C部分 | 正方体的棱长和体积（Side Lengths and Volumes of Cubes） | IM 6–8 Math v.360 八年级 第8单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u8c-正方体的棱长和体积.png>) · [PDF](<海报/g8-u8c-正方体的棱长和体积.pdf>) |
+| 有理数和无理数 | 八年级 | 第8单元 D部分 | 有理数和无理数的小数（Decimal Representation of Rational and Irrational Numbers） | IM 6–8 Math v.360 八年级 第8单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u8d-有理数和无理数的小数.png>) · [PDF](<海报/g8-u8d-有理数和无理数的小数.pdf>) |
+| 屏幕尺寸 | 八年级 | 第8单元 E部分 | 综合运用：屏幕尺寸（Let's Put It to Work） | IM 6–8 Math v.360 八年级 第8单元 E部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u8e-综合运用屏幕尺寸.png>) · [PDF](<海报/g8-u8e-综合运用屏幕尺寸.pdf>) |
+| 密铺 | 八年级 | 第9单元 A部分 | 密铺（Tessellations） | IM 6–8 Math v.360 八年级 第9单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u9a-密铺.png>) · [PDF](<海报/g8-u9a-密铺.pdf>) |
+| 预测气温 | 八年级 | 第9单元 B部分 | 预测气温（Predicting the Temperature） | IM 6–8 Math v.360 八年级 第9单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g8-u9b-预测气温.png>) · [PDF](<海报/g8-u9b-预测气温.pdf>) |
