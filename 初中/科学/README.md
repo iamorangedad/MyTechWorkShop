@@ -2,4 +2,4 @@
 
 | 教材 | 出版方 | 海报数 |
 |---|---|---|
-| [OpenSciEd](OpenSciEd/) | OpenSciEd | 131 |
+| [OpenSciEd](OpenSciEd/) | OpenSciEd | 195 |
