@@ -7,7 +7,7 @@
 
 ## 海报
 
-和 K–5 一样每个 Section 一张，全套 119 张（六年级 43、七年级 36、八年级 40）。已完成 43 张（PNG + PDF）：六年级 43。海报只用公制单位和人民币；为说明而举的数字标「示例」；动手活动加了安全提示；每张海报底部都标注了教材来源。
+和 K–5 一样每个 Section 一张，全套 119 张（六年级 43、七年级 36、八年级 40）。已完成 79 张（PNG + PDF）：六年级 43、七年级 36。海报只用公制单位和人民币；为说明而举的数字标「示例」；动手活动加了安全提示；每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 单元 · 部分 | 部分名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -54,3 +54,39 @@
 | 探索我们的世界 | 六年级 | 第9单元 A部分 | 探索我们的世界（Exploring Our World） | IM 6–8 Math v.360 六年级 第9单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g6-u9a-探索我们的世界.png>) · [PDF](<海报/g6-u9a-探索我们的世界.pdf>) |
 | 投票 | 六年级 | 第9单元 B部分 | 投票（Voting） | IM 6–8 Math v.360 六年级 第9单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g6-u9b-投票.png>) · [PDF](<海报/g6-u9b-投票.pdf>) |
 | 长方形与分数 | 六年级 | 第9单元 C部分 | 建立联系（Making Connections） | IM 6–8 Math v.360 六年级 第9单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g6-u9c-建立联系.png>) · [PDF](<海报/g6-u9c-建立联系.pdf>) |
+| 按比例缩放 | 七年级 | 第1单元 A部分 | 按比例缩放的图形（Scaled Copies） | IM 6–8 Math v.360 七年级 第1单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u1a-按比例缩放的图形.png>) · [PDF](<海报/g7-u1a-按比例缩放的图形.pdf>) |
+| 比例图 | 七年级 | 第1单元 B部分 | 比例图（Scale Drawings） | IM 6–8 Math v.360 七年级 第1单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u1b-比例图.png>) · [PDF](<海报/g7-u1b-比例图.pdf>) |
+| 画平面图 | 七年级 | 第1单元 C部分 | 综合运用：画平面图（Let’s Put It to Work） | IM 6–8 Math v.360 七年级 第1单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u1c-综合运用画平面图.png>) · [PDF](<海报/g7-u1c-综合运用画平面图.pdf>) |
+| 比例关系与表格 | 七年级 | 第2单元 A部分 | 用表格表示比例关系（Representing Proportional Relationships with Tables） | IM 6–8 Math v.360 七年级 第2单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u2a-用表格表示比例关系.png>) · [PDF](<海报/g7-u2a-用表格表示比例关系.pdf>) |
+| 比例关系与方程 | 七年级 | 第2单元 B部分 | 用方程表示比例关系（Representing Proportional Relationships with Equations） | IM 6–8 Math v.360 七年级 第2单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u2b-用方程表示比例关系.png>) · [PDF](<海报/g7-u2b-用方程表示比例关系.pdf>) |
+| 比例还是非比例 | 七年级 | 第2单元 C部分 | 比较比例与非比例关系（Comparing Proportional and Nonproportional Relationships） | IM 6–8 Math v.360 七年级 第2单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u2c-比较比例与非比例关系.png>) · [PDF](<海报/g7-u2c-比较比例与非比例关系.pdf>) |
+| 比例关系的图像 | 七年级 | 第2单元 D部分 | 用图像表示比例关系（Representing Proportional Relationships with Graphs） | IM 6–8 Math v.360 七年级 第2单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u2d-用图像表示比例关系.png>) · [PDF](<海报/g7-u2d-用图像表示比例关系.pdf>) |
+| 节约用水 | 七年级 | 第2单元 E部分 | 综合运用：节约用水（Let’s Put It to Work） | IM 6–8 Math v.360 七年级 第2单元 E部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u2e-综合运用节约用水.png>) · [PDF](<海报/g7-u2e-综合运用节约用水.pdf>) |
+| 圆的周长 | 七年级 | 第3单元 A部分 | 圆的周长（Circumference of a Circle） | IM 6–8 Math v.360 七年级 第3单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u3a-圆的周长.png>) · [PDF](<海报/g7-u3a-圆的周长.pdf>) |
+| 圆的面积 | 七年级 | 第3单元 B部分 | 圆的面积（Area of a Circle） | IM 6–8 Math v.360 七年级 第3单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u3b-圆的面积.png>) · [PDF](<海报/g7-u3b-圆的面积.pdf>) |
+| 周长还是面积 | 七年级 | 第3单元 C部分 | 综合运用：周长与面积（Let’s Put It to Work） | IM 6–8 Math v.360 七年级 第3单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u3c-综合运用周长与面积.png>) · [PDF](<海报/g7-u3c-综合运用周长与面积.pdf>) |
+| 分数的比例关系 | 七年级 | 第4单元 A部分 | 含分数的比例关系（Proportional Relationships with Fractions） | IM 6–8 Math v.360 七年级 第4单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u4a-含分数的比例关系.png>) · [PDF](<海报/g7-u4a-含分数的比例关系.pdf>) |
+| 百分数增减 | 七年级 | 第4单元 B部分 | 百分数的增加和减少（Percent Increase and Decrease） | IM 6–8 Math v.360 七年级 第4单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u4b-百分数的增加和减少.png>) · [PDF](<海报/g7-u4b-百分数的增加和减少.pdf>) |
+| 百分数的应用 | 七年级 | 第4单元 C部分 | 百分数的应用（Applying Percentages） | IM 6–8 Math v.360 七年级 第4单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u4c-百分数的应用.png>) · [PDF](<海报/g7-u4c-百分数的应用.pdf>) |
+| 百分数看世界 | 七年级 | 第4单元 D部分 | 综合运用（Let’s Put It to Work） | IM 6–8 Math v.360 七年级 第4单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u4d-综合运用.png>) · [PDF](<海报/g7-u4d-综合运用.pdf>) |
+| 有理数加减 | 七年级 | 第5单元 A部分 | 有理数的加减（Adding and Subtracting Rational Numbers） | IM 6–8 Math v.360 七年级 第5单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u5a-有理数的加减.png>) · [PDF](<海报/g7-u5a-有理数的加减.pdf>) |
+| 有理数乘除 | 七年级 | 第5单元 B部分 | 有理数的乘除（Multiplying and Dividing Rational Numbers） | IM 6–8 Math v.360 七年级 第5单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u5b-有理数的乘除.png>) · [PDF](<海报/g7-u5b-有理数的乘除.pdf>) |
+| 有理数四则运算 | 七年级 | 第5单元 C部分 | 有理数的四则运算（Four Operations with Rational Numbers） | IM 6–8 Math v.360 七年级 第5单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u5c-有理数的四则运算.png>) · [PDF](<海报/g7-u5c-有理数的四则运算.pdf>) |
+| 股票中的正负数 | 七年级 | 第5单元 D部分 | 综合运用：股票市场（Let’s Put It to Work） | IM 6–8 Math v.360 七年级 第5单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u5d-综合运用股票市场.png>) · [PDF](<海报/g7-u5d-综合运用股票市场.pdf>) |
+| 两类情境 | 七年级 | 第6单元 A部分 | 表示两类情境（Representing Situations of the Form px+q=r and p(x+q)=r） | IM 6–8 Math v.360 七年级 第6单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u6a-表示两类情境.png>) · [PDF](<海报/g7-u6a-表示两类情境.pdf>) |
+| 解两类方程 | 七年级 | 第6单元 B部分 | 解两类方程（Solving Equations of the Form px+q=r and p(x+q)=r and Problems That Lead to Those Equations） | IM 6–8 Math v.360 七年级 第6单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u6b-解两类方程.png>) · [PDF](<海报/g7-u6b-解两类方程.pdf>) |
+| 解不等式 | 七年级 | 第6单元 C部分 | 不等式（Inequalities） | IM 6–8 Math v.360 七年级 第6单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u6c-不等式.png>) · [PDF](<海报/g7-u6c-不等式.pdf>) |
+| 等价表达式 | 七年级 | 第6单元 D部分 | 写等价表达式（Writing Equivalent Expressions） | IM 6–8 Math v.360 七年级 第6单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u6d-写等价表达式.png>) · [PDF](<海报/g7-u6d-写等价表达式.pdf>) |
+| 表达式解问题 | 七年级 | 第6单元 E部分 | 综合运用（Let’s Put It to Work） | IM 6–8 Math v.360 七年级 第6单元 E部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u6e-综合运用.png>) · [PDF](<海报/g7-u6e-综合运用.pdf>) |
+| 角的关系 | 七年级 | 第7单元 A部分 | 角的关系（Angle Relationships） | IM 6–8 Math v.360 七年级 第7单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u7a-角的关系.png>) · [PDF](<海报/g7-u7a-角的关系.pdf>) |
+| 按条件画三角形 | 七年级 | 第7单元 B部分 | 按条件画多边形（Drawing Polygons with Given Conditions） | IM 6–8 Math v.360 七年级 第7单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u7b-按条件画多边形.png>) · [PDF](<海报/g7-u7b-按条件画多边形.pdf>) |
+| 截面与棱柱 | 七年级 | 第7单元 C部分 | 立体几何（Solid Geometry） | IM 6–8 Math v.360 七年级 第7单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u7c-立体几何.png>) · [PDF](<海报/g7-u7c-立体几何.pdf>) |
+| 做一个三棱柱 | 七年级 | 第7单元 D部分 | 综合运用：做三棱柱（Let’s Put It to Work） | IM 6–8 Math v.360 七年级 第7单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u7d-综合运用做三棱柱.png>) · [PDF](<海报/g7-u7d-综合运用做三棱柱.pdf>) |
+| 单步事件的概率 | 七年级 | 第8单元 A部分 | 单步事件的概率（Probabilities of Single-Step Events） | IM 6–8 Math v.360 七年级 第8单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u8a-单步事件的概率.png>) · [PDF](<海报/g7-u8a-单步事件的概率.pdf>) |
+| 多步事件的概率 | 七年级 | 第8单元 B部分 | 多步事件的概率（Probabilities of Multi-step Events） | IM 6–8 Math v.360 七年级 第8单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u8b-多步事件的概率.png>) · [PDF](<海报/g7-u8b-多步事件的概率.pdf>) |
+| 抽样 | 七年级 | 第8单元 C部分 | 抽样（Sampling） | IM 6–8 Math v.360 七年级 第8单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u8c-抽样.png>) · [PDF](<海报/g7-u8c-抽样.pdf>) |
+| 用样本推断 | 七年级 | 第8单元 D部分 | 用样本推断（Using Samples） | IM 6–8 Math v.360 七年级 第8单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u8d-用样本推断.png>) · [PDF](<海报/g7-u8d-用样本推断.pdf>) |
+| 记忆测试 | 七年级 | 第8单元 E部分 | 综合运用：记忆测试（Let’s Put It to Work） | IM 6–8 Math v.360 七年级 第8单元 E部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u8e-综合运用记忆测试.png>) · [PDF](<海报/g7-u8e-综合运用记忆测试.pdf>) |
+| 经营餐馆 | 七年级 | 第9单元 A部分 | 经营餐馆（Running a Restaurant） | IM 6–8 Math v.360 七年级 第9单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u9a-经营餐馆.png>) · [PDF](<海报/g7-u9a-经营餐馆.pdf>) |
+| 数学建模联系 | 七年级 | 第9单元 B部分 | 建立联系（Making Connections） | IM 6–8 Math v.360 七年级 第9单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u9b-建立联系.png>) · [PDF](<海报/g7-u9b-建立联系.pdf>) |
+| 设计 5 千米路线 | 七年级 | 第9单元 C部分 | 设计 5 千米路线（Designing a Course） | IM 6–8 Math v.360 七年级 第9单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/g7-u9c-设计5千米路线.png>) · [PDF](<海报/g7-u9c-设计5千米路线.pdf>) |
