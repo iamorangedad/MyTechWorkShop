@@ -7,7 +7,7 @@
 
 ## 海报
 
-和 K–5 一样每个 Topic 一张，全套 71 张（六年级 27、七年级 23、八年级 21）。已完成 27 张（PNG + PDF）：六年级 27。海报只用公制单位和人民币；为说明而举的数字标「示例」；动手活动加了安全提示；每张海报底部都标注了教材来源和许可。
+和 K–5 一样每个 Topic 一张，全套 71 张（六年级 27、七年级 23、八年级 21）。已完成 50 张（PNG + PDF）：六年级 27、七年级 23。海报只用公制单位和人民币；为说明而举的数字标「示例」；动手活动加了安全提示；每张海报底部都标注了教材来源和许可。
 
 | 海报 | 年级 | 模块 · 主题 | 主题名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -38,3 +38,26 @@
 | 平均数和 MAD | 六年级 | 第6模块 B主题 | 平均数和平均绝对偏差（Summarizing a Distribution That Is Approximately Symmetric Using the Mean and Mean Absolute Deviation） | Eureka Math 六年级 第6模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m6b-平均数和平均绝对偏差.png>) · [PDF](<海报/g6-m6b-平均数和平均绝对偏差.pdf>) |
 | 中位数和四分位距 | 六年级 | 第6模块 C主题 | 中位数和四分位距（Summarizing a Distribution That Is Skewed Using the Median and the Interquartile Range） | Eureka Math 六年级 第6模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m6c-中位数和四分位距.png>) · [PDF](<海报/g6-m6c-中位数和四分位距.pdf>) |
 | 统计项目 | 六年级 | 第6模块 D主题 | 概括和描述分布（Summarizing and Describing Distributions） | Eureka Math 六年级 第6模块 D主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m6d-概括和描述分布.png>) · [PDF](<海报/g6-m6d-概括和描述分布.pdf>) |
+| 比例关系 | 七年级 | 第1模块 A主题 | 比例关系（Proportional Relationships） | Eureka Math 七年级 第1模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m1a-比例关系.png>) · [PDF](<海报/g7-m1a-比例关系.pdf>) |
+| 比例常数 | 七年级 | 第1模块 B主题 | 单位比率和比例常数（Unit Rate and the Constant of Proportionality） | Eureka Math 七年级 第1模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m1b-单位比率和比例常数.png>) · [PDF](<海报/g7-m1b-单位比率和比例常数.pdf>) |
+| 分数的比和比率 | 七年级 | 第1模块 C主题 | 含分数的比和比率（Ratios and Rates Involving Fractions） | Eureka Math 七年级 第1模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m1c-含分数的比和比率.png>) · [PDF](<海报/g7-m1c-含分数的比和比率.pdf>) |
+| 比例尺图 | 七年级 | 第1模块 D主题 | 比例尺图（Ratios of Scale Drawings） | Eureka Math 七年级 第1模块 D主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m1d-比例尺图.png>) · [PDF](<海报/g7-m1d-比例尺图.pdf>) |
+| 有理数加减 | 七年级 | 第2模块 A主题 | 有理数的加减（Addition and Subtraction of Integers and Rational Numbers） | Eureka Math 七年级 第2模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m2a-有理数的加减.png>) · [PDF](<海报/g7-m2a-有理数的加减.pdf>) |
+| 有理数乘除 | 七年级 | 第2模块 B主题 | 有理数的乘除（Multiplication and Division of Integers and Rational Numbers） | Eureka Math 七年级 第2模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m2b-有理数的乘除.png>) · [PDF](<海报/g7-m2b-有理数的乘除.pdf>) |
+| 有理数运算应用 | 七年级 | 第2模块 C主题 | 有理数运算的应用（Applying Operations with Rational Numbers to Expressions and Equations） | Eureka Math 七年级 第2模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m2c-有理数运算的应用.png>) · [PDF](<海报/g7-m2c-有理数运算的应用.pdf>) |
+| 等价代数式 | 七年级 | 第3模块 A主题 | 等价代数式（Use Properties of Operations to Generate Equivalent Expressions） | Eureka Math 七年级 第3模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m3a-等价代数式.png>) · [PDF](<海报/g7-m3a-等价代数式.pdf>) |
+| 方程与不等式 | 七年级 | 第3模块 B主题 | 方程与不等式（Solve Problems Using Expressions, Equations, and Inequalities） | Eureka Math 七年级 第3模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m3b-方程与不等式.png>) · [PDF](<海报/g7-m3b-方程与不等式.pdf>) |
+| 圆和直棱柱 | 七年级 | 第3模块 C主题 | 几何问题（Use Equations and Inequalities to Solve Geometry Problems） | Eureka Math 七年级 第3模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m3c-几何问题.png>) · [PDF](<海报/g7-m3c-几何问题.pdf>) |
+| 求整体 | 七年级 | 第4模块 A主题 | 求整体（Finding the Whole） | Eureka Math 七年级 第4模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m4a-求整体.png>) · [PDF](<海报/g7-m4a-求整体.pdf>) |
+| 多个整体的百分数 | 七年级 | 第4模块 B主题 | 多个整体的百分数问题（Percent Problems Including More Than One Whole） | Eureka Math 七年级 第4模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m4b-多个整体的百分数问题.png>) · [PDF](<海报/g7-m4b-多个整体的百分数问题.pdf>) |
+| 比例尺与百分数 | 七年级 | 第4模块 C主题 | 比例尺图（Scale Drawings） | Eureka Math 七年级 第4模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m4c-比例尺图.png>) · [PDF](<海报/g7-m4c-比例尺图.pdf>) |
+| 人口混合与计数 | 七年级 | 第4模块 D主题 | 人口、混合和计数问题（Population, Mixture, and Counting Problems Involving Percents） | Eureka Math 七年级 第4模块 D主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m4d-人口混合和计数问题.png>) · [PDF](<海报/g7-m4d-人口混合和计数问题.pdf>) |
+| 计算概率 | 七年级 | 第5模块 A主题 | 计算和理解概率（Calculating and Interpreting Probabilities） | Eureka Math 七年级 第5模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m5a-计算和理解概率.png>) · [PDF](<海报/g7-m5a-计算和理解概率.pdf>) |
+| 估计概率 | 七年级 | 第5模块 B主题 | 估计概率（Estimating Probabilities） | Eureka Math 七年级 第5模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m5b-估计概率.png>) · [PDF](<海报/g7-m5b-估计概率.pdf>) |
+| 随机抽样 | 七年级 | 第5模块 C主题 | 随机抽样与估计总体（Random Sampling and Estimating Population Characteristics） | Eureka Math 七年级 第5模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m5c-随机抽样与估计总体.png>) · [PDF](<海报/g7-m5c-随机抽样与估计总体.pdf>) |
+| 比较总体 | 七年级 | 第5模块 D主题 | 比较总体（Comparing Populations） | Eureka Math 七年级 第5模块 D主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m5d-比较总体.png>) · [PDF](<海报/g7-m5d-比较总体.pdf>) |
+| 未知角 | 七年级 | 第6模块 A主题 | 未知角（Unknown Angles） | Eureka Math 七年级 第6模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m6a-未知角.png>) · [PDF](<海报/g7-m6a-未知角.pdf>) |
+| 作三角形 | 七年级 | 第6模块 B主题 | 作三角形（Constructing Triangles） | Eureka Math 七年级 第6模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m6b-作三角形.png>) · [PDF](<海报/g7-m6b-作三角形.pdf>) |
+| 截立体图形 | 七年级 | 第6模块 C主题 | 截立体图形（Slicing Solids） | Eureka Math 七年级 第6模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m6c-截立体图形.png>) · [PDF](<海报/g7-m6c-截立体图形.pdf>) |
+| 面积和表面积 | 七年级 | 第6模块 D主题 | 面积和表面积问题（Problems Involving Area and Surface Area） | Eureka Math 七年级 第6模块 D主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m6d-面积和表面积问题.png>) · [PDF](<海报/g7-m6d-面积和表面积问题.pdf>) |
+| 体积问题 | 七年级 | 第6模块 E主题 | 体积问题（Problems Involving Volume） | Eureka Math 七年级 第6模块 E主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m6e-体积问题.png>) · [PDF](<海报/g7-m6e-体积问题.pdf>) |
