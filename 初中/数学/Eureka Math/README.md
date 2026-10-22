@@ -7,7 +7,7 @@
 
 ## 海报
 
-和 K–5 一样每个 Topic 一张，全套 71 张（六年级 27、七年级 23、八年级 21）。已完成 50 张（PNG + PDF）：六年级 27、七年级 23。海报只用公制单位和人民币；为说明而举的数字标「示例」；动手活动加了安全提示；每张海报底部都标注了教材来源和许可。
+和 K–5 一样每个 Topic 一张，全套 71 张（六年级 27、七年级 23、八年级 21）。已完成 71 张（PNG + PDF）：六年级 27、七年级 23、八年级 21。海报只用公制单位和人民币；为说明而举的数字标「示例」；动手活动加了安全提示；每张海报底部都标注了教材来源和许可。
 
 | 海报 | 年级 | 模块 · 主题 | 主题名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -61,3 +61,24 @@
 | 截立体图形 | 七年级 | 第6模块 C主题 | 截立体图形（Slicing Solids） | Eureka Math 七年级 第6模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m6c-截立体图形.png>) · [PDF](<海报/g7-m6c-截立体图形.pdf>) |
 | 面积和表面积 | 七年级 | 第6模块 D主题 | 面积和表面积问题（Problems Involving Area and Surface Area） | Eureka Math 七年级 第6模块 D主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m6d-面积和表面积问题.png>) · [PDF](<海报/g7-m6d-面积和表面积问题.pdf>) |
 | 体积问题 | 七年级 | 第6模块 E主题 | 体积问题（Problems Involving Volume） | Eureka Math 七年级 第6模块 E主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g7-m6e-体积问题.png>) · [PDF](<海报/g7-m6e-体积问题.pdf>) |
+| 整数指数 | 八年级 | 第1模块 A主题 | 指数记法和整数指数的性质（Exponential Notation and Properties of Integer Exponents） | Eureka Math 八年级 第1模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m1a-指数记法和整数指数的性质.png>) · [PDF](<海报/g8-m1a-指数记法和整数指数的性质.pdf>) |
+| 科学记数法 | 八年级 | 第1模块 B主题 | 数量级和科学记数法（Magnitude and Scientific Notation） | Eureka Math 八年级 第1模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m1b-数量级和科学记数法.png>) · [PDF](<海报/g8-m1b-数量级和科学记数法.pdf>) |
+| 基本刚体运动 | 八年级 | 第2模块 A主题 | 基本刚体运动（Definitions and Properties of the Basic Rigid Motions） | Eureka Math 八年级 第2模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m2a-基本刚体运动.png>) · [PDF](<海报/g8-m2a-基本刚体运动.pdf>) |
+| 刚体运动的序列 | 八年级 | 第2模块 B主题 | 刚体运动的序列（Sequencing the Basic Rigid Motions） | Eureka Math 八年级 第2模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m2b-刚体运动的序列.png>) · [PDF](<海报/g8-m2b-刚体运动的序列.pdf>) |
+| 全等与角 | 八年级 | 第2模块 C主题 | 全等与角的关系（Congruence and Angle Relationships） | Eureka Math 八年级 第2模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m2c-全等与角的关系.png>) · [PDF](<海报/g8-m2c-全等与角的关系.pdf>) |
+| 位似 | 八年级 | 第3模块 A主题 | 位似（Dilation） | Eureka Math 八年级 第3模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m3a-位似.png>) · [PDF](<海报/g8-m3a-位似.pdf>) |
+| 相似图形 | 八年级 | 第3模块 B主题 | 相似图形（Similar Figures） | Eureka Math 八年级 第3模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m3b-相似图形.png>) · [PDF](<海报/g8-m3b-相似图形.pdf>) |
+| 解线性方程 | 八年级 | 第4模块 A主题 | 列方程和解线性方程（Writing and Solving Linear Equations） | Eureka Math 八年级 第4模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m4a-列方程和解线性方程.png>) · [PDF](<海报/g8-m4a-列方程和解线性方程.pdf>) |
+| 二元方程和图像 | 八年级 | 第4模块 B主题 | 二元线性方程及其图像（Linear Equations in Two Variables and Their Graphs） | Eureka Math 八年级 第4模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m4b-二元线性方程及其图像.png>) · [PDF](<海报/g8-m4b-二元线性方程及其图像.pdf>) |
+| 斜率和直线方程 | 八年级 | 第4模块 C主题 | 斜率和直线方程（Slope and Equations of Lines） | Eureka Math 八年级 第4模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m4c-斜率和直线方程.png>) · [PDF](<海报/g8-m4c-斜率和直线方程.pdf>) |
+| 线性方程组 | 八年级 | 第4模块 D主题 | 线性方程组（Systems of Linear Equations and Their Solutions） | Eureka Math 八年级 第4模块 D主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m4d-线性方程组.png>) · [PDF](<海报/g8-m4d-线性方程组.pdf>) |
+| 函数 | 八年级 | 第5模块 A主题 | 函数（Functions） | Eureka Math 八年级 第5模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m5a-函数.png>) · [PDF](<海报/g8-m5a-函数.pdf>) |
+| 圆柱圆锥和球 | 八年级 | 第5模块 B主题 | 体积（Volume） | Eureka Math 八年级 第5模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m5b-体积.png>) · [PDF](<海报/g8-m5b-体积.pdf>) |
+| 线性函数模型 | 八年级 | 第6模块 A主题 | 线性函数（Linear Functions） | Eureka Math 八年级 第6模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m6a-线性函数.png>) · [PDF](<海报/g8-m6a-线性函数.pdf>) |
+| 散点图 | 八年级 | 第6模块 B主题 | 双变量数值数据（Bivariate Numerical Data） | Eureka Math 八年级 第6模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m6b-双变量数值数据.png>) · [PDF](<海报/g8-m6b-双变量数值数据.pdf>) |
+| 线性和非线性模型 | 八年级 | 第6模块 C主题 | 线性和非线性模型（Linear and Nonlinear Models） | Eureka Math 八年级 第6模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m6c-线性和非线性模型.png>) · [PDF](<海报/g8-m6c-线性和非线性模型.pdf>) |
+| 双变量分类数据 | 八年级 | 第6模块 D主题 | 双变量分类数据（Bivariate Categorical Data） | Eureka Math 八年级 第6模块 D主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m6d-双变量分类数据.png>) · [PDF](<海报/g8-m6d-双变量分类数据.pdf>) |
+| 平方根和立方根 | 八年级 | 第7模块 A主题 | 平方根和立方根（Square and Cube Roots） | Eureka Math 八年级 第7模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m7a-平方根和立方根.png>) · [PDF](<海报/g8-m7a-平方根和立方根.pdf>) |
+| 数的小数展开 | 八年级 | 第7模块 B主题 | 数的小数展开（Decimal Expansions of Numbers） | Eureka Math 八年级 第7模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m7b-数的小数展开.png>) · [PDF](<海报/g8-m7b-数的小数展开.pdf>) |
+| 勾股定理 | 八年级 | 第7模块 C主题 | 勾股定理（The Pythagorean Theorem） | Eureka Math 八年级 第7模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m7c-勾股定理.png>) · [PDF](<海报/g8-m7c-勾股定理.pdf>) |
+| 根式的应用 | 八年级 | 第7模块 D主题 | 根式的应用（Applications of Radicals and Roots） | Eureka Math 八年级 第7模块 D主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g8-m7d-根式的应用.png>) · [PDF](<海报/g8-m7d-根式的应用.pdf>) |
