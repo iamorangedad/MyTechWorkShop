@@ -7,6 +7,34 @@
 
 ## 海报
 
-和 K–5 一样每个 Topic 一张，全套 71 张（六年级 27、七年级 23、八年级 21）。已完成 0 张（PNG + PDF）。海报只用公制单位和人民币；为说明而举的数字标「示例」；动手活动加了安全提示；每张海报底部都标注了教材来源和许可。
+和 K–5 一样每个 Topic 一张，全套 71 张（六年级 27、七年级 23、八年级 21）。已完成 27 张（PNG + PDF）：六年级 27。海报只用公制单位和人民币；为说明而举的数字标「示例」；动手活动加了安全提示；每张海报底部都标注了教材来源和许可。
 
-海报制作中。
+| 海报 | 年级 | 模块 · 主题 | 主题名称 | 教材来源 | 文件 |
+|---|---|---|---|---|---|
+| 比和等值比 | 六年级 | 第1模块 A主题 | 比的表示和推理（Representing and Reasoning About Ratios） | Eureka Math 六年级 第1模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m1a-比的表示和推理.png>) · [PDF](<海报/g6-m1a-比的表示和推理.pdf>) |
+| 比率表和双数线 | 六年级 | 第1模块 B主题 | 等值比的集合（Collections of Equivalent Ratios） | Eureka Math 六年级 第1模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m1b-等值比的集合.png>) · [PDF](<海报/g6-m1b-等值比的集合.pdf>) |
+| 单位比率 | 六年级 | 第1模块 C主题 | 单位比率（Unit Rates） | Eureka Math 六年级 第1模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m1c-单位比率.png>) · [PDF](<海报/g6-m1c-单位比率.pdf>) |
+| 百分数 | 六年级 | 第1模块 D主题 | 百分数（Percent） | Eureka Math 六年级 第1模块 D主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m1d-百分数.png>) · [PDF](<海报/g6-m1d-百分数.pdf>) |
+| 分数除以分数 | 六年级 | 第2模块 A主题 | 分数除以分数（Dividing Fractions by Fractions） | Eureka Math 六年级 第2模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m2a-分数除以分数.png>) · [PDF](<海报/g6-m2a-分数除以分数.pdf>) |
+| 小数加减乘 | 六年级 | 第2模块 B主题 | 小数加减乘（Multi-Digit Decimal Operations—Adding, Subtracting, and Multiplying） | Eureka Math 六年级 第2模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m2b-小数加减乘.png>) · [PDF](<海报/g6-m2b-小数加减乘.pdf>) |
+| 多位数和小数除法 | 六年级 | 第2模块 C主题 | 整数和小数的除法（Dividing Whole Numbers and Decimals） | Eureka Math 六年级 第2模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m2c-整数和小数的除法.png>) · [PDF](<海报/g6-m2c-整数和小数的除法.pdf>) |
+| 数论 | 六年级 | 第2模块 D主题 | 数论（Number Theory—Thinking Logically About Multiplicative Arithmetic） | Eureka Math 六年级 第2模块 D主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m2d-数论.png>) · [PDF](<海报/g6-m2d-数论.pdf>) |
+| 正数和负数 | 六年级 | 第3模块 A主题 | 数轴上的正数和负数（Understanding Positive and Negative Numbers on the Number Line） | Eureka Math 六年级 第3模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m3a-数轴上的正数和负数.png>) · [PDF](<海报/g6-m3a-数轴上的正数和负数.pdf>) |
+| 顺序和绝对值 | 六年级 | 第3模块 B主题 | 顺序和绝对值（Order and Absolute Value） | Eureka Math 六年级 第3模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m3b-顺序和绝对值.png>) · [PDF](<海报/g6-m3b-顺序和绝对值.pdf>) |
+| 坐标平面 | 六年级 | 第3模块 C主题 | 有理数与坐标平面（Rational Numbers and the Coordinate Plane） | Eureka Math 六年级 第3模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m3c-有理数与坐标平面.png>) · [PDF](<海报/g6-m3c-有理数与坐标平面.pdf>) |
+| 运算之间的关系 | 六年级 | 第4模块 A主题 | 运算之间的关系（Relationships of the Operations） | Eureka Math 六年级 第4模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m4a-运算之间的关系.png>) · [PDF](<海报/g6-m4a-运算之间的关系.pdf>) |
+| 指数和运算顺序 | 六年级 | 第4模块 B主题 | 运算的特殊记法（Special Notations of Operations） | Eureka Math 六年级 第4模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m4b-运算的特殊记法.png>) · [PDF](<海报/g6-m4b-运算的特殊记法.pdf>) |
+| 字母与数 | 六年级 | 第4模块 C主题 | 字母与数（Replacing Letters and Numbers） | Eureka Math 六年级 第4模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m4c-字母与数.png>) · [PDF](<海报/g6-m4c-字母与数.pdf>) |
+| 展开和提取公因数 | 六年级 | 第4模块 D主题 | 展开、因式分解与分配（Expanding, Factoring, and Distributing Expressions） | Eureka Math 六年级 第4模块 D主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m4d-展开因式分解与分配.png>) · [PDF](<海报/g6-m4d-展开因式分解与分配.pdf>) |
+| 读写代数式 | 六年级 | 第4模块 E主题 | 用代数式表示运算（Expressing Operations in Algebraic Form） | Eureka Math 六年级 第4模块 E主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m4e-用代数式表示运算.png>) · [PDF](<海报/g6-m4e-用代数式表示运算.pdf>) |
+| 列式和求值 | 六年级 | 第4模块 F主题 | 写式子和求值（Writing and Evaluating Expressions and Formulas） | Eureka Math 六年级 第4模块 F主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m4f-写式子和求值.png>) · [PDF](<海报/g6-m4f-写式子和求值.pdf>) |
+| 解方程 | 六年级 | 第4模块 G主题 | 解方程（Solving Equations） | Eureka Math 六年级 第4模块 G主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m4g-解方程.png>) · [PDF](<海报/g6-m4g-解方程.pdf>) |
+| 方程和不等式应用 | 六年级 | 第4模块 H主题 | 方程的应用（Applications of Equations） | Eureka Math 六年级 第4模块 H主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m4h-方程的应用.png>) · [PDF](<海报/g6-m4h-方程的应用.pdf>) |
+| 三角形和多边形面积 | 六年级 | 第5模块 A主题 | 三角形和多边形的面积（Area of Triangles, Quadrilaterals, and Polygons） | Eureka Math 六年级 第5模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m5a-三角形和多边形的面积.png>) · [PDF](<海报/g6-m5a-三角形和多边形的面积.pdf>) |
+| 坐标平面上的多边形 | 六年级 | 第5模块 B主题 | 坐标平面上的多边形（Polygons on the Coordinate Plane） | Eureka Math 六年级 第5模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m5b-坐标平面上的多边形.png>) · [PDF](<海报/g6-m5b-坐标平面上的多边形.pdf>) |
+| 长方体的体积 | 六年级 | 第5模块 C主题 | 长方体的体积（Volume of Right Rectangular Prisms） | Eureka Math 六年级 第5模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m5c-长方体的体积.png>) · [PDF](<海报/g6-m5c-长方体的体积.pdf>) |
+| 展开图和表面积 | 六年级 | 第5模块 D主题 | 展开图和表面积（Nets and Surface Area） | Eureka Math 六年级 第5模块 D主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m5d-展开图和表面积.png>) · [PDF](<海报/g6-m5d-展开图和表面积.pdf>) |
+| 理解分布 | 六年级 | 第6模块 A主题 | 理解分布（Understanding Distributions） | Eureka Math 六年级 第6模块 A主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m6a-理解分布.png>) · [PDF](<海报/g6-m6a-理解分布.pdf>) |
+| 平均数和 MAD | 六年级 | 第6模块 B主题 | 平均数和平均绝对偏差（Summarizing a Distribution That Is Approximately Symmetric Using the Mean and Mean Absolute Deviation） | Eureka Math 六年级 第6模块 B主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m6b-平均数和平均绝对偏差.png>) · [PDF](<海报/g6-m6b-平均数和平均绝对偏差.pdf>) |
+| 中位数和四分位距 | 六年级 | 第6模块 C主题 | 中位数和四分位距（Summarizing a Distribution That Is Skewed Using the Median and the Interquartile Range） | Eureka Math 六年级 第6模块 C主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m6c-中位数和四分位距.png>) · [PDF](<海报/g6-m6c-中位数和四分位距.pdf>) |
+| 统计项目 | 六年级 | 第6模块 D主题 | 概括和描述分布（Summarizing and Describing Distributions） | Eureka Math 六年级 第6模块 D主题 · Great Minds（CC BY-NC-SA 4.0） | [PNG](<海报/g6-m6d-概括和描述分布.png>) · [PDF](<海报/g6-m6d-概括和描述分布.pdf>) |
